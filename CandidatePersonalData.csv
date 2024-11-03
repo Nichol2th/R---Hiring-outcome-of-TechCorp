@@ -1,0 +1,3501 @@
+Candidate ID,Age,Gender,Position Applied For,Years of Experience,Education Level,Graduated from Elite College,Different Location,LinkedIn Profile,LinkedIn Connections
+1,24,Male,Software Engineer,9,PhD,No,Yes,No,0
+2,23,Female,Software Engineer,7,PhD,No,No,Yes,642
+3,30,Female,Web Developer,9,Bachelor's,No,No,Yes,427
+4,23,Male,System Analyst,7,High School,No,No,No,0
+5,29,Female,Database Administrator,0,Bachelor's,No,No,No,0
+6,30,Male,Data Scientist,7,High School,Yes,No,No,0
+7,22,Male,Data Scientist,10,High School,Yes,Yes,Yes,232
+8,27,Male,System Analyst,1,PhD,No,No,No,0
+9,30,Female,Web Developer,10,Bachelor's,No,Yes,No,0
+10,25,Male,Data Scientist,7,Bachelor's,No,Yes,No,0
+11,31,Female,Data Scientist,7,Master's,No,Yes,No,0
+12,31,Female,Data Scientist,5,Master's,No,No,No,0
+13,22,Female,Data Scientist,3,Master's,No,Yes,No,0
+14,30,Female,Web Developer,5,PhD,No,No,No,0
+15,29,Female,Data Scientist,5,PhD,No,Yes,Yes,858
+16,27,Female,Software Engineer,10,High School,No,No,Yes,194
+17,24,Male,Software Engineer,5,PhD,No,Yes,Yes,132
+18,28,Male,Web Developer,9,Master's,Yes,No,No,0
+19,25,Male,Software Engineer,0,Bachelor's,Yes,Yes,No,0
+20,22,Male,Web Developer,4,Bachelor's,No,Yes,No,0
+21,22,Female,Web Developer,6,High School,No,No,Yes,415
+22,28,Female,System Analyst,9,PhD,No,No,Yes,779
+23,23,Male,System Analyst,8,Bachelor's,Yes,Yes,No,0
+24,23,Male,Software Engineer,9,Bachelor's,Yes,Yes,No,0
+25,24,Female,Web Developer,8,High School,No,Yes,Yes,288
+26,30,Female,System Analyst,8,Bachelor's,Yes,No,No,0
+27,27,Female,Software Engineer,4,PhD,No,No,No,0
+28,24,Female,Software Engineer,10,Bachelor's,No,Yes,No,0
+29,24,Male,System Analyst,1,Bachelor's,No,No,No,0
+30,24,Male,Web Developer,0,PhD,Yes,No,No,0
+31,27,Male,Web Developer,9,Bachelor's,No,No,Yes,152
+32,29,Female,System Analyst,5,Master's,No,No,No,0
+33,31,Male,Data Scientist,0,Master's,No,No,No,0
+34,31,Male,Data Scientist,9,Bachelor's,No,Yes,No,0
+35,24,Female,System Analyst,8,Bachelor's,No,No,No,0
+36,23,Female,Database Administrator,0,High School,Yes,Yes,No,0
+37,22,Female,Software Engineer,8,Bachelor's,No,No,No,0
+38,24,Male,System Analyst,6,High School,Yes,Yes,Yes,63
+39,25,Female,Web Developer,5,High School,No,Yes,Yes,835
+40,30,Male,System Analyst,9,Master's,Yes,No,Yes,576
+41,25,Male,Web Developer,9,PhD,No,Yes,No,0
+42,23,Male,Data Scientist,7,High School,No,No,No,0
+43,24,Female,Software Engineer,10,Master's,No,No,No,0
+44,31,Male,System Analyst,4,PhD,Yes,Yes,No,0
+45,24,Male,System Analyst,0,PhD,No,Yes,No,0
+46,30,Female,Data Scientist,9,High School,No,Yes,Yes,83
+47,32,Male,Database Administrator,1,Master's,No,No,Yes,150
+48,29,Female,System Analyst,6,Master's,No,No,Yes,462
+49,23,Male,Database Administrator,10,PhD,No,Yes,No,0
+50,30,Male,Web Developer,7,Master's,No,Yes,No,0
+51,28,Female,Software Engineer,1,High School,No,Yes,Yes,73
+52,23,Female,Data Scientist,3,Master's,No,No,No,0
+53,22,Male,Database Administrator,2,High School,No,Yes,No,0
+54,26,Female,System Analyst,3,High School,No,Yes,Yes,470
+55,30,Male,Data Scientist,1,Bachelor's,No,Yes,No,0
+56,32,Female,Software Engineer,10,PhD,No,Yes,Yes,689
+57,25,Female,Software Engineer,2,PhD,No,No,No,0
+58,28,Male,Software Engineer,3,Master's,Yes,Yes,No,0
+59,24,Male,Web Developer,7,High School,No,Yes,No,0
+60,23,Female,Data Scientist,9,Master's,No,No,No,0
+61,24,Female,Data Scientist,2,Bachelor's,No,Yes,No,0
+62,26,Female,Software Engineer,5,Bachelor's,No,No,Yes,193
+63,31,Male,Web Developer,6,High School,Yes,No,No,0
+64,31,Male,Web Developer,10,Master's,Yes,Yes,No,0
+65,24,Male,Database Administrator,2,Bachelor's,No,Yes,No,0
+66,25,Female,System Analyst,8,Master's,Yes,Yes,No,0
+67,25,Male,Database Administrator,2,Bachelor's,No,No,No,0
+68,22,Female,Database Administrator,10,Bachelor's,Yes,No,No,0
+69,31,Female,Web Developer,0,PhD,No,Yes,No,0
+70,29,Female,Software Engineer,1,Master's,Yes,Yes,No,0
+71,24,Male,Software Engineer,9,High School,No,Yes,No,0
+72,27,Female,Data Scientist,3,PhD,No,Yes,Yes,693
+73,31,Female,Web Developer,7,High School,No,Yes,No,0
+74,23,Male,Database Administrator,6,Master's,No,No,No,0
+75,29,Female,System Analyst,10,High School,No,Yes,Yes,83
+76,28,Male,Data Scientist,5,Master's,Yes,No,No,0
+77,27,Male,Data Scientist,3,Master's,No,No,No,0
+78,25,Female,System Analyst,1,PhD,No,Yes,Yes,359
+79,22,Male,System Analyst,5,Bachelor's,No,Yes,Yes,31
+80,23,Female,Database Administrator,9,PhD,Yes,Yes,Yes,5
+81,29,Female,Web Developer,3,High School,No,No,No,0
+82,27,Female,System Analyst,6,PhD,No,No,No,0
+83,29,Female,System Analyst,4,Bachelor's,Yes,No,No,0
+84,31,Male,Database Administrator,10,Master's,No,No,No,0
+85,22,Male,Data Scientist,0,High School,No,No,No,0
+86,32,Female,Data Scientist,10,Bachelor's,No,Yes,Yes,650
+87,32,Male,Data Scientist,5,Master's,No,No,No,0
+88,26,Male,Data Scientist,1,Master's,No,No,Yes,414
+89,23,Female,System Analyst,5,Bachelor's,Yes,No,No,0
+90,22,Male,Data Scientist,0,Bachelor's,No,No,Yes,819
+91,24,Male,Software Engineer,4,PhD,No,Yes,No,0
+92,32,Male,Web Developer,4,High School,No,Yes,No,0
+93,24,Female,Web Developer,10,High School,No,No,Yes,351
+94,27,Male,Database Administrator,5,PhD,No,No,No,0
+95,22,Female,Web Developer,1,Master's,No,No,No,0
+96,29,Female,Web Developer,6,Master's,No,Yes,No,0
+97,32,Female,Data Scientist,0,High School,No,Yes,No,0
+98,24,Male,Database Administrator,10,PhD,Yes,Yes,No,0
+99,29,Female,Database Administrator,2,Master's,No,Yes,No,0
+100,24,Female,System Analyst,9,High School,Yes,No,No,0
+101,24,Female,Database Administrator,8,PhD,No,Yes,Yes,553
+102,25,Female,Software Engineer,2,PhD,No,No,Yes,915
+103,28,Female,System Analyst,6,High School,Yes,Yes,No,0
+104,28,Male,Software Engineer,2,PhD,No,No,Yes,707
+105,29,Female,Web Developer,1,High School,No,Yes,No,0
+106,25,Male,System Analyst,8,High School,Yes,Yes,No,0
+107,30,Female,Web Developer,9,Bachelor's,No,Yes,No,0
+108,29,Male,Web Developer,4,Master's,Yes,Yes,No,0
+109,24,Male,Database Administrator,9,Master's,Yes,No,No,0
+110,32,Female,System Analyst,6,Bachelor's,No,No,No,0
+111,31,Male,Software Engineer,4,Master's,No,No,Yes,317
+112,32,Female,Database Administrator,10,PhD,No,No,No,0
+113,23,Male,Database Administrator,10,Master's,No,Yes,No,0
+114,32,Male,Software Engineer,6,High School,No,No,Yes,822
+115,27,Male,Database Administrator,6,High School,No,No,Yes,383
+116,32,Male,Software Engineer,0,PhD,No,No,No,0
+117,26,Male,Data Scientist,7,Bachelor's,Yes,No,No,0
+118,28,Male,Web Developer,10,Master's,Yes,Yes,No,0
+119,27,Male,Database Administrator,6,High School,Yes,No,Yes,159
+120,31,Female,Data Scientist,4,Bachelor's,No,Yes,No,0
+121,31,Male,Database Administrator,2,Master's,No,Yes,No,0
+122,22,Female,Data Scientist,10,High School,No,Yes,No,0
+123,31,Male,Database Administrator,3,Bachelor's,Yes,No,Yes,180
+124,31,Female,Database Administrator,1,High School,Yes,No,No,0
+125,26,Male,System Analyst,3,High School,No,Yes,No,0
+126,27,Male,Software Engineer,8,PhD,No,No,Yes,920
+127,31,Male,Database Administrator,4,High School,Yes,No,Yes,862
+128,25,Male,Database Administrator,0,Master's,No,No,Yes,546
+129,27,Female,Web Developer,7,High School,No,No,No,0
+130,28,Female,Web Developer,10,High School,No,No,No,0
+131,27,Female,Data Scientist,8,PhD,No,No,No,0
+132,32,Male,Database Administrator,8,Master's,No,Yes,Yes,694
+133,24,Female,System Analyst,10,Master's,Yes,No,No,0
+134,30,Male,System Analyst,7,PhD,No,Yes,No,0
+135,27,Female,Data Scientist,6,Master's,No,Yes,No,0
+136,22,Female,Database Administrator,9,High School,No,No,Yes,488
+137,28,Male,System Analyst,4,Bachelor's,No,Yes,No,0
+138,27,Female,System Analyst,0,Master's,Yes,Yes,Yes,429
+139,24,Male,Software Engineer,8,Bachelor's,Yes,No,No,0
+140,29,Male,Web Developer,10,Master's,No,No,Yes,453
+141,32,Male,Database Administrator,0,High School,No,No,No,0
+142,29,Female,Data Scientist,5,Bachelor's,No,Yes,No,0
+143,30,Male,Data Scientist,2,Bachelor's,Yes,Yes,No,0
+144,26,Female,Web Developer,4,Bachelor's,No,Yes,Yes,140
+145,25,Female,Database Administrator,2,Bachelor's,No,Yes,Yes,725
+146,30,Female,Web Developer,5,PhD,No,No,No,0
+147,23,Male,Data Scientist,3,Bachelor's,Yes,No,Yes,901
+148,23,Male,Web Developer,5,Master's,No,No,No,0
+149,30,Female,Database Administrator,6,PhD,No,Yes,No,0
+150,27,Male,Data Scientist,5,PhD,No,No,No,0
+151,31,Male,Software Engineer,2,High School,No,Yes,No,0
+152,25,Female,Software Engineer,2,PhD,No,No,No,0
+153,31,Male,System Analyst,4,PhD,No,No,Yes,641
+154,25,Female,Web Developer,5,Bachelor's,No,Yes,No,0
+155,26,Female,Web Developer,6,PhD,No,No,No,0
+156,30,Male,Web Developer,5,Bachelor's,Yes,No,Yes,649
+157,30,Female,Software Engineer,4,Bachelor's,No,Yes,No,0
+158,27,Male,Data Scientist,0,PhD,No,No,No,0
+159,27,Female,Software Engineer,8,High School,Yes,No,Yes,940
+160,25,Female,Data Scientist,1,Bachelor's,No,Yes,No,0
+161,27,Male,System Analyst,7,PhD,No,No,No,0
+162,27,Male,Software Engineer,8,PhD,No,No,No,0
+163,23,Female,System Analyst,8,PhD,Yes,Yes,No,0
+164,24,Male,Software Engineer,6,PhD,No,No,Yes,580
+165,24,Male,Software Engineer,0,Bachelor's,Yes,Yes,No,0
+166,22,Female,System Analyst,9,PhD,No,No,No,0
+167,22,Male,Software Engineer,3,Master's,Yes,Yes,No,0
+168,30,Male,Software Engineer,6,PhD,Yes,No,No,0
+169,23,Male,Software Engineer,3,High School,No,No,No,0
+170,23,Male,Database Administrator,10,Bachelor's,No,Yes,No,0
+171,22,Female,Data Scientist,6,PhD,No,Yes,No,0
+172,31,Male,Database Administrator,9,Bachelor's,No,Yes,No,0
+173,27,Female,Web Developer,2,High School,Yes,Yes,No,0
+174,22,Female,System Analyst,2,Bachelor's,No,Yes,No,0
+175,31,Female,Web Developer,1,Bachelor's,Yes,Yes,No,0
+176,32,Male,Web Developer,3,PhD,No,Yes,No,0
+177,30,Male,Data Scientist,3,Bachelor's,No,No,No,0
+178,24,Female,Database Administrator,4,High School,No,Yes,No,0
+179,29,Male,Web Developer,2,PhD,No,No,Yes,303
+180,31,Male,Database Administrator,9,Bachelor's,Yes,No,No,0
+181,26,Female,Web Developer,7,PhD,Yes,No,No,0
+182,26,Female,System Analyst,3,Master's,No,No,Yes,285
+183,30,Female,Web Developer,5,Master's,No,Yes,No,0
+184,30,Female,Data Scientist,4,High School,No,No,No,0
+185,26,Female,Database Administrator,4,Bachelor's,No,No,No,0
+186,32,Female,Database Administrator,3,Master's,No,Yes,No,0
+187,29,Male,Database Administrator,4,Bachelor's,No,No,No,0
+188,29,Female,Software Engineer,7,High School,No,No,No,0
+189,28,Female,Database Administrator,7,High School,Yes,No,Yes,197
+190,26,Male,Data Scientist,1,Bachelor's,Yes,No,No,0
+191,23,Male,Web Developer,0,Bachelor's,Yes,Yes,Yes,431
+192,27,Male,Database Administrator,9,Bachelor's,No,Yes,Yes,608
+193,29,Male,Web Developer,3,High School,No,No,No,0
+194,24,Male,Web Developer,5,PhD,Yes,Yes,Yes,673
+195,32,Female,Web Developer,9,Bachelor's,Yes,No,Yes,990
+196,27,Male,Database Administrator,5,PhD,No,Yes,No,0
+197,27,Male,Database Administrator,0,Bachelor's,No,No,Yes,85
+198,30,Male,Software Engineer,6,Master's,No,Yes,No,0
+199,22,Male,System Analyst,7,Bachelor's,No,No,No,0
+200,22,Male,Database Administrator,3,Bachelor's,No,Yes,Yes,272
+201,31,Male,Database Administrator,4,Master's,No,Yes,No,0
+202,31,Female,Web Developer,6,Master's,No,Yes,Yes,756
+203,23,Male,Web Developer,2,Master's,No,Yes,No,0
+204,24,Female,System Analyst,4,Bachelor's,Yes,No,Yes,453
+205,29,Male,Data Scientist,0,PhD,No,No,No,0
+206,25,Female,Database Administrator,2,Bachelor's,No,Yes,Yes,434
+207,30,Male,Software Engineer,3,High School,No,Yes,No,0
+208,29,Male,Software Engineer,1,PhD,No,Yes,Yes,220
+209,29,Female,Data Scientist,4,Master's,No,Yes,Yes,290
+210,32,Male,Software Engineer,0,Master's,No,Yes,No,0
+211,28,Female,Web Developer,1,PhD,No,Yes,No,0
+212,32,Female,Database Administrator,9,Master's,No,Yes,No,0
+213,28,Female,Data Scientist,9,PhD,No,No,No,0
+214,22,Male,Software Engineer,6,High School,Yes,Yes,Yes,457
+215,31,Female,System Analyst,3,High School,Yes,No,No,0
+216,25,Male,Web Developer,3,PhD,No,No,No,0
+217,27,Male,System Analyst,10,High School,No,No,No,0
+218,32,Male,Software Engineer,5,Master's,No,Yes,No,0
+219,28,Male,System Analyst,9,PhD,Yes,No,No,0
+220,24,Male,Data Scientist,6,PhD,No,Yes,Yes,86
+221,27,Female,Data Scientist,8,Master's,No,No,Yes,727
+222,28,Male,Database Administrator,4,Bachelor's,No,Yes,No,0
+223,29,Male,Database Administrator,8,PhD,No,Yes,No,0
+224,24,Male,Data Scientist,8,PhD,Yes,No,No,0
+225,22,Male,Software Engineer,2,High School,No,No,No,0
+226,26,Male,Web Developer,1,High School,Yes,No,No,0
+227,32,Male,Web Developer,9,Bachelor's,No,No,No,0
+228,22,Female,Software Engineer,9,PhD,No,Yes,No,0
+229,25,Male,Data Scientist,9,PhD,No,No,Yes,781
+230,32,Female,Web Developer,7,Master's,No,No,No,0
+231,25,Female,Database Administrator,9,High School,Yes,Yes,No,0
+232,28,Female,Database Administrator,5,PhD,No,No,No,0
+233,30,Female,Software Engineer,5,PhD,No,Yes,No,0
+234,28,Male,System Analyst,1,Master's,No,Yes,No,0
+235,24,Female,Database Administrator,9,High School,No,Yes,No,0
+236,22,Male,Software Engineer,0,Bachelor's,No,Yes,Yes,888
+237,31,Male,Database Administrator,4,High School,No,No,No,0
+238,29,Female,Web Developer,2,PhD,Yes,Yes,No,0
+239,22,Female,Web Developer,7,Bachelor's,No,Yes,Yes,495
+240,24,Male,System Analyst,10,High School,No,No,No,0
+241,25,Female,System Analyst,8,Master's,No,No,Yes,243
+242,32,Female,Web Developer,0,PhD,No,Yes,No,0
+243,24,Female,System Analyst,9,PhD,Yes,No,No,0
+244,26,Male,Data Scientist,8,Bachelor's,Yes,No,Yes,991
+245,24,Female,Database Administrator,1,Master's,Yes,Yes,No,0
+246,26,Female,System Analyst,1,Bachelor's,No,Yes,No,0
+247,25,Female,Software Engineer,5,High School,Yes,Yes,No,0
+248,22,Female,Data Scientist,3,PhD,No,No,No,0
+249,32,Female,Software Engineer,5,PhD,No,Yes,Yes,488
+250,32,Male,Web Developer,6,High School,No,Yes,No,0
+251,25,Female,Software Engineer,4,High School,No,No,Yes,192
+252,24,Female,Data Scientist,6,Master's,Yes,Yes,No,0
+253,32,Female,Data Scientist,3,Master's,Yes,Yes,No,0
+254,27,Female,Data Scientist,3,Master's,No,Yes,No,0
+255,28,Male,System Analyst,4,High School,No,No,No,0
+256,28,Male,Database Administrator,9,Master's,No,No,Yes,858
+257,29,Female,System Analyst,1,Bachelor's,Yes,Yes,No,0
+258,23,Male,Database Administrator,8,High School,Yes,Yes,Yes,214
+259,31,Male,Database Administrator,8,Master's,Yes,Yes,No,0
+260,25,Male,Data Scientist,8,High School,Yes,Yes,No,0
+261,26,Female,System Analyst,9,PhD,No,Yes,No,0
+262,22,Male,Data Scientist,2,Master's,Yes,No,No,0
+263,31,Male,System Analyst,9,PhD,No,Yes,Yes,888
+264,30,Male,Software Engineer,6,Master's,No,Yes,Yes,107
+265,23,Female,Database Administrator,8,Master's,No,Yes,No,0
+266,28,Male,Web Developer,5,PhD,No,Yes,No,0
+267,24,Female,System Analyst,9,Master's,No,No,No,0
+268,23,Female,Web Developer,0,Bachelor's,No,No,No,0
+269,26,Female,Software Engineer,9,High School,Yes,Yes,No,0
+270,32,Female,Web Developer,8,Bachelor's,Yes,No,Yes,575
+271,31,Female,Web Developer,6,High School,No,No,Yes,767
+272,28,Male,Data Scientist,8,PhD,No,No,Yes,917
+273,25,Male,Software Engineer,3,Master's,No,No,No,0
+274,26,Male,Database Administrator,2,Master's,No,No,Yes,499
+275,28,Male,Data Scientist,4,PhD,No,No,No,0
+276,24,Male,Web Developer,7,Bachelor's,Yes,Yes,No,0
+277,26,Male,Data Scientist,6,PhD,No,Yes,No,0
+278,25,Male,Web Developer,3,PhD,No,Yes,No,0
+279,30,Female,System Analyst,1,PhD,No,No,No,0
+280,29,Female,Data Scientist,3,PhD,No,No,No,0
+281,32,Female,Data Scientist,0,Master's,No,No,No,0
+282,29,Male,System Analyst,8,High School,No,No,Yes,770
+283,31,Female,Software Engineer,4,Master's,No,No,No,0
+284,24,Male,Software Engineer,3,Bachelor's,No,No,No,0
+285,32,Male,Data Scientist,10,High School,No,No,No,0
+286,23,Male,System Analyst,6,High School,Yes,No,No,0
+287,26,Female,Data Scientist,7,Bachelor's,No,No,No,0
+288,28,Female,Web Developer,7,Bachelor's,Yes,Yes,No,0
+289,32,Male,Web Developer,1,Master's,No,Yes,Yes,652
+290,25,Female,Software Engineer,6,Bachelor's,Yes,No,No,0
+291,29,Male,Web Developer,1,High School,No,Yes,No,0
+292,30,Male,Software Engineer,4,Master's,No,No,No,0
+293,24,Male,Data Scientist,4,Master's,No,No,Yes,951
+294,26,Female,System Analyst,7,High School,Yes,Yes,No,0
+295,24,Female,System Analyst,4,High School,No,Yes,No,0
+296,25,Female,Data Scientist,3,Master's,No,Yes,No,0
+297,25,Female,Software Engineer,7,PhD,No,No,No,0
+298,27,Male,Database Administrator,1,High School,Yes,No,Yes,411
+299,28,Male,Software Engineer,6,PhD,No,No,No,0
+300,27,Male,System Analyst,2,PhD,Yes,Yes,Yes,88
+301,27,Female,Data Scientist,5,Master's,No,Yes,No,0
+302,31,Male,System Analyst,9,Bachelor's,No,No,No,0
+303,23,Male,System Analyst,3,PhD,Yes,No,No,0
+304,31,Male,Software Engineer,7,Master's,No,No,No,0
+305,32,Female,Web Developer,5,Master's,No,Yes,No,0
+306,25,Female,Database Administrator,1,Bachelor's,Yes,No,Yes,58
+307,25,Male,Software Engineer,9,Master's,No,No,No,0
+308,31,Male,Data Scientist,2,Master's,No,Yes,No,0
+309,28,Female,Data Scientist,10,Master's,No,Yes,Yes,83
+310,30,Female,Data Scientist,9,Bachelor's,No,No,No,0
+311,24,Male,Web Developer,6,Bachelor's,No,No,No,0
+312,28,Male,System Analyst,1,Bachelor's,No,Yes,Yes,251
+313,25,Male,Database Administrator,0,PhD,Yes,Yes,Yes,786
+314,25,Female,Data Scientist,2,PhD,No,Yes,Yes,438
+315,29,Male,Web Developer,3,PhD,No,Yes,No,0
+316,32,Male,Database Administrator,0,High School,No,Yes,Yes,399
+317,28,Male,Web Developer,1,Bachelor's,No,Yes,Yes,111
+318,30,Female,Data Scientist,7,High School,No,Yes,No,0
+319,23,Male,System Analyst,6,PhD,Yes,Yes,No,0
+320,31,Female,Database Administrator,0,High School,No,Yes,Yes,733
+321,28,Female,Software Engineer,0,Bachelor's,Yes,Yes,Yes,406
+322,24,Female,System Analyst,7,Bachelor's,Yes,No,No,0
+323,30,Male,Database Administrator,0,PhD,No,No,No,0
+324,29,Male,Web Developer,9,High School,Yes,Yes,No,0
+325,31,Female,Data Scientist,5,PhD,Yes,Yes,No,0
+326,31,Female,System Analyst,5,PhD,Yes,No,No,0
+327,26,Female,Software Engineer,4,Bachelor's,No,Yes,No,0
+328,32,Female,System Analyst,8,High School,Yes,No,Yes,974
+329,30,Male,System Analyst,8,Bachelor's,Yes,No,No,0
+330,31,Female,Data Scientist,9,Bachelor's,No,No,No,0
+331,27,Male,Software Engineer,2,PhD,Yes,Yes,No,0
+332,24,Female,Web Developer,4,High School,Yes,Yes,No,0
+333,28,Female,System Analyst,8,Bachelor's,Yes,Yes,No,0
+334,30,Male,Software Engineer,9,Master's,No,Yes,No,0
+335,24,Male,Web Developer,1,Master's,Yes,Yes,Yes,907
+336,22,Male,Database Administrator,1,Master's,No,No,No,0
+337,24,Male,Database Administrator,9,Bachelor's,No,No,No,0
+338,31,Female,Web Developer,10,High School,Yes,Yes,No,0
+339,32,Female,Database Administrator,7,Master's,No,Yes,No,0
+340,27,Female,Software Engineer,8,High School,Yes,Yes,No,0
+341,22,Female,Web Developer,8,Bachelor's,No,Yes,No,0
+342,29,Female,Web Developer,9,PhD,Yes,No,No,0
+343,23,Male,System Analyst,9,Master's,No,No,No,0
+344,24,Male,Database Administrator,0,Master's,No,No,Yes,592
+345,25,Female,Software Engineer,2,PhD,No,Yes,Yes,573
+346,29,Male,Web Developer,0,Master's,No,Yes,No,0
+347,27,Male,Database Administrator,7,Bachelor's,No,Yes,No,0
+348,28,Female,Software Engineer,0,High School,No,No,Yes,776
+349,30,Male,System Analyst,10,Master's,No,Yes,No,0
+350,29,Female,Web Developer,6,PhD,No,Yes,Yes,340
+351,28,Male,Database Administrator,6,Bachelor's,No,Yes,No,0
+352,32,Female,Web Developer,4,High School,No,Yes,Yes,494
+353,27,Male,Database Administrator,8,Bachelor's,No,Yes,No,0
+354,28,Male,Data Scientist,6,PhD,Yes,No,No,0
+355,26,Male,Data Scientist,0,PhD,Yes,Yes,Yes,381
+356,29,Female,Web Developer,0,PhD,Yes,No,No,0
+357,23,Male,Database Administrator,4,Master's,No,No,Yes,402
+358,25,Male,Web Developer,7,PhD,No,No,Yes,422
+359,22,Male,Database Administrator,0,PhD,No,Yes,Yes,322
+360,23,Male,Data Scientist,3,Bachelor's,No,No,No,0
+361,30,Male,Web Developer,2,PhD,No,No,No,0
+362,32,Male,Data Scientist,8,PhD,No,Yes,Yes,930
+363,26,Female,Software Engineer,9,Bachelor's,No,Yes,No,0
+364,28,Female,System Analyst,1,PhD,No,No,No,0
+365,25,Female,Web Developer,4,High School,No,No,No,0
+366,22,Male,Web Developer,6,High School,Yes,No,No,0
+367,29,Female,Database Administrator,9,Master's,No,Yes,No,0
+368,27,Male,Web Developer,1,High School,No,Yes,No,0
+369,31,Male,Software Engineer,5,Bachelor's,No,Yes,No,0
+370,25,Male,Database Administrator,0,Bachelor's,No,No,No,0
+371,32,Female,System Analyst,3,PhD,No,No,No,0
+372,26,Male,Data Scientist,9,Bachelor's,No,No,No,0
+373,28,Female,System Analyst,7,PhD,No,No,No,0
+374,22,Female,Data Scientist,6,PhD,No,Yes,No,0
+375,31,Female,System Analyst,10,High School,No,No,Yes,415
+376,27,Female,Data Scientist,7,Bachelor's,No,Yes,No,0
+377,26,Male,Web Developer,6,High School,Yes,Yes,No,0
+378,32,Male,Data Scientist,9,Bachelor's,No,No,No,0
+379,24,Male,System Analyst,1,PhD,Yes,No,Yes,441
+380,28,Male,Web Developer,2,Master's,No,Yes,No,0
+381,26,Male,Software Engineer,4,High School,No,Yes,Yes,46
+382,23,Female,Web Developer,6,Master's,No,No,No,0
+383,23,Male,Data Scientist,9,PhD,Yes,Yes,Yes,939
+384,23,Female,System Analyst,3,Master's,No,Yes,No,0
+385,30,Female,Software Engineer,10,Bachelor's,No,Yes,No,0
+386,22,Male,Database Administrator,9,Master's,Yes,Yes,No,0
+387,27,Male,System Analyst,6,High School,Yes,Yes,No,0
+388,25,Female,Software Engineer,8,Bachelor's,No,Yes,No,0
+389,31,Male,Database Administrator,8,Master's,No,Yes,Yes,214
+390,26,Female,Data Scientist,5,PhD,No,Yes,Yes,395
+391,28,Male,Software Engineer,10,Bachelor's,Yes,Yes,Yes,906
+392,26,Male,Database Administrator,2,High School,No,Yes,Yes,513
+393,25,Male,System Analyst,2,Bachelor's,No,Yes,No,0
+394,31,Female,Web Developer,4,Bachelor's,No,No,Yes,466
+395,26,Female,System Analyst,5,Bachelor's,No,Yes,No,0
+396,31,Female,Data Scientist,2,Bachelor's,No,No,Yes,585
+397,24,Male,Web Developer,2,Master's,Yes,Yes,No,0
+398,27,Male,Web Developer,4,Bachelor's,No,No,No,0
+399,27,Female,Database Administrator,9,PhD,No,No,No,0
+400,29,Male,Database Administrator,1,PhD,Yes,No,No,0
+401,22,Male,Database Administrator,7,Master's,Yes,No,Yes,488
+402,28,Male,Data Scientist,2,High School,No,Yes,No,0
+403,22,Male,Web Developer,0,PhD,No,Yes,No,0
+404,22,Female,Software Engineer,3,Master's,Yes,Yes,No,0
+405,22,Male,Web Developer,5,Master's,No,No,No,0
+406,23,Female,Database Administrator,6,Master's,No,No,No,0
+407,27,Female,Software Engineer,7,PhD,No,Yes,No,0
+408,29,Female,Web Developer,5,Bachelor's,No,Yes,No,0
+409,32,Male,Data Scientist,4,Master's,Yes,No,Yes,590
+410,26,Male,Web Developer,5,Bachelor's,No,Yes,No,0
+411,28,Male,Web Developer,0,Master's,No,No,No,0
+412,27,Male,Web Developer,1,High School,No,No,No,0
+413,24,Male,Web Developer,6,PhD,No,Yes,No,0
+414,23,Female,Database Administrator,6,Bachelor's,No,No,Yes,571
+415,25,Female,Software Engineer,10,High School,No,Yes,No,0
+416,27,Male,Database Administrator,6,High School,No,No,Yes,926
+417,24,Male,System Analyst,2,High School,No,No,Yes,859
+418,22,Female,Software Engineer,3,Master's,Yes,No,No,0
+419,30,Female,Database Administrator,10,Master's,No,Yes,No,0
+420,27,Female,Software Engineer,9,PhD,No,No,No,0
+421,30,Male,Data Scientist,4,Master's,No,No,Yes,493
+422,26,Male,Data Scientist,7,Bachelor's,Yes,Yes,No,0
+423,24,Male,Web Developer,8,Bachelor's,No,No,Yes,515
+424,26,Female,Database Administrator,8,High School,No,Yes,No,0
+425,24,Male,System Analyst,3,Bachelor's,No,Yes,Yes,629
+426,22,Male,Web Developer,0,Bachelor's,No,Yes,No,0
+427,28,Male,Web Developer,4,PhD,No,No,No,0
+428,23,Female,Data Scientist,7,PhD,No,No,No,0
+429,30,Female,Database Administrator,7,Bachelor's,No,Yes,No,0
+430,29,Female,Software Engineer,1,Bachelor's,No,Yes,Yes,793
+431,31,Female,Web Developer,7,PhD,Yes,No,No,0
+432,32,Male,Web Developer,6,Bachelor's,No,Yes,No,0
+433,25,Female,System Analyst,8,Master's,No,Yes,No,0
+434,28,Male,Data Scientist,5,Bachelor's,No,No,No,0
+435,30,Male,System Analyst,6,High School,No,No,No,0
+436,25,Female,System Analyst,2,Bachelor's,Yes,No,No,0
+437,28,Male,System Analyst,6,High School,Yes,No,Yes,907
+438,27,Female,Data Scientist,10,Bachelor's,No,No,No,0
+439,30,Male,Software Engineer,1,Master's,No,No,No,0
+440,25,Female,Database Administrator,2,High School,Yes,Yes,No,0
+441,31,Female,Web Developer,9,High School,No,No,No,0
+442,22,Female,Software Engineer,9,Bachelor's,No,Yes,No,0
+443,32,Female,System Analyst,7,High School,No,Yes,Yes,879
+444,28,Female,Web Developer,7,Master's,No,Yes,No,0
+445,27,Male,Web Developer,2,Master's,Yes,Yes,No,0
+446,30,Male,Software Engineer,5,Master's,No,No,Yes,101
+447,28,Male,Web Developer,3,Master's,No,Yes,No,0
+448,32,Male,System Analyst,6,Bachelor's,Yes,Yes,No,0
+449,22,Male,Data Scientist,6,High School,Yes,Yes,Yes,129
+450,25,Female,Data Scientist,6,PhD,No,No,No,0
+451,26,Male,Data Scientist,5,High School,No,Yes,Yes,577
+452,30,Female,Web Developer,10,High School,Yes,No,Yes,620
+453,22,Female,System Analyst,10,High School,Yes,No,No,0
+454,23,Male,System Analyst,10,Bachelor's,No,Yes,Yes,693
+455,31,Female,System Analyst,6,High School,No,No,No,0
+456,25,Male,System Analyst,2,Bachelor's,No,Yes,Yes,948
+457,29,Female,System Analyst,10,PhD,Yes,Yes,No,0
+458,24,Male,Web Developer,2,High School,No,Yes,No,0
+459,23,Female,Web Developer,4,PhD,No,Yes,No,0
+460,27,Female,Software Engineer,2,PhD,No,Yes,No,0
+461,32,Male,Data Scientist,6,PhD,No,No,Yes,267
+462,22,Male,Database Administrator,2,Master's,No,Yes,No,0
+463,27,Female,Software Engineer,8,PhD,No,Yes,No,0
+464,23,Female,Web Developer,2,High School,Yes,No,No,0
+465,32,Female,Software Engineer,0,Master's,No,Yes,No,0
+466,30,Female,Database Administrator,3,Bachelor's,Yes,Yes,No,0
+467,26,Male,Data Scientist,4,High School,No,Yes,No,0
+468,28,Female,Data Scientist,0,Master's,No,Yes,No,0
+469,27,Female,Web Developer,7,Bachelor's,Yes,Yes,No,0
+470,29,Male,Data Scientist,4,Master's,No,Yes,No,0
+471,22,Male,Data Scientist,9,High School,Yes,No,No,0
+472,29,Male,Software Engineer,2,Master's,No,No,No,0
+473,29,Male,Data Scientist,0,Bachelor's,No,Yes,Yes,52
+474,27,Female,Data Scientist,7,PhD,No,No,No,0
+475,23,Male,System Analyst,9,Bachelor's,Yes,Yes,No,0
+476,24,Female,Database Administrator,5,High School,No,No,No,0
+477,30,Male,Software Engineer,8,Bachelor's,No,No,No,0
+478,31,Female,System Analyst,3,PhD,No,No,No,0
+479,22,Female,Data Scientist,3,High School,Yes,Yes,No,0
+480,30,Male,Software Engineer,0,Master's,Yes,Yes,No,0
+481,32,Male,Database Administrator,5,PhD,No,Yes,No,0
+482,24,Male,Software Engineer,8,Bachelor's,No,No,No,0
+483,23,Male,Data Scientist,7,Master's,No,No,No,0
+484,29,Female,Software Engineer,4,High School,No,No,Yes,170
+485,23,Male,Software Engineer,5,Bachelor's,No,No,No,0
+486,29,Female,Database Administrator,10,High School,Yes,Yes,Yes,646
+487,27,Female,System Analyst,1,High School,No,Yes,Yes,736
+488,29,Male,Database Administrator,7,PhD,Yes,Yes,No,0
+489,31,Female,System Analyst,2,Master's,No,Yes,No,0
+490,32,Female,System Analyst,1,Master's,No,Yes,No,0
+491,29,Female,Web Developer,9,Bachelor's,No,No,No,0
+492,26,Male,System Analyst,9,PhD,No,No,Yes,777
+493,31,Female,System Analyst,10,Master's,Yes,No,No,0
+494,26,Male,Software Engineer,0,Bachelor's,No,No,No,0
+495,31,Male,Data Scientist,3,Master's,Yes,No,Yes,826
+496,25,Female,System Analyst,3,PhD,No,Yes,No,0
+497,24,Male,Web Developer,4,PhD,No,Yes,No,0
+498,27,Male,Web Developer,6,High School,No,Yes,No,0
+499,26,Female,System Analyst,3,PhD,No,No,Yes,537
+500,25,Male,System Analyst,1,Bachelor's,No,No,No,0
+501,23,Male,Database Administrator,8,Master's,No,Yes,Yes,899
+502,32,Male,Software Engineer,6,PhD,No,No,No,0
+503,28,Male,Data Scientist,10,PhD,No,Yes,No,0
+504,24,Female,System Analyst,6,PhD,No,No,No,0
+505,22,Female,System Analyst,5,High School,No,No,No,0
+506,23,Female,Data Scientist,8,Master's,Yes,Yes,No,0
+507,23,Male,Web Developer,5,High School,Yes,No,Yes,570
+508,28,Male,Software Engineer,6,Master's,No,Yes,Yes,916
+509,24,Male,Software Engineer,5,Master's,No,Yes,Yes,755
+510,28,Female,System Analyst,10,Bachelor's,No,No,No,0
+511,28,Male,Data Scientist,5,High School,No,Yes,Yes,651
+512,29,Male,Data Scientist,3,PhD,No,Yes,No,0
+513,32,Female,Database Administrator,10,High School,Yes,Yes,No,0
+514,22,Female,System Analyst,4,PhD,No,Yes,No,0
+515,23,Male,System Analyst,0,PhD,No,No,No,0
+516,22,Female,System Analyst,3,Bachelor's,Yes,No,No,0
+517,27,Male,Web Developer,7,Master's,No,No,No,0
+518,30,Male,Database Administrator,8,High School,No,Yes,No,0
+519,27,Male,System Analyst,1,Bachelor's,No,Yes,No,0
+520,31,Female,Software Engineer,5,Bachelor's,Yes,No,Yes,324
+521,24,Male,Data Scientist,3,PhD,No,Yes,No,0
+522,28,Male,System Analyst,10,High School,No,Yes,No,0
+523,26,Male,Software Engineer,5,Bachelor's,Yes,Yes,No,0
+524,29,Female,Data Scientist,4,Bachelor's,Yes,Yes,No,0
+525,29,Female,Database Administrator,6,PhD,Yes,Yes,Yes,41
+526,26,Female,Software Engineer,4,Bachelor's,Yes,No,Yes,355
+527,27,Male,Web Developer,4,Bachelor's,No,Yes,No,0
+528,31,Female,Software Engineer,5,PhD,Yes,Yes,No,0
+529,25,Male,Web Developer,0,PhD,Yes,No,No,0
+530,30,Male,Database Administrator,10,Master's,No,No,No,0
+531,22,Male,System Analyst,10,High School,Yes,Yes,No,0
+532,22,Male,System Analyst,10,Master's,No,No,Yes,423
+533,30,Male,Database Administrator,0,Bachelor's,No,Yes,No,0
+534,32,Male,Software Engineer,8,Bachelor's,Yes,No,No,0
+535,31,Female,Database Administrator,0,PhD,No,No,Yes,257
+536,27,Male,Software Engineer,3,High School,No,Yes,Yes,395
+537,32,Female,Software Engineer,6,Bachelor's,No,No,Yes,97
+538,26,Female,Data Scientist,8,Bachelor's,No,No,Yes,766
+539,24,Female,Data Scientist,8,PhD,No,No,No,0
+540,28,Male,System Analyst,9,Bachelor's,No,No,No,0
+541,31,Female,Software Engineer,0,High School,Yes,No,No,0
+542,28,Female,Data Scientist,3,High School,Yes,Yes,No,0
+543,25,Female,Database Administrator,4,Master's,No,Yes,No,0
+544,32,Male,Web Developer,10,Master's,No,No,No,0
+545,27,Female,Database Administrator,4,PhD,No,Yes,Yes,167
+546,29,Female,Software Engineer,8,PhD,Yes,Yes,No,0
+547,29,Female,Data Scientist,9,PhD,Yes,No,Yes,909
+548,22,Female,System Analyst,10,Master's,No,Yes,Yes,824
+549,25,Male,Software Engineer,0,Master's,No,Yes,No,0
+550,25,Male,Web Developer,7,Master's,Yes,Yes,No,0
+551,26,Male,System Analyst,9,High School,Yes,No,Yes,813
+552,23,Male,Data Scientist,1,Bachelor's,No,Yes,Yes,296
+553,24,Male,Data Scientist,2,PhD,No,No,No,0
+554,29,Male,Software Engineer,4,High School,No,Yes,No,0
+555,32,Female,Database Administrator,4,Bachelor's,Yes,No,No,0
+556,24,Female,Web Developer,0,Master's,No,Yes,Yes,325
+557,24,Male,Software Engineer,5,Master's,Yes,Yes,Yes,162
+558,22,Male,Data Scientist,7,Master's,No,No,No,0
+559,25,Male,Data Scientist,8,High School,Yes,No,No,0
+560,23,Female,Database Administrator,8,Bachelor's,No,No,No,0
+561,29,Male,Database Administrator,2,Master's,No,No,No,0
+562,25,Female,System Analyst,10,Master's,Yes,Yes,Yes,76
+563,24,Female,Web Developer,10,High School,No,No,No,0
+564,25,Female,Data Scientist,3,Master's,No,Yes,No,0
+565,29,Female,Database Administrator,6,PhD,Yes,No,No,0
+566,25,Female,Web Developer,8,Master's,No,No,Yes,354
+567,24,Male,Database Administrator,9,High School,No,Yes,No,0
+568,25,Male,Web Developer,4,PhD,No,Yes,No,0
+569,23,Female,System Analyst,3,Master's,No,No,Yes,288
+570,27,Male,System Analyst,4,PhD,No,Yes,Yes,44
+571,22,Male,Software Engineer,9,High School,No,No,Yes,317
+572,22,Male,Database Administrator,6,PhD,No,No,Yes,421
+573,31,Female,Web Developer,7,PhD,No,No,Yes,656
+574,26,Male,Software Engineer,1,Bachelor's,No,No,No,0
+575,30,Male,Software Engineer,7,High School,Yes,Yes,No,0
+576,23,Female,System Analyst,4,PhD,No,Yes,No,0
+577,32,Male,Data Scientist,1,High School,No,Yes,No,0
+578,24,Female,Data Scientist,9,Master's,No,No,Yes,188
+579,26,Female,Software Engineer,6,PhD,No,Yes,No,0
+580,27,Male,Software Engineer,9,PhD,No,Yes,No,0
+581,22,Female,Web Developer,3,Bachelor's,No,Yes,No,0
+582,29,Male,Web Developer,6,PhD,Yes,Yes,No,0
+583,27,Male,Database Administrator,4,PhD,No,Yes,No,0
+584,24,Male,Data Scientist,0,PhD,No,Yes,No,0
+585,32,Male,Web Developer,10,PhD,No,Yes,No,0
+586,22,Female,Data Scientist,10,Master's,Yes,No,No,0
+587,24,Female,Database Administrator,9,PhD,No,Yes,No,0
+588,22,Female,Data Scientist,10,PhD,Yes,Yes,Yes,406
+589,31,Female,Data Scientist,2,Bachelor's,No,Yes,No,0
+590,23,Female,Software Engineer,8,High School,No,Yes,Yes,326
+591,29,Female,Software Engineer,0,High School,Yes,Yes,No,0
+592,22,Male,Database Administrator,3,Master's,No,Yes,No,0
+593,31,Male,Data Scientist,6,Bachelor's,No,Yes,Yes,567
+594,26,Male,Data Scientist,0,Master's,No,Yes,No,0
+595,31,Male,Database Administrator,4,PhD,No,Yes,No,0
+596,31,Female,Data Scientist,7,Bachelor's,No,Yes,No,0
+597,29,Male,Data Scientist,2,High School,Yes,Yes,No,0
+598,29,Male,Software Engineer,2,Bachelor's,Yes,Yes,No,0
+599,24,Male,Database Administrator,7,Bachelor's,No,Yes,No,0
+600,28,Male,Database Administrator,7,Bachelor's,No,Yes,No,0
+601,23,Male,Software Engineer,5,PhD,No,Yes,No,0
+602,27,Male,Data Scientist,10,PhD,Yes,Yes,Yes,30
+603,26,Male,Data Scientist,4,PhD,Yes,No,No,0
+604,29,Female,System Analyst,1,High School,No,No,Yes,121
+605,23,Female,Data Scientist,3,Master's,No,Yes,Yes,481
+606,23,Female,System Analyst,7,High School,No,Yes,No,0
+607,28,Male,Database Administrator,5,PhD,No,No,No,0
+608,23,Female,Database Administrator,6,Bachelor's,No,No,No,0
+609,32,Male,Software Engineer,7,Master's,No,Yes,Yes,651
+610,32,Female,Data Scientist,2,High School,Yes,Yes,Yes,223
+611,25,Male,Database Administrator,7,High School,No,Yes,No,0
+612,26,Male,Data Scientist,4,Master's,No,No,Yes,662
+613,29,Female,Web Developer,6,High School,No,Yes,No,0
+614,27,Male,Software Engineer,1,Master's,No,No,No,0
+615,30,Male,Web Developer,9,Master's,No,No,Yes,380
+616,28,Female,Web Developer,9,PhD,No,Yes,No,0
+617,23,Female,Software Engineer,0,Bachelor's,No,No,Yes,718
+618,30,Male,Web Developer,3,Master's,No,No,No,0
+619,22,Female,Data Scientist,8,Bachelor's,Yes,No,No,0
+620,26,Female,Database Administrator,9,Bachelor's,Yes,No,No,0
+621,31,Female,Database Administrator,2,Bachelor's,Yes,No,No,0
+622,26,Male,Web Developer,9,Master's,No,Yes,No,0
+623,22,Female,Web Developer,7,Master's,Yes,Yes,No,0
+624,26,Male,Software Engineer,1,Master's,No,No,Yes,829
+625,28,Male,Web Developer,8,PhD,No,Yes,No,0
+626,26,Female,Database Administrator,4,Bachelor's,Yes,No,No,0
+627,31,Male,Web Developer,4,High School,No,No,Yes,953
+628,26,Female,Software Engineer,4,High School,No,Yes,No,0
+629,30,Male,Data Scientist,10,Master's,No,No,No,0
+630,32,Male,Web Developer,8,PhD,No,Yes,Yes,335
+631,26,Female,System Analyst,3,PhD,No,No,Yes,284
+632,31,Male,Software Engineer,1,High School,Yes,No,No,0
+633,23,Male,System Analyst,7,Master's,Yes,No,No,0
+634,24,Female,Web Developer,10,Master's,Yes,Yes,Yes,666
+635,24,Female,Web Developer,8,Bachelor's,No,No,No,0
+636,31,Male,System Analyst,0,Master's,No,Yes,No,0
+637,31,Female,Data Scientist,6,PhD,No,No,Yes,304
+638,28,Female,System Analyst,8,High School,No,Yes,No,0
+639,27,Female,Web Developer,5,PhD,Yes,No,No,0
+640,30,Female,Web Developer,6,Bachelor's,No,No,Yes,196
+641,32,Female,Data Scientist,9,Master's,No,Yes,No,0
+642,27,Male,Database Administrator,10,High School,No,Yes,Yes,227
+643,23,Male,Web Developer,6,PhD,No,Yes,Yes,260
+644,27,Female,Software Engineer,8,Bachelor's,No,Yes,No,0
+645,22,Male,Data Scientist,1,Master's,Yes,Yes,No,0
+646,24,Male,Data Scientist,7,High School,No,No,No,0
+647,28,Male,Data Scientist,2,Bachelor's,No,No,No,0
+648,25,Male,Web Developer,1,PhD,Yes,No,No,0
+649,28,Male,System Analyst,3,Master's,Yes,Yes,Yes,257
+650,23,Male,Web Developer,7,PhD,No,No,No,0
+651,30,Male,Web Developer,2,Master's,Yes,Yes,No,0
+652,31,Female,System Analyst,0,Master's,No,Yes,Yes,543
+653,22,Female,Software Engineer,9,PhD,No,Yes,No,0
+654,22,Male,Database Administrator,10,High School,No,No,No,0
+655,23,Male,System Analyst,2,PhD,No,Yes,No,0
+656,30,Male,System Analyst,3,High School,Yes,Yes,No,0
+657,31,Male,System Analyst,1,Master's,No,No,Yes,56
+658,22,Female,Software Engineer,6,Bachelor's,No,No,No,0
+659,28,Male,Database Administrator,8,Bachelor's,No,Yes,No,0
+660,29,Female,Database Administrator,3,Bachelor's,No,No,Yes,924
+661,28,Male,Database Administrator,6,Bachelor's,No,Yes,No,0
+662,31,Female,Web Developer,4,High School,No,No,No,0
+663,32,Male,System Analyst,3,PhD,No,Yes,No,0
+664,25,Female,System Analyst,9,Master's,No,Yes,No,0
+665,29,Female,System Analyst,9,Master's,No,Yes,No,0
+666,22,Female,Web Developer,7,High School,Yes,No,No,0
+667,28,Female,Database Administrator,4,Master's,No,No,No,0
+668,31,Female,Software Engineer,1,Bachelor's,No,No,No,0
+669,32,Male,Database Administrator,6,Bachelor's,Yes,No,No,0
+670,23,Male,Database Administrator,7,Master's,Yes,Yes,No,0
+671,32,Female,Database Administrator,10,High School,No,No,No,0
+672,24,Male,Database Administrator,3,Master's,Yes,No,No,0
+673,27,Female,Data Scientist,2,Bachelor's,No,No,No,0
+674,29,Female,Data Scientist,0,PhD,Yes,No,Yes,853
+675,26,Male,Software Engineer,1,PhD,Yes,No,No,0
+676,26,Female,Data Scientist,5,High School,No,No,No,0
+677,31,Male,Software Engineer,10,Master's,No,No,No,0
+678,28,Male,Data Scientist,1,Master's,Yes,No,No,0
+679,31,Female,Data Scientist,4,Bachelor's,No,No,No,0
+680,24,Female,System Analyst,5,Master's,Yes,Yes,No,0
+681,28,Male,Data Scientist,7,Bachelor's,Yes,Yes,No,0
+682,24,Male,Data Scientist,5,High School,Yes,No,No,0
+683,31,Female,Data Scientist,1,Bachelor's,No,No,Yes,552
+684,22,Female,System Analyst,8,High School,No,No,No,0
+685,27,Male,Software Engineer,1,High School,No,No,No,0
+686,32,Male,Data Scientist,1,PhD,Yes,No,No,0
+687,25,Female,Data Scientist,6,High School,No,No,No,0
+688,29,Male,Data Scientist,10,Master's,No,No,No,0
+689,26,Male,Software Engineer,8,High School,No,Yes,No,0
+690,23,Female,System Analyst,10,Master's,No,No,Yes,603
+691,30,Female,Database Administrator,10,High School,No,No,No,0
+692,22,Female,System Analyst,7,Master's,No,No,No,0
+693,27,Female,Data Scientist,9,High School,No,No,No,0
+694,29,Male,Web Developer,8,PhD,No,Yes,Yes,785
+695,23,Male,Web Developer,6,PhD,Yes,Yes,No,0
+696,30,Male,Web Developer,6,PhD,Yes,No,No,0
+697,30,Female,Software Engineer,4,High School,No,No,Yes,203
+698,25,Male,Database Administrator,3,Bachelor's,No,No,Yes,7
+699,32,Female,Software Engineer,1,Bachelor's,No,Yes,No,0
+700,22,Male,Software Engineer,1,High School,No,Yes,No,0
+701,23,Female,System Analyst,4,Master's,No,Yes,No,0
+702,23,Female,Data Scientist,5,PhD,No,No,No,0
+703,23,Male,Data Scientist,5,High School,No,Yes,Yes,141
+704,27,Female,Web Developer,4,PhD,No,Yes,No,0
+705,30,Female,Data Scientist,4,High School,No,No,No,0
+706,26,Female,Data Scientist,6,High School,No,No,No,0
+707,30,Male,Software Engineer,6,PhD,No,Yes,No,0
+708,32,Male,Web Developer,7,Bachelor's,Yes,No,No,0
+709,30,Male,Data Scientist,4,Master's,No,Yes,No,0
+710,26,Male,System Analyst,4,High School,Yes,Yes,Yes,271
+711,29,Male,System Analyst,2,High School,No,Yes,No,0
+712,25,Female,Software Engineer,10,Master's,Yes,No,Yes,239
+713,26,Female,Software Engineer,1,High School,Yes,No,Yes,783
+714,29,Male,Software Engineer,1,Bachelor's,No,No,No,0
+715,24,Female,Software Engineer,9,High School,Yes,Yes,No,0
+716,23,Female,Web Developer,6,High School,No,No,Yes,488
+717,24,Female,Web Developer,5,Bachelor's,Yes,No,No,0
+718,25,Female,System Analyst,7,PhD,No,No,No,0
+719,24,Female,Software Engineer,10,High School,No,No,No,0
+720,31,Male,Database Administrator,10,Bachelor's,No,No,Yes,638
+721,22,Female,Software Engineer,2,High School,Yes,No,Yes,86
+722,27,Female,Software Engineer,1,Bachelor's,No,No,No,0
+723,28,Male,Database Administrator,1,Master's,No,Yes,No,0
+724,32,Female,Data Scientist,7,PhD,No,Yes,No,0
+725,25,Female,Web Developer,9,PhD,No,Yes,No,0
+726,24,Female,Data Scientist,4,Master's,Yes,No,No,0
+727,22,Female,Web Developer,8,Bachelor's,No,Yes,No,0
+728,24,Male,Database Administrator,5,Master's,No,Yes,No,0
+729,31,Female,Software Engineer,5,Master's,No,No,Yes,566
+730,30,Female,System Analyst,1,PhD,No,No,Yes,830
+731,25,Female,Database Administrator,0,Bachelor's,No,Yes,No,0
+732,22,Female,Database Administrator,5,High School,No,Yes,Yes,802
+733,31,Female,System Analyst,4,PhD,Yes,Yes,Yes,721
+734,29,Female,Web Developer,3,PhD,Yes,No,Yes,650
+735,29,Male,Software Engineer,9,High School,Yes,No,No,0
+736,24,Female,Database Administrator,6,PhD,Yes,No,Yes,58
+737,22,Male,System Analyst,8,Bachelor's,Yes,No,No,0
+738,31,Male,System Analyst,9,Master's,No,Yes,No,0
+739,27,Male,Web Developer,7,Bachelor's,No,Yes,Yes,448
+740,26,Male,Web Developer,7,PhD,No,Yes,Yes,556
+741,32,Male,System Analyst,9,High School,No,No,No,0
+742,31,Female,Software Engineer,9,Bachelor's,No,No,Yes,924
+743,32,Female,System Analyst,10,High School,No,Yes,No,0
+744,25,Female,Database Administrator,9,Bachelor's,No,No,Yes,476
+745,23,Male,Database Administrator,9,Master's,No,No,No,0
+746,32,Male,Database Administrator,0,PhD,No,Yes,No,0
+747,30,Male,Data Scientist,0,Master's,No,Yes,No,0
+748,22,Male,Web Developer,9,Master's,No,Yes,Yes,762
+749,23,Male,Data Scientist,10,High School,No,No,Yes,348
+750,24,Female,Database Administrator,5,High School,No,Yes,No,0
+751,30,Male,System Analyst,6,High School,Yes,No,No,0
+752,30,Female,Database Administrator,4,PhD,Yes,No,No,0
+753,22,Female,System Analyst,1,Master's,No,Yes,No,0
+754,29,Female,Software Engineer,5,Bachelor's,No,Yes,No,0
+755,26,Male,Data Scientist,5,Bachelor's,No,No,No,0
+756,22,Female,Database Administrator,7,High School,No,No,No,0
+757,26,Male,Database Administrator,3,Bachelor's,No,Yes,Yes,681
+758,29,Female,Data Scientist,10,PhD,Yes,Yes,No,0
+759,26,Male,Web Developer,2,PhD,No,Yes,Yes,407
+760,26,Male,Software Engineer,2,PhD,No,Yes,No,0
+761,28,Female,Data Scientist,0,Master's,No,No,No,0
+762,32,Female,System Analyst,5,Bachelor's,No,Yes,No,0
+763,23,Female,Data Scientist,6,Master's,No,No,No,0
+764,25,Male,System Analyst,3,High School,No,No,No,0
+765,25,Male,Software Engineer,9,Master's,Yes,Yes,No,0
+766,23,Female,Data Scientist,2,High School,Yes,No,Yes,965
+767,28,Female,Web Developer,8,Bachelor's,No,No,Yes,368
+768,23,Male,Database Administrator,2,PhD,No,Yes,No,0
+769,24,Male,Web Developer,1,Master's,Yes,No,No,0
+770,25,Female,Software Engineer,9,Bachelor's,No,No,No,0
+771,22,Male,System Analyst,3,Master's,No,Yes,No,0
+772,28,Female,System Analyst,10,PhD,No,No,No,0
+773,22,Male,Database Administrator,2,Master's,No,No,No,0
+774,32,Female,Software Engineer,10,High School,No,Yes,Yes,536
+775,32,Male,Database Administrator,4,Bachelor's,No,No,No,0
+776,31,Male,Software Engineer,8,Bachelor's,No,Yes,No,0
+777,24,Male,Data Scientist,6,High School,No,Yes,No,0
+778,22,Female,Software Engineer,6,Bachelor's,No,No,No,0
+779,32,Female,System Analyst,4,Bachelor's,No,Yes,No,0
+780,22,Male,Web Developer,6,PhD,No,No,No,0
+781,30,Female,Data Scientist,7,PhD,Yes,No,Yes,707
+782,23,Male,Web Developer,1,Master's,No,Yes,No,0
+783,32,Female,Software Engineer,4,PhD,No,No,No,0
+784,25,Female,Software Engineer,1,PhD,No,No,Yes,18
+785,28,Female,Software Engineer,10,PhD,Yes,Yes,No,0
+786,25,Male,Software Engineer,2,Bachelor's,No,No,Yes,704
+787,31,Female,System Analyst,3,Master's,Yes,No,No,0
+788,29,Male,Web Developer,4,Master's,Yes,Yes,No,0
+789,30,Male,Software Engineer,4,High School,Yes,No,No,0
+790,30,Male,Data Scientist,10,Bachelor's,No,Yes,No,0
+791,26,Male,System Analyst,3,PhD,No,Yes,No,0
+792,30,Male,System Analyst,0,PhD,No,Yes,Yes,567
+793,24,Female,Database Administrator,2,High School,No,No,No,0
+794,23,Female,Software Engineer,2,Master's,No,No,No,0
+795,26,Female,Web Developer,1,Master's,No,Yes,No,0
+796,25,Female,Web Developer,0,High School,No,Yes,No,0
+797,24,Female,Data Scientist,6,High School,No,No,No,0
+798,22,Female,System Analyst,1,Bachelor's,No,No,Yes,230
+799,24,Female,Data Scientist,4,High School,No,Yes,No,0
+800,22,Female,System Analyst,9,High School,Yes,No,No,0
+801,31,Female,Web Developer,6,High School,No,Yes,No,0
+802,23,Male,Data Scientist,3,High School,Yes,No,No,0
+803,28,Female,Data Scientist,3,High School,No,Yes,No,0
+804,32,Female,Database Administrator,10,Bachelor's,No,Yes,No,0
+805,30,Female,Database Administrator,8,Master's,No,No,No,0
+806,32,Female,System Analyst,10,Master's,Yes,No,No,0
+807,31,Female,System Analyst,6,High School,No,Yes,No,0
+808,23,Female,Database Administrator,0,Master's,No,No,No,0
+809,26,Female,Data Scientist,3,PhD,No,Yes,No,0
+810,22,Male,Web Developer,7,Master's,No,Yes,No,0
+811,23,Female,Data Scientist,6,PhD,No,Yes,No,0
+812,32,Male,Web Developer,6,Master's,Yes,Yes,No,0
+813,30,Male,Software Engineer,4,Master's,Yes,No,Yes,880
+814,31,Male,Web Developer,3,Master's,No,No,No,0
+815,25,Female,Web Developer,9,Bachelor's,No,No,No,0
+816,28,Female,Database Administrator,0,PhD,No,No,Yes,149
+817,28,Male,Software Engineer,6,Master's,No,Yes,No,0
+818,22,Male,Software Engineer,0,Master's,Yes,Yes,No,0
+819,27,Male,Web Developer,10,Bachelor's,Yes,No,No,0
+820,29,Female,Web Developer,9,Master's,Yes,Yes,No,0
+821,29,Male,Web Developer,5,Bachelor's,No,No,Yes,742
+822,32,Male,System Analyst,1,Master's,No,No,No,0
+823,31,Male,Web Developer,0,Bachelor's,No,Yes,No,0
+824,24,Female,Data Scientist,1,Master's,No,Yes,No,0
+825,23,Female,Web Developer,8,High School,No,No,No,0
+826,31,Male,Software Engineer,6,Bachelor's,Yes,Yes,No,0
+827,25,Male,Web Developer,10,High School,No,Yes,No,0
+828,24,Male,Software Engineer,6,High School,No,No,No,0
+829,27,Female,Software Engineer,5,Master's,No,Yes,No,0
+830,22,Female,Database Administrator,7,High School,Yes,Yes,No,0
+831,30,Male,Web Developer,2,PhD,No,No,No,0
+832,32,Male,Database Administrator,10,PhD,Yes,Yes,No,0
+833,31,Female,System Analyst,6,Master's,No,Yes,Yes,459
+834,23,Female,Data Scientist,4,PhD,Yes,Yes,No,0
+835,24,Male,Data Scientist,7,High School,No,No,No,0
+836,23,Male,Database Administrator,9,PhD,Yes,Yes,No,0
+837,24,Male,Database Administrator,6,Bachelor's,No,Yes,No,0
+838,27,Male,Data Scientist,6,Master's,No,Yes,No,0
+839,30,Male,System Analyst,7,High School,No,No,No,0
+840,27,Female,Data Scientist,10,Bachelor's,No,No,No,0
+841,27,Female,Data Scientist,8,High School,Yes,No,No,0
+842,28,Male,Software Engineer,7,Bachelor's,No,No,Yes,373
+843,23,Male,Web Developer,2,Master's,No,No,No,0
+844,31,Female,System Analyst,3,High School,No,Yes,Yes,859
+845,27,Female,System Analyst,0,High School,No,No,Yes,6
+846,23,Female,Database Administrator,5,PhD,No,Yes,No,0
+847,28,Male,Web Developer,2,Bachelor's,No,Yes,No,0
+848,24,Female,Data Scientist,9,Bachelor's,No,Yes,Yes,5
+849,31,Male,Web Developer,5,PhD,Yes,No,No,0
+850,22,Female,Software Engineer,7,High School,No,Yes,No,0
+851,29,Male,Database Administrator,6,Master's,No,Yes,Yes,598
+852,23,Male,System Analyst,1,Bachelor's,No,No,Yes,392
+853,30,Female,Web Developer,5,Bachelor's,No,No,Yes,413
+854,28,Male,Software Engineer,8,Bachelor's,No,No,No,0
+855,32,Female,Software Engineer,10,PhD,No,Yes,Yes,334
+856,29,Male,Software Engineer,8,Bachelor's,Yes,No,Yes,999
+857,30,Male,Web Developer,1,High School,Yes,No,No,0
+858,27,Female,Web Developer,10,PhD,No,No,No,0
+859,24,Female,Database Administrator,3,Bachelor's,Yes,No,No,0
+860,27,Female,Web Developer,8,PhD,No,Yes,No,0
+861,23,Female,System Analyst,10,High School,Yes,Yes,Yes,595
+862,26,Male,Web Developer,9,High School,No,Yes,No,0
+863,28,Female,System Analyst,5,Master's,Yes,Yes,No,0
+864,23,Female,Data Scientist,2,Bachelor's,No,Yes,No,0
+865,31,Female,Software Engineer,3,Bachelor's,No,No,Yes,895
+866,30,Male,Web Developer,8,Bachelor's,No,No,No,0
+867,29,Female,System Analyst,8,PhD,No,Yes,Yes,652
+868,28,Male,System Analyst,10,PhD,Yes,Yes,Yes,100
+869,26,Male,Database Administrator,4,Master's,No,Yes,No,0
+870,31,Female,Web Developer,2,Bachelor's,Yes,Yes,No,0
+871,29,Male,Software Engineer,2,PhD,No,Yes,No,0
+872,22,Female,Data Scientist,3,High School,No,No,No,0
+873,27,Female,Web Developer,2,PhD,No,No,No,0
+874,26,Female,System Analyst,8,Bachelor's,No,Yes,Yes,871
+875,31,Male,Software Engineer,6,High School,Yes,No,Yes,948
+876,26,Female,Web Developer,8,Master's,No,Yes,No,0
+877,28,Male,Data Scientist,6,High School,No,Yes,No,0
+878,27,Female,System Analyst,6,High School,Yes,No,Yes,585
+879,28,Female,Web Developer,7,Master's,No,No,No,0
+880,31,Male,Database Administrator,6,High School,Yes,No,No,0
+881,22,Female,System Analyst,10,Bachelor's,No,No,No,0
+882,28,Female,Database Administrator,10,Master's,Yes,Yes,No,0
+883,25,Female,System Analyst,0,High School,No,No,No,0
+884,28,Male,Web Developer,9,High School,Yes,Yes,No,0
+885,30,Female,Database Administrator,8,Bachelor's,No,No,No,0
+886,25,Male,Web Developer,0,PhD,No,Yes,No,0
+887,22,Female,Data Scientist,2,Master's,Yes,Yes,No,0
+888,27,Male,Software Engineer,0,PhD,Yes,Yes,Yes,783
+889,29,Female,System Analyst,7,Master's,No,Yes,No,0
+890,25,Female,Data Scientist,6,PhD,No,No,No,0
+891,26,Male,Data Scientist,0,Bachelor's,Yes,No,No,0
+892,29,Male,Web Developer,5,Bachelor's,Yes,No,No,0
+893,31,Male,Data Scientist,4,PhD,No,No,Yes,390
+894,32,Female,Database Administrator,8,PhD,Yes,Yes,No,0
+895,30,Male,Web Developer,0,Master's,No,No,No,0
+896,24,Male,Software Engineer,7,High School,Yes,No,Yes,750
+897,27,Female,Data Scientist,10,Master's,No,No,Yes,520
+898,28,Female,Software Engineer,0,Bachelor's,Yes,No,Yes,983
+899,23,Male,System Analyst,10,High School,No,Yes,No,0
+900,24,Male,Data Scientist,1,High School,No,Yes,No,0
+901,30,Female,Web Developer,2,High School,Yes,No,Yes,757
+902,22,Male,Database Administrator,3,PhD,No,No,No,0
+903,26,Female,System Analyst,7,High School,No,No,No,0
+904,29,Male,System Analyst,0,Master's,No,Yes,No,0
+905,29,Female,Software Engineer,2,High School,No,No,Yes,936
+906,22,Male,Database Administrator,5,Bachelor's,Yes,Yes,No,0
+907,24,Female,Data Scientist,2,Bachelor's,Yes,No,Yes,687
+908,23,Male,Software Engineer,10,PhD,No,No,No,0
+909,22,Male,Web Developer,2,Bachelor's,No,Yes,Yes,167
+910,30,Female,Software Engineer,4,PhD,No,No,No,0
+911,25,Male,System Analyst,4,High School,No,Yes,No,0
+912,31,Female,System Analyst,7,Master's,No,No,No,0
+913,31,Male,Database Administrator,7,Master's,Yes,Yes,Yes,492
+914,32,Female,Database Administrator,7,PhD,Yes,No,No,0
+915,30,Male,Web Developer,0,Master's,No,Yes,No,0
+916,29,Male,Database Administrator,2,Master's,No,No,No,0
+917,25,Male,Software Engineer,8,Bachelor's,No,Yes,No,0
+918,24,Female,System Analyst,4,High School,Yes,Yes,No,0
+919,24,Male,System Analyst,8,High School,Yes,Yes,No,0
+920,24,Female,System Analyst,3,High School,No,No,Yes,219
+921,28,Male,Web Developer,3,PhD,No,Yes,No,0
+922,31,Male,Web Developer,3,Master's,Yes,Yes,No,0
+923,24,Female,Database Administrator,2,Master's,No,Yes,No,0
+924,23,Female,Software Engineer,7,PhD,No,No,No,0
+925,29,Female,Data Scientist,4,PhD,No,Yes,Yes,452
+926,26,Male,Database Administrator,3,Master's,No,Yes,No,0
+927,22,Male,Database Administrator,2,High School,No,No,No,0
+928,28,Female,Web Developer,7,PhD,No,Yes,No,0
+929,29,Female,Database Administrator,4,Bachelor's,No,No,No,0
+930,25,Male,Data Scientist,3,Bachelor's,Yes,Yes,Yes,616
+931,26,Female,Database Administrator,1,Bachelor's,No,Yes,No,0
+932,26,Female,Software Engineer,2,PhD,Yes,No,No,0
+933,26,Male,System Analyst,5,High School,No,Yes,Yes,552
+934,23,Male,Data Scientist,6,PhD,No,Yes,No,0
+935,24,Male,Data Scientist,7,Master's,Yes,Yes,No,0
+936,28,Female,System Analyst,9,Bachelor's,Yes,Yes,Yes,45
+937,32,Male,Web Developer,9,Master's,No,Yes,No,0
+938,28,Male,Web Developer,9,High School,Yes,No,Yes,621
+939,24,Female,System Analyst,4,Master's,No,No,No,0
+940,29,Female,Data Scientist,2,PhD,Yes,No,Yes,854
+941,30,Male,Database Administrator,2,Bachelor's,No,Yes,No,0
+942,24,Female,System Analyst,5,Master's,No,Yes,No,0
+943,23,Female,Data Scientist,8,Master's,No,Yes,No,0
+944,26,Female,Web Developer,8,Bachelor's,No,Yes,No,0
+945,28,Male,Database Administrator,6,Master's,Yes,Yes,No,0
+946,31,Male,Web Developer,0,PhD,No,No,Yes,581
+947,24,Female,Data Scientist,5,PhD,No,Yes,No,0
+948,31,Female,Data Scientist,1,PhD,No,Yes,No,0
+949,22,Female,System Analyst,8,Bachelor's,No,No,Yes,569
+950,32,Female,Data Scientist,6,Master's,Yes,Yes,No,0
+951,27,Male,Software Engineer,0,PhD,No,No,No,0
+952,27,Female,Web Developer,2,High School,Yes,No,Yes,703
+953,26,Male,Data Scientist,8,Master's,No,Yes,Yes,567
+954,29,Female,Data Scientist,4,Bachelor's,No,Yes,No,0
+955,27,Male,Web Developer,7,PhD,No,No,No,0
+956,29,Male,System Analyst,4,PhD,Yes,Yes,No,0
+957,31,Male,System Analyst,1,Master's,No,No,No,0
+958,31,Male,Web Developer,7,Bachelor's,No,No,Yes,404
+959,22,Male,Software Engineer,2,Master's,No,No,No,0
+960,24,Male,Web Developer,5,Master's,No,Yes,No,0
+961,25,Female,Software Engineer,6,Bachelor's,No,Yes,No,0
+962,29,Male,Data Scientist,6,PhD,No,No,Yes,621
+963,31,Male,Software Engineer,5,Master's,No,No,No,0
+964,32,Male,Data Scientist,6,High School,No,Yes,No,0
+965,31,Male,Data Scientist,3,Master's,No,No,No,0
+966,29,Male,Web Developer,3,PhD,Yes,No,No,0
+967,32,Female,Data Scientist,0,Bachelor's,Yes,No,No,0
+968,22,Female,Web Developer,2,Master's,No,Yes,No,0
+969,22,Male,Web Developer,6,High School,No,Yes,Yes,927
+970,32,Male,Web Developer,7,High School,No,Yes,No,0
+971,27,Female,Data Scientist,8,High School,No,No,No,0
+972,26,Female,System Analyst,3,Bachelor's,No,No,Yes,492
+973,29,Female,Database Administrator,0,Bachelor's,No,Yes,No,0
+974,22,Female,System Analyst,1,Bachelor's,No,Yes,Yes,13
+975,27,Male,System Analyst,8,Bachelor's,No,No,No,0
+976,26,Male,Data Scientist,5,PhD,Yes,No,Yes,903
+977,23,Female,Software Engineer,5,PhD,No,No,Yes,241
+978,30,Male,Web Developer,8,Master's,No,Yes,No,0
+979,31,Male,Data Scientist,8,Bachelor's,No,Yes,No,0
+980,27,Female,Web Developer,6,Master's,Yes,No,Yes,38
+981,31,Female,System Analyst,6,Master's,Yes,Yes,No,0
+982,28,Male,System Analyst,10,PhD,No,Yes,Yes,4
+983,26,Female,Database Administrator,5,PhD,No,No,Yes,431
+984,22,Female,Data Scientist,2,High School,No,No,Yes,361
+985,32,Female,Software Engineer,4,Master's,Yes,Yes,No,0
+986,27,Male,Web Developer,0,PhD,No,Yes,Yes,551
+987,31,Male,Software Engineer,7,Bachelor's,No,Yes,No,0
+988,25,Female,Data Scientist,1,Bachelor's,Yes,Yes,No,0
+989,30,Female,Software Engineer,7,Bachelor's,Yes,No,No,0
+990,27,Male,Software Engineer,9,High School,No,Yes,No,0
+991,27,Male,Database Administrator,5,Master's,No,No,No,0
+992,26,Female,System Analyst,5,Master's,Yes,Yes,No,0
+993,31,Female,Software Engineer,8,Bachelor's,No,Yes,No,0
+994,25,Female,Software Engineer,9,Bachelor's,No,No,No,0
+995,30,Female,Data Scientist,0,Bachelor's,No,Yes,No,0
+996,31,Female,Data Scientist,9,Master's,Yes,No,Yes,857
+997,31,Male,Software Engineer,7,PhD,No,Yes,No,0
+998,22,Female,System Analyst,7,Bachelor's,No,No,Yes,577
+999,24,Female,System Analyst,3,Bachelor's,Yes,No,No,0
+1000,29,Male,Data Scientist,5,PhD,No,No,No,0
+1001,29,Female,System Analyst,9,High School,Yes,Yes,Yes,863
+1002,29,Female,System Analyst,5,PhD,No,No,No,0
+1003,28,Male,Database Administrator,5,PhD,No,Yes,No,0
+1004,24,Male,Web Developer,7,Master's,No,Yes,Yes,4
+1005,28,Female,Software Engineer,8,Master's,No,Yes,No,0
+1006,32,Male,Web Developer,6,Master's,No,No,No,0
+1007,22,Female,Web Developer,2,Master's,Yes,No,Yes,238
+1008,31,Female,System Analyst,7,PhD,Yes,Yes,No,0
+1009,27,Male,Software Engineer,4,Master's,Yes,Yes,No,0
+1010,25,Female,System Analyst,2,PhD,Yes,Yes,Yes,810
+1011,26,Male,Web Developer,9,PhD,No,Yes,No,0
+1012,24,Male,Data Scientist,1,Master's,No,Yes,No,0
+1013,22,Female,Database Administrator,2,PhD,Yes,Yes,No,0
+1014,27,Male,Web Developer,2,High School,Yes,Yes,Yes,517
+1015,32,Male,Web Developer,7,Master's,Yes,No,No,0
+1016,31,Male,Database Administrator,1,Master's,No,Yes,No,0
+1017,23,Female,Data Scientist,10,PhD,No,Yes,No,0
+1018,29,Female,Database Administrator,4,Master's,Yes,Yes,No,0
+1019,24,Female,Web Developer,2,Bachelor's,No,Yes,No,0
+1020,24,Male,Web Developer,1,PhD,No,Yes,No,0
+1021,27,Male,Data Scientist,3,Bachelor's,No,Yes,Yes,68
+1022,29,Female,Software Engineer,1,PhD,No,Yes,No,0
+1023,26,Male,Database Administrator,10,Master's,No,No,No,0
+1024,24,Male,System Analyst,7,PhD,No,No,No,0
+1025,23,Male,Database Administrator,7,Master's,No,No,No,0
+1026,31,Male,Data Scientist,2,High School,No,No,No,0
+1027,24,Male,Database Administrator,10,Bachelor's,No,Yes,Yes,143
+1028,24,Female,Data Scientist,8,Master's,No,No,No,0
+1029,23,Male,System Analyst,10,Bachelor's,Yes,Yes,Yes,191
+1030,30,Female,Web Developer,10,PhD,No,Yes,Yes,950
+1031,31,Female,Data Scientist,8,Bachelor's,No,Yes,Yes,349
+1032,26,Male,Data Scientist,5,Bachelor's,No,No,No,0
+1033,31,Male,Web Developer,7,Master's,Yes,Yes,Yes,744
+1034,31,Male,Software Engineer,0,PhD,No,Yes,No,0
+1035,27,Male,System Analyst,5,Bachelor's,Yes,No,No,0
+1036,22,Male,Database Administrator,10,Master's,No,Yes,No,0
+1037,22,Male,Software Engineer,10,Master's,No,No,No,0
+1038,25,Female,Data Scientist,2,Bachelor's,No,No,Yes,552
+1039,31,Male,Database Administrator,3,Master's,No,No,No,0
+1040,28,Male,System Analyst,4,Master's,Yes,No,No,0
+1041,25,Female,Software Engineer,5,High School,No,No,No,0
+1042,26,Male,Web Developer,7,High School,No,Yes,No,0
+1043,27,Male,System Analyst,5,PhD,No,Yes,Yes,295
+1044,30,Male,Data Scientist,8,Master's,No,Yes,No,0
+1045,30,Male,Software Engineer,2,PhD,No,Yes,Yes,786
+1046,23,Female,Software Engineer,4,Master's,No,No,No,0
+1047,32,Female,Web Developer,3,High School,No,Yes,Yes,333
+1048,25,Male,Web Developer,6,Bachelor's,No,No,Yes,341
+1049,31,Female,Software Engineer,6,Master's,No,No,Yes,405
+1050,28,Male,Database Administrator,8,Bachelor's,No,No,No,0
+1051,29,Female,System Analyst,0,Master's,Yes,No,No,0
+1052,32,Male,System Analyst,2,High School,Yes,No,Yes,674
+1053,25,Female,Software Engineer,8,Master's,No,No,Yes,178
+1054,32,Male,Software Engineer,4,High School,No,No,No,0
+1055,22,Female,System Analyst,2,Master's,No,No,Yes,54
+1056,32,Male,Software Engineer,6,Master's,No,No,No,0
+1057,24,Male,Database Administrator,0,Master's,No,Yes,No,0
+1058,31,Female,Web Developer,1,PhD,No,Yes,No,0
+1059,29,Female,Software Engineer,8,High School,Yes,No,Yes,667
+1060,28,Female,Web Developer,1,Master's,No,Yes,No,0
+1061,29,Female,System Analyst,4,Master's,No,No,No,0
+1062,32,Male,Software Engineer,4,PhD,No,Yes,No,0
+1063,24,Female,Database Administrator,1,Master's,Yes,Yes,Yes,921
+1064,32,Female,System Analyst,1,Bachelor's,No,Yes,No,0
+1065,27,Male,Web Developer,3,PhD,No,Yes,No,0
+1066,28,Female,Software Engineer,10,Bachelor's,No,No,No,0
+1067,30,Male,Web Developer,1,PhD,Yes,No,Yes,567
+1068,23,Male,Web Developer,1,Bachelor's,No,No,No,0
+1069,31,Male,Web Developer,3,Master's,No,No,No,0
+1070,24,Male,Software Engineer,6,High School,No,Yes,No,0
+1071,29,Male,System Analyst,5,Bachelor's,No,Yes,No,0
+1072,25,Female,Web Developer,0,Bachelor's,No,Yes,No,0
+1073,26,Female,Data Scientist,6,High School,No,No,No,0
+1074,25,Female,System Analyst,2,PhD,No,Yes,No,0
+1075,22,Male,Software Engineer,5,PhD,No,Yes,No,0
+1076,26,Male,System Analyst,1,High School,No,No,No,0
+1077,22,Male,Software Engineer,1,Bachelor's,No,No,No,0
+1078,29,Female,System Analyst,6,High School,Yes,No,No,0
+1079,22,Male,System Analyst,2,Master's,No,Yes,Yes,390
+1080,26,Male,Software Engineer,3,Bachelor's,No,No,No,0
+1081,22,Female,Web Developer,8,High School,No,No,Yes,780
+1082,30,Male,Data Scientist,10,High School,Yes,Yes,No,0
+1083,25,Male,Data Scientist,0,High School,No,No,Yes,218
+1084,22,Female,Database Administrator,5,High School,No,No,Yes,838
+1085,26,Male,System Analyst,9,High School,No,No,No,0
+1086,30,Female,Database Administrator,9,PhD,Yes,Yes,Yes,211
+1087,24,Male,Database Administrator,7,High School,No,No,No,0
+1088,25,Female,Web Developer,3,PhD,Yes,No,No,0
+1089,32,Male,Software Engineer,5,Master's,No,Yes,No,0
+1090,25,Female,System Analyst,9,Bachelor's,No,Yes,No,0
+1091,25,Male,Software Engineer,7,Master's,Yes,No,Yes,662
+1092,32,Female,Data Scientist,3,Master's,No,No,Yes,239
+1093,31,Male,Database Administrator,2,Bachelor's,No,Yes,No,0
+1094,24,Male,Database Administrator,1,Bachelor's,No,Yes,No,0
+1095,24,Male,Software Engineer,0,Bachelor's,No,Yes,No,0
+1096,31,Female,System Analyst,3,Master's,No,Yes,No,0
+1097,30,Female,Software Engineer,1,PhD,No,No,No,0
+1098,25,Male,Database Administrator,4,High School,Yes,Yes,Yes,493
+1099,24,Male,Web Developer,10,High School,No,No,No,0
+1100,31,Male,Web Developer,5,High School,No,Yes,Yes,2
+1101,24,Male,System Analyst,6,PhD,No,No,Yes,987
+1102,32,Female,System Analyst,10,PhD,No,No,No,0
+1103,25,Male,System Analyst,4,PhD,Yes,No,No,0
+1104,32,Male,Database Administrator,0,PhD,No,Yes,No,0
+1105,32,Male,Database Administrator,4,PhD,No,No,No,0
+1106,23,Female,Database Administrator,1,High School,No,Yes,No,0
+1107,22,Male,System Analyst,10,PhD,No,No,No,0
+1108,26,Female,Web Developer,6,High School,No,No,No,0
+1109,31,Male,Software Engineer,9,Bachelor's,No,Yes,No,0
+1110,27,Female,Data Scientist,2,PhD,No,No,No,0
+1111,27,Female,System Analyst,9,PhD,No,No,Yes,560
+1112,26,Female,Software Engineer,3,Bachelor's,No,Yes,No,0
+1113,26,Male,Database Administrator,5,High School,No,No,No,0
+1114,23,Male,Database Administrator,9,Master's,No,Yes,No,0
+1115,29,Male,Software Engineer,4,Master's,No,No,No,0
+1116,30,Male,Software Engineer,2,Bachelor's,No,Yes,Yes,98
+1117,30,Male,Web Developer,9,PhD,No,No,No,0
+1118,28,Male,Data Scientist,10,PhD,Yes,Yes,No,0
+1119,32,Male,System Analyst,0,High School,No,Yes,No,0
+1120,29,Male,Data Scientist,9,Master's,No,No,No,0
+1121,25,Female,Software Engineer,6,PhD,Yes,No,No,0
+1122,25,Male,Web Developer,0,PhD,No,Yes,No,0
+1123,23,Female,Database Administrator,2,PhD,No,Yes,No,0
+1124,30,Male,Database Administrator,5,Bachelor's,No,Yes,No,0
+1125,31,Male,Software Engineer,6,High School,No,Yes,Yes,453
+1126,24,Female,Web Developer,0,Master's,Yes,Yes,Yes,240
+1127,23,Male,Software Engineer,6,Bachelor's,Yes,No,Yes,994
+1128,30,Female,Data Scientist,6,High School,Yes,Yes,Yes,901
+1129,26,Female,Database Administrator,1,PhD,Yes,No,No,0
+1130,31,Male,Web Developer,2,Master's,No,Yes,Yes,510
+1131,29,Male,Web Developer,4,PhD,Yes,Yes,No,0
+1132,29,Male,Database Administrator,9,PhD,No,Yes,Yes,151
+1133,32,Female,System Analyst,10,PhD,Yes,Yes,No,0
+1134,24,Female,System Analyst,1,Master's,No,No,No,0
+1135,25,Male,Web Developer,4,PhD,No,Yes,Yes,735
+1136,29,Female,System Analyst,5,Bachelor's,Yes,Yes,Yes,59
+1137,23,Male,Database Administrator,6,Bachelor's,No,No,No,0
+1138,24,Male,System Analyst,10,Bachelor's,No,Yes,No,0
+1139,27,Female,Web Developer,5,Bachelor's,No,No,No,0
+1140,23,Male,Database Administrator,3,PhD,Yes,Yes,No,0
+1141,22,Male,Web Developer,2,Bachelor's,Yes,No,No,0
+1142,31,Female,Data Scientist,3,Master's,No,Yes,No,0
+1143,24,Female,Software Engineer,10,PhD,Yes,Yes,No,0
+1144,24,Female,Software Engineer,7,PhD,No,Yes,Yes,802
+1145,27,Female,Web Developer,3,Bachelor's,No,No,Yes,337
+1146,29,Female,Data Scientist,5,Master's,No,Yes,No,0
+1147,28,Male,Web Developer,7,High School,No,Yes,No,0
+1148,29,Female,Software Engineer,8,Bachelor's,Yes,No,No,0
+1149,25,Male,Web Developer,3,PhD,No,No,No,0
+1150,24,Female,Data Scientist,2,PhD,No,Yes,No,0
+1151,29,Male,Database Administrator,7,High School,No,Yes,Yes,502
+1152,31,Female,Web Developer,7,Master's,No,Yes,Yes,46
+1153,22,Male,Database Administrator,8,Master's,Yes,No,No,0
+1154,32,Male,Web Developer,0,Bachelor's,Yes,Yes,No,0
+1155,30,Male,Database Administrator,4,High School,Yes,Yes,Yes,731
+1156,28,Male,Data Scientist,3,High School,Yes,Yes,No,0
+1157,29,Male,System Analyst,1,Master's,No,Yes,Yes,71
+1158,27,Male,Web Developer,9,Bachelor's,No,Yes,Yes,650
+1159,31,Male,Database Administrator,8,PhD,No,Yes,No,0
+1160,28,Male,Software Engineer,8,PhD,No,No,Yes,247
+1161,27,Female,Software Engineer,8,High School,Yes,Yes,No,0
+1162,24,Female,Database Administrator,4,Bachelor's,No,Yes,No,0
+1163,32,Female,System Analyst,0,High School,No,No,No,0
+1164,28,Male,Data Scientist,8,PhD,No,No,Yes,211
+1165,32,Female,System Analyst,3,Master's,No,Yes,Yes,664
+1166,27,Female,System Analyst,3,PhD,No,Yes,Yes,258
+1167,22,Male,System Analyst,3,Bachelor's,No,No,No,0
+1168,30,Male,Data Scientist,4,High School,Yes,No,No,0
+1169,31,Female,System Analyst,10,Master's,No,No,Yes,865
+1170,27,Male,Data Scientist,7,Bachelor's,No,No,No,0
+1171,29,Female,Data Scientist,10,Master's,Yes,Yes,Yes,665
+1172,24,Male,Web Developer,6,High School,Yes,No,No,0
+1173,27,Female,Software Engineer,5,Bachelor's,Yes,No,No,0
+1174,27,Male,Data Scientist,8,High School,Yes,No,Yes,352
+1175,30,Male,Database Administrator,5,PhD,No,Yes,No,0
+1176,29,Female,Data Scientist,0,Bachelor's,Yes,Yes,No,0
+1177,24,Female,Web Developer,4,Bachelor's,No,No,Yes,577
+1178,30,Female,Database Administrator,2,PhD,No,No,No,0
+1179,31,Male,Web Developer,10,High School,No,Yes,No,0
+1180,22,Male,Data Scientist,4,Bachelor's,Yes,No,No,0
+1181,32,Male,System Analyst,10,High School,No,Yes,Yes,632
+1182,32,Male,Software Engineer,3,Bachelor's,No,Yes,Yes,264
+1183,27,Male,Web Developer,2,Bachelor's,No,No,Yes,762
+1184,23,Male,Software Engineer,3,High School,No,No,No,0
+1185,24,Male,Software Engineer,0,Bachelor's,No,Yes,Yes,369
+1186,26,Male,Data Scientist,0,Master's,No,No,No,0
+1187,30,Female,Software Engineer,4,Master's,No,No,No,0
+1188,25,Female,Software Engineer,2,High School,Yes,No,No,0
+1189,32,Female,System Analyst,5,Bachelor's,Yes,Yes,No,0
+1190,24,Male,Software Engineer,6,High School,No,No,No,0
+1191,23,Male,System Analyst,5,Master's,Yes,Yes,No,0
+1192,30,Male,Data Scientist,4,High School,No,Yes,Yes,471
+1193,23,Female,Web Developer,4,Bachelor's,No,Yes,No,0
+1194,27,Female,System Analyst,7,Master's,No,Yes,No,0
+1195,25,Male,Data Scientist,8,Master's,No,No,Yes,426
+1196,26,Male,Data Scientist,7,Bachelor's,Yes,No,No,0
+1197,23,Male,System Analyst,2,PhD,No,Yes,Yes,993
+1198,25,Female,Software Engineer,7,Bachelor's,No,No,No,0
+1199,32,Male,Software Engineer,6,Master's,No,No,Yes,106
+1200,29,Female,Database Administrator,2,High School,No,Yes,No,0
+1201,22,Male,Software Engineer,2,High School,No,Yes,Yes,602
+1202,31,Male,Data Scientist,7,Master's,No,No,No,0
+1203,24,Male,Database Administrator,0,Master's,Yes,Yes,Yes,743
+1204,25,Male,Database Administrator,6,High School,No,No,Yes,498
+1205,31,Male,Web Developer,1,High School,No,Yes,No,0
+1206,24,Female,Database Administrator,5,Bachelor's,Yes,No,No,0
+1207,22,Female,Web Developer,10,Master's,No,No,No,0
+1208,32,Male,Data Scientist,0,High School,Yes,No,No,0
+1209,24,Female,Web Developer,1,PhD,No,No,Yes,125
+1210,27,Male,Data Scientist,3,Master's,No,No,Yes,569
+1211,24,Male,Data Scientist,3,PhD,No,No,No,0
+1212,29,Male,System Analyst,5,PhD,No,No,No,0
+1213,24,Female,Software Engineer,7,Bachelor's,No,Yes,No,0
+1214,29,Male,System Analyst,3,Bachelor's,No,Yes,Yes,973
+1215,30,Male,Database Administrator,2,High School,No,Yes,No,0
+1216,29,Female,Software Engineer,4,Master's,Yes,Yes,No,0
+1217,22,Male,Database Administrator,2,PhD,No,No,Yes,455
+1218,30,Female,Data Scientist,3,Bachelor's,Yes,No,Yes,949
+1219,29,Female,Web Developer,4,Bachelor's,No,No,No,0
+1220,31,Female,System Analyst,2,High School,No,Yes,No,0
+1221,26,Male,Database Administrator,0,High School,No,Yes,Yes,871
+1222,31,Female,Database Administrator,4,PhD,No,No,Yes,88
+1223,26,Male,Database Administrator,5,High School,No,Yes,No,0
+1224,26,Male,System Analyst,3,PhD,Yes,Yes,No,0
+1225,26,Male,Software Engineer,1,Master's,No,Yes,No,0
+1226,28,Male,Data Scientist,7,Bachelor's,No,Yes,Yes,151
+1227,27,Female,Data Scientist,1,High School,No,Yes,No,0
+1228,31,Female,System Analyst,10,PhD,No,Yes,Yes,950
+1229,24,Female,Web Developer,6,PhD,No,Yes,No,0
+1230,24,Male,Software Engineer,8,Master's,No,Yes,Yes,235
+1231,25,Male,Software Engineer,3,High School,No,No,Yes,766
+1232,31,Female,Database Administrator,3,Bachelor's,No,No,No,0
+1233,27,Male,Data Scientist,0,PhD,Yes,No,No,0
+1234,30,Female,Data Scientist,3,Master's,Yes,Yes,No,0
+1235,32,Female,System Analyst,4,Bachelor's,No,No,Yes,824
+1236,27,Male,Database Administrator,6,PhD,No,No,No,0
+1237,28,Male,Software Engineer,9,High School,No,No,Yes,264
+1238,24,Male,Web Developer,4,Master's,No,No,No,0
+1239,32,Male,System Analyst,7,Bachelor's,No,No,No,0
+1240,29,Male,Database Administrator,0,PhD,Yes,Yes,No,0
+1241,28,Male,Software Engineer,7,Master's,Yes,No,No,0
+1242,23,Male,Web Developer,4,High School,Yes,Yes,No,0
+1243,29,Male,Web Developer,7,PhD,No,Yes,Yes,786
+1244,22,Male,Web Developer,0,Master's,Yes,Yes,No,0
+1245,29,Female,Database Administrator,10,Bachelor's,No,No,Yes,213
+1246,29,Male,Database Administrator,3,Bachelor's,No,Yes,No,0
+1247,22,Male,Web Developer,4,Bachelor's,No,Yes,No,0
+1248,27,Female,System Analyst,7,High School,No,No,No,0
+1249,30,Male,Software Engineer,9,High School,Yes,Yes,No,0
+1250,29,Female,Data Scientist,5,Master's,No,No,No,0
+1251,26,Male,System Analyst,10,PhD,No,Yes,No,0
+1252,26,Female,Database Administrator,3,High School,No,No,No,0
+1253,27,Female,Web Developer,7,Master's,No,No,Yes,827
+1254,28,Female,Software Engineer,8,Master's,No,No,No,0
+1255,23,Male,System Analyst,10,High School,No,No,Yes,487
+1256,30,Male,Data Scientist,3,High School,Yes,Yes,No,0
+1257,26,Male,Software Engineer,4,High School,Yes,No,No,0
+1258,30,Female,Software Engineer,3,Master's,No,No,Yes,951
+1259,29,Female,System Analyst,6,Master's,No,Yes,Yes,82
+1260,28,Male,Database Administrator,10,PhD,No,No,Yes,659
+1261,27,Male,Software Engineer,6,Bachelor's,Yes,Yes,No,0
+1262,23,Female,System Analyst,3,Master's,Yes,Yes,No,0
+1263,29,Male,System Analyst,0,Master's,No,Yes,No,0
+1264,28,Female,Database Administrator,0,High School,No,No,No,0
+1265,30,Female,System Analyst,6,High School,Yes,Yes,No,0
+1266,30,Female,Data Scientist,2,Bachelor's,No,No,Yes,373
+1267,26,Male,Data Scientist,10,Bachelor's,Yes,No,No,0
+1268,32,Male,Software Engineer,6,Master's,No,Yes,No,0
+1269,26,Female,Data Scientist,6,PhD,No,Yes,No,0
+1270,32,Female,Data Scientist,10,PhD,Yes,Yes,No,0
+1271,26,Male,Database Administrator,6,High School,No,Yes,No,0
+1272,22,Female,Web Developer,2,PhD,No,Yes,No,0
+1273,28,Male,Web Developer,8,Bachelor's,No,Yes,Yes,29
+1274,29,Female,Database Administrator,1,PhD,Yes,No,No,0
+1275,31,Male,Database Administrator,6,Bachelor's,Yes,No,No,0
+1276,27,Male,Database Administrator,9,High School,No,No,No,0
+1277,32,Female,Software Engineer,6,High School,Yes,Yes,No,0
+1278,26,Male,Data Scientist,3,Bachelor's,No,No,No,0
+1279,26,Female,System Analyst,0,Bachelor's,Yes,No,Yes,728
+1280,32,Male,Software Engineer,3,High School,No,No,Yes,512
+1281,25,Female,Data Scientist,0,Bachelor's,No,Yes,No,0
+1282,30,Female,Software Engineer,3,Bachelor's,No,Yes,No,0
+1283,30,Male,Database Administrator,3,Bachelor's,No,No,No,0
+1284,30,Male,Data Scientist,10,Bachelor's,No,Yes,No,0
+1285,30,Female,System Analyst,9,High School,No,No,Yes,659
+1286,25,Female,Database Administrator,4,Bachelor's,No,Yes,No,0
+1287,29,Female,System Analyst,0,PhD,No,No,No,0
+1288,32,Male,System Analyst,10,Bachelor's,Yes,Yes,Yes,831
+1289,22,Female,Software Engineer,3,Bachelor's,No,No,No,0
+1290,22,Female,Data Scientist,0,Master's,No,No,No,0
+1291,27,Male,Software Engineer,0,Bachelor's,No,No,No,0
+1292,31,Female,Database Administrator,5,Master's,No,Yes,Yes,955
+1293,30,Female,Web Developer,0,High School,No,Yes,Yes,925
+1294,32,Male,Data Scientist,4,High School,No,No,Yes,304
+1295,25,Male,System Analyst,3,High School,No,Yes,No,0
+1296,26,Female,Database Administrator,2,PhD,No,No,No,0
+1297,22,Female,Web Developer,0,High School,No,Yes,No,0
+1298,32,Female,Web Developer,10,PhD,No,No,No,0
+1299,23,Female,System Analyst,8,Master's,No,No,No,0
+1300,27,Female,Web Developer,9,Bachelor's,Yes,No,No,0
+1301,27,Female,Software Engineer,2,Bachelor's,Yes,Yes,No,0
+1302,24,Male,System Analyst,8,PhD,No,No,No,0
+1303,29,Female,System Analyst,6,Bachelor's,No,Yes,Yes,641
+1304,24,Female,Data Scientist,10,Bachelor's,Yes,Yes,No,0
+1305,28,Female,Data Scientist,4,Bachelor's,No,No,No,0
+1306,24,Female,System Analyst,5,Master's,No,Yes,No,0
+1307,22,Male,Software Engineer,4,Bachelor's,Yes,No,No,0
+1308,31,Female,System Analyst,0,PhD,No,Yes,No,0
+1309,29,Female,System Analyst,3,PhD,No,No,No,0
+1310,23,Female,Data Scientist,3,High School,No,Yes,Yes,428
+1311,25,Female,Software Engineer,2,Bachelor's,No,Yes,Yes,691
+1312,27,Male,Software Engineer,0,Master's,Yes,Yes,Yes,336
+1313,27,Male,Database Administrator,3,High School,No,Yes,No,0
+1314,26,Male,Data Scientist,9,Bachelor's,No,Yes,No,0
+1315,27,Male,Web Developer,7,PhD,No,Yes,Yes,244
+1316,27,Female,Data Scientist,10,Master's,Yes,Yes,Yes,879
+1317,27,Female,System Analyst,7,High School,Yes,Yes,Yes,88
+1318,26,Male,Database Administrator,2,PhD,No,Yes,Yes,175
+1319,23,Male,Database Administrator,4,High School,No,No,No,0
+1320,32,Male,Web Developer,3,Bachelor's,Yes,No,No,0
+1321,22,Male,Software Engineer,1,High School,No,No,Yes,15
+1322,29,Female,Web Developer,5,PhD,Yes,Yes,Yes,223
+1323,22,Male,Software Engineer,4,PhD,No,Yes,Yes,893
+1324,31,Male,Database Administrator,7,PhD,No,Yes,No,0
+1325,29,Male,System Analyst,0,Master's,Yes,No,No,0
+1326,27,Male,System Analyst,7,Master's,No,Yes,Yes,651
+1327,29,Female,Data Scientist,2,Bachelor's,No,Yes,Yes,210
+1328,24,Female,Web Developer,8,Bachelor's,No,No,No,0
+1329,31,Female,System Analyst,4,PhD,Yes,Yes,No,0
+1330,28,Male,Web Developer,4,Bachelor's,Yes,No,Yes,503
+1331,27,Male,System Analyst,5,High School,Yes,Yes,Yes,6
+1332,26,Female,Software Engineer,1,High School,Yes,No,No,0
+1333,26,Male,System Analyst,10,Master's,No,Yes,No,0
+1334,28,Female,System Analyst,2,PhD,No,Yes,No,0
+1335,23,Male,Software Engineer,4,PhD,No,Yes,No,0
+1336,31,Female,Data Scientist,5,High School,No,Yes,No,0
+1337,22,Male,Software Engineer,6,Master's,No,Yes,No,0
+1338,29,Female,Web Developer,8,High School,No,No,No,0
+1339,30,Female,Software Engineer,10,High School,No,No,Yes,187
+1340,22,Female,Web Developer,2,High School,No,Yes,Yes,22
+1341,30,Female,Data Scientist,7,PhD,No,No,Yes,309
+1342,26,Male,System Analyst,8,Master's,No,No,No,0
+1343,30,Female,System Analyst,6,PhD,Yes,Yes,No,0
+1344,29,Male,Database Administrator,6,Master's,No,Yes,Yes,688
+1345,28,Female,System Analyst,3,PhD,Yes,Yes,Yes,466
+1346,27,Female,Data Scientist,7,Bachelor's,No,Yes,No,0
+1347,32,Male,Web Developer,1,High School,Yes,No,Yes,115
+1348,22,Male,Data Scientist,7,High School,Yes,Yes,No,0
+1349,28,Male,Data Scientist,1,Bachelor's,No,No,Yes,221
+1350,28,Female,Data Scientist,1,PhD,No,No,No,0
+1351,24,Female,Software Engineer,3,PhD,No,No,Yes,13
+1352,28,Female,System Analyst,10,PhD,Yes,No,No,0
+1353,31,Male,Data Scientist,8,Master's,Yes,No,Yes,717
+1354,27,Male,Web Developer,10,High School,No,No,No,0
+1355,31,Female,Data Scientist,7,Bachelor's,No,No,No,0
+1356,23,Female,Web Developer,3,PhD,No,No,No,0
+1357,28,Male,Database Administrator,3,Bachelor's,No,Yes,No,0
+1358,24,Male,Web Developer,2,Master's,Yes,Yes,Yes,539
+1359,28,Female,Database Administrator,6,Bachelor's,No,No,No,0
+1360,28,Male,Software Engineer,3,High School,Yes,Yes,Yes,772
+1361,27,Male,Database Administrator,5,PhD,Yes,Yes,Yes,510
+1362,26,Female,Data Scientist,8,Master's,No,Yes,No,0
+1363,26,Male,Software Engineer,10,Master's,No,Yes,No,0
+1364,30,Male,Database Administrator,10,Master's,No,No,Yes,806
+1365,31,Male,System Analyst,3,Master's,No,Yes,No,0
+1366,22,Male,Software Engineer,10,High School,No,Yes,No,0
+1367,24,Female,Software Engineer,9,Bachelor's,No,No,No,0
+1368,27,Male,System Analyst,4,Master's,Yes,Yes,No,0
+1369,32,Female,Web Developer,6,Master's,Yes,No,No,0
+1370,26,Female,Database Administrator,1,Bachelor's,No,Yes,Yes,960
+1371,29,Female,System Analyst,0,Master's,No,No,Yes,758
+1372,23,Male,Data Scientist,3,Master's,Yes,No,Yes,181
+1373,22,Male,Database Administrator,5,Master's,Yes,Yes,No,0
+1374,23,Male,Software Engineer,7,Bachelor's,Yes,No,No,0
+1375,30,Female,Data Scientist,8,Master's,Yes,No,Yes,45
+1376,22,Female,Web Developer,6,PhD,No,Yes,No,0
+1377,30,Female,System Analyst,0,PhD,Yes,No,No,0
+1378,30,Male,System Analyst,0,PhD,No,No,Yes,921
+1379,26,Female,System Analyst,10,High School,Yes,Yes,No,0
+1380,30,Male,System Analyst,3,PhD,No,No,No,0
+1381,32,Female,Software Engineer,3,Bachelor's,No,Yes,No,0
+1382,29,Female,System Analyst,10,High School,No,Yes,No,0
+1383,30,Female,Web Developer,5,PhD,No,No,No,0
+1384,28,Female,Software Engineer,6,PhD,Yes,Yes,No,0
+1385,30,Female,Database Administrator,7,Master's,No,Yes,No,0
+1386,32,Female,System Analyst,0,PhD,No,Yes,No,0
+1387,22,Female,Data Scientist,5,PhD,No,No,No,0
+1388,30,Male,System Analyst,6,Bachelor's,No,Yes,Yes,436
+1389,31,Female,Data Scientist,7,Master's,No,Yes,No,0
+1390,27,Female,Web Developer,7,PhD,No,No,No,0
+1391,32,Female,Database Administrator,9,Master's,No,Yes,Yes,508
+1392,32,Female,System Analyst,10,High School,Yes,Yes,No,0
+1393,22,Female,Database Administrator,10,Master's,Yes,No,No,0
+1394,26,Male,Software Engineer,9,Bachelor's,No,Yes,No,0
+1395,29,Female,Software Engineer,1,Master's,No,Yes,No,0
+1396,28,Male,Web Developer,6,High School,No,Yes,No,0
+1397,26,Female,Data Scientist,5,PhD,No,No,No,0
+1398,22,Female,Web Developer,1,Master's,No,No,No,0
+1399,31,Female,Data Scientist,10,High School,No,No,No,0
+1400,30,Female,Database Administrator,5,Master's,No,No,Yes,984
+1401,25,Male,Software Engineer,10,Bachelor's,No,No,No,0
+1402,27,Male,Web Developer,9,Bachelor's,No,Yes,Yes,385
+1403,25,Female,Data Scientist,1,High School,No,No,No,0
+1404,31,Male,Data Scientist,1,Bachelor's,No,Yes,Yes,533
+1405,23,Female,System Analyst,3,Master's,No,No,No,0
+1406,32,Female,Software Engineer,10,High School,No,Yes,Yes,37
+1407,29,Female,System Analyst,10,High School,No,Yes,No,0
+1408,26,Female,Web Developer,2,Bachelor's,Yes,No,Yes,585
+1409,28,Female,System Analyst,7,PhD,Yes,Yes,No,0
+1410,26,Male,System Analyst,5,Master's,No,Yes,Yes,900
+1411,31,Female,Database Administrator,4,PhD,Yes,Yes,No,0
+1412,24,Female,Data Scientist,1,Bachelor's,Yes,Yes,Yes,557
+1413,30,Male,Software Engineer,4,High School,No,No,No,0
+1414,27,Female,Web Developer,3,Master's,No,Yes,Yes,113
+1415,24,Female,Database Administrator,3,Bachelor's,No,Yes,No,0
+1416,23,Male,Web Developer,10,Bachelor's,No,Yes,Yes,731
+1417,27,Female,Database Administrator,6,Master's,No,No,No,0
+1418,22,Male,Software Engineer,6,Master's,No,Yes,Yes,236
+1419,32,Male,System Analyst,8,High School,Yes,No,Yes,45
+1420,24,Male,Software Engineer,7,Master's,Yes,No,No,0
+1421,23,Female,System Analyst,2,High School,No,No,No,0
+1422,25,Female,Web Developer,0,PhD,No,No,No,0
+1423,31,Female,Software Engineer,2,Bachelor's,No,Yes,Yes,488
+1424,30,Male,Software Engineer,6,PhD,Yes,Yes,No,0
+1425,28,Male,System Analyst,9,Master's,No,No,No,0
+1426,25,Male,Data Scientist,2,PhD,No,No,No,0
+1427,31,Male,Web Developer,5,PhD,Yes,No,No,0
+1428,28,Male,System Analyst,9,PhD,No,No,No,0
+1429,26,Female,Data Scientist,3,PhD,Yes,No,No,0
+1430,30,Male,Web Developer,4,Bachelor's,No,No,No,0
+1431,29,Male,System Analyst,0,Bachelor's,No,No,Yes,540
+1432,27,Male,Data Scientist,9,Master's,Yes,Yes,No,0
+1433,28,Male,Data Scientist,0,Master's,No,Yes,Yes,374
+1434,32,Male,Software Engineer,5,Master's,No,Yes,Yes,549
+1435,31,Male,Web Developer,1,Master's,No,Yes,Yes,709
+1436,24,Female,Database Administrator,0,PhD,No,No,No,0
+1437,30,Male,Web Developer,0,Bachelor's,No,Yes,No,0
+1438,23,Female,Web Developer,4,PhD,Yes,No,No,0
+1439,25,Male,Web Developer,0,Bachelor's,No,No,No,0
+1440,32,Male,Web Developer,6,PhD,No,Yes,No,0
+1441,29,Male,System Analyst,3,Bachelor's,No,No,No,0
+1442,29,Male,Software Engineer,9,Master's,Yes,No,No,0
+1443,28,Male,Data Scientist,2,High School,No,No,No,0
+1444,23,Female,Web Developer,8,Bachelor's,No,No,No,0
+1445,24,Male,System Analyst,6,Master's,Yes,No,No,0
+1446,23,Male,Web Developer,7,High School,No,Yes,Yes,934
+1447,31,Male,System Analyst,7,High School,No,Yes,No,0
+1448,32,Female,Database Administrator,5,Master's,No,No,No,0
+1449,22,Male,Database Administrator,2,PhD,No,No,No,0
+1450,31,Female,Web Developer,1,High School,No,Yes,No,0
+1451,30,Female,Database Administrator,4,Master's,No,No,Yes,193
+1452,22,Male,Database Administrator,2,High School,No,Yes,No,0
+1453,29,Male,Database Administrator,9,Master's,No,Yes,Yes,126
+1454,23,Male,System Analyst,6,Bachelor's,Yes,No,No,0
+1455,28,Female,Software Engineer,1,Bachelor's,No,No,No,0
+1456,26,Female,Database Administrator,8,High School,No,No,No,0
+1457,26,Female,Data Scientist,3,Bachelor's,Yes,No,Yes,247
+1458,26,Female,System Analyst,5,Master's,No,Yes,No,0
+1459,30,Female,Data Scientist,10,High School,No,No,Yes,575
+1460,31,Female,Data Scientist,3,Bachelor's,No,Yes,Yes,126
+1461,30,Male,Data Scientist,5,Master's,No,Yes,No,0
+1462,24,Male,Software Engineer,3,High School,No,No,Yes,133
+1463,23,Female,System Analyst,1,PhD,No,No,No,0
+1464,32,Female,System Analyst,8,High School,No,Yes,No,0
+1465,32,Female,Data Scientist,8,Master's,No,Yes,No,0
+1466,24,Male,Web Developer,9,Bachelor's,Yes,No,No,0
+1467,32,Female,Web Developer,7,High School,No,No,Yes,858
+1468,22,Female,Database Administrator,3,PhD,No,No,Yes,916
+1469,27,Male,Database Administrator,6,High School,No,Yes,Yes,717
+1470,28,Female,Web Developer,3,Master's,No,No,No,0
+1471,25,Female,Software Engineer,7,High School,No,No,No,0
+1472,32,Female,Database Administrator,6,PhD,No,Yes,No,0
+1473,22,Male,Web Developer,7,Bachelor's,No,Yes,No,0
+1474,30,Female,Data Scientist,4,Master's,No,Yes,Yes,728
+1475,30,Female,Software Engineer,10,PhD,No,Yes,No,0
+1476,28,Male,System Analyst,7,High School,No,No,No,0
+1477,29,Female,Database Administrator,3,Master's,Yes,Yes,No,0
+1478,29,Female,Web Developer,4,High School,Yes,Yes,No,0
+1479,28,Female,Database Administrator,7,High School,No,Yes,No,0
+1480,27,Male,System Analyst,1,Master's,No,Yes,No,0
+1481,30,Male,Database Administrator,7,PhD,Yes,Yes,No,0
+1482,31,Male,Web Developer,7,PhD,No,Yes,Yes,708
+1483,27,Male,Database Administrator,1,Bachelor's,Yes,No,No,0
+1484,24,Male,Data Scientist,1,PhD,No,No,No,0
+1485,25,Male,Database Administrator,2,High School,No,Yes,No,0
+1486,22,Male,Web Developer,2,Bachelor's,No,No,Yes,56
+1487,25,Male,Software Engineer,0,Master's,No,No,No,0
+1488,30,Male,Data Scientist,5,Master's,No,No,Yes,96
+1489,24,Female,Database Administrator,2,High School,No,Yes,No,0
+1490,26,Female,System Analyst,0,High School,No,Yes,Yes,919
+1491,27,Male,Database Administrator,0,PhD,No,Yes,No,0
+1492,23,Female,Data Scientist,9,PhD,No,Yes,No,0
+1493,25,Male,Data Scientist,0,Master's,No,Yes,Yes,499
+1494,31,Female,Database Administrator,1,PhD,No,Yes,No,0
+1495,24,Male,System Analyst,9,Master's,Yes,Yes,No,0
+1496,25,Female,System Analyst,6,Master's,No,No,No,0
+1497,31,Male,Database Administrator,1,High School,No,No,No,0
+1498,26,Male,System Analyst,2,PhD,No,Yes,No,0
+1499,31,Female,Data Scientist,9,High School,No,Yes,Yes,286
+1500,30,Male,Database Administrator,4,PhD,No,Yes,No,0
+1501,31,Male,Database Administrator,0,PhD,No,No,No,0
+1502,30,Female,Database Administrator,6,PhD,No,Yes,Yes,410
+1503,29,Male,System Analyst,10,Master's,No,Yes,No,0
+1504,29,Male,Web Developer,6,PhD,No,Yes,Yes,276
+1505,28,Male,Software Engineer,2,Master's,No,No,Yes,597
+1506,25,Male,Data Scientist,2,Master's,Yes,No,No,0
+1507,27,Male,Software Engineer,10,Bachelor's,Yes,Yes,Yes,264
+1508,23,Male,Web Developer,1,High School,Yes,Yes,No,0
+1509,23,Female,Software Engineer,9,Master's,No,No,No,0
+1510,25,Male,Database Administrator,5,Master's,No,No,No,0
+1511,27,Male,Software Engineer,3,Bachelor's,No,No,Yes,312
+1512,28,Female,Web Developer,10,High School,No,Yes,No,0
+1513,31,Male,Web Developer,10,High School,Yes,Yes,Yes,112
+1514,26,Male,System Analyst,0,PhD,No,Yes,No,0
+1515,22,Female,Web Developer,6,Bachelor's,No,No,No,0
+1516,24,Female,Software Engineer,10,Master's,Yes,Yes,Yes,28
+1517,24,Female,Data Scientist,6,Master's,No,Yes,No,0
+1518,32,Female,Data Scientist,10,PhD,No,Yes,No,0
+1519,26,Male,Web Developer,8,PhD,No,No,No,0
+1520,26,Male,Data Scientist,1,Bachelor's,Yes,No,No,0
+1521,26,Female,Data Scientist,8,Master's,No,No,Yes,675
+1522,29,Male,System Analyst,2,High School,No,Yes,No,0
+1523,24,Female,Data Scientist,0,Master's,No,Yes,Yes,751
+1524,32,Female,System Analyst,10,High School,No,Yes,No,0
+1525,29,Female,System Analyst,8,Master's,Yes,No,No,0
+1526,31,Male,Web Developer,9,Bachelor's,No,Yes,Yes,23
+1527,25,Female,Data Scientist,3,High School,Yes,No,No,0
+1528,24,Female,Web Developer,3,High School,Yes,No,Yes,689
+1529,26,Female,Database Administrator,2,PhD,Yes,Yes,No,0
+1530,29,Male,Database Administrator,5,Bachelor's,Yes,No,No,0
+1531,22,Female,Web Developer,8,Bachelor's,No,No,No,0
+1532,32,Female,Web Developer,5,Master's,No,Yes,No,0
+1533,31,Female,System Analyst,2,PhD,No,No,No,0
+1534,28,Male,Data Scientist,6,Master's,Yes,No,Yes,517
+1535,26,Female,Data Scientist,1,Bachelor's,Yes,No,No,0
+1536,30,Male,Web Developer,3,High School,No,No,No,0
+1537,30,Male,Software Engineer,4,PhD,No,No,No,0
+1538,30,Male,Software Engineer,2,PhD,No,Yes,No,0
+1539,24,Female,Software Engineer,9,PhD,No,No,Yes,76
+1540,23,Female,Database Administrator,1,Bachelor's,No,No,No,0
+1541,22,Female,Software Engineer,1,Bachelor's,No,Yes,No,0
+1542,30,Female,System Analyst,9,PhD,No,No,No,0
+1543,26,Female,Database Administrator,0,PhD,No,No,No,0
+1544,25,Male,Database Administrator,8,Bachelor's,Yes,Yes,No,0
+1545,23,Male,System Analyst,3,Master's,No,Yes,No,0
+1546,22,Male,Database Administrator,4,Master's,No,No,No,0
+1547,30,Male,Web Developer,5,High School,Yes,No,Yes,705
+1548,30,Female,System Analyst,4,Bachelor's,Yes,Yes,Yes,773
+1549,22,Female,Data Scientist,3,PhD,No,Yes,No,0
+1550,28,Male,Data Scientist,6,PhD,Yes,Yes,No,0
+1551,26,Female,Web Developer,8,Master's,No,Yes,Yes,906
+1552,32,Female,Database Administrator,1,Bachelor's,No,No,No,0
+1553,31,Male,Database Administrator,6,High School,No,Yes,No,0
+1554,30,Female,Database Administrator,5,Bachelor's,No,No,No,0
+1555,26,Female,Data Scientist,4,Bachelor's,No,No,No,0
+1556,30,Male,Web Developer,10,Master's,No,Yes,No,0
+1557,26,Female,Database Administrator,9,Master's,Yes,Yes,No,0
+1558,26,Male,Web Developer,6,Master's,No,Yes,Yes,923
+1559,25,Male,System Analyst,7,High School,No,No,No,0
+1560,28,Male,Database Administrator,9,Master's,No,Yes,Yes,294
+1561,25,Male,System Analyst,9,Bachelor's,No,No,No,0
+1562,28,Female,Web Developer,2,PhD,No,Yes,Yes,607
+1563,32,Male,Data Scientist,3,Master's,No,No,No,0
+1564,27,Female,Web Developer,4,High School,No,No,No,0
+1565,23,Male,Database Administrator,2,Bachelor's,No,No,Yes,383
+1566,32,Female,Web Developer,2,Bachelor's,Yes,No,No,0
+1567,32,Female,Web Developer,9,Master's,Yes,No,No,0
+1568,32,Female,System Analyst,1,High School,No,No,Yes,31
+1569,26,Female,Data Scientist,2,Master's,No,Yes,No,0
+1570,24,Female,Data Scientist,9,Bachelor's,No,Yes,No,0
+1571,30,Male,System Analyst,4,Bachelor's,Yes,Yes,No,0
+1572,27,Male,Database Administrator,2,PhD,No,No,No,0
+1573,28,Male,Software Engineer,10,PhD,No,No,Yes,61
+1574,23,Female,Web Developer,0,Master's,No,Yes,No,0
+1575,31,Male,Web Developer,8,Master's,No,No,No,0
+1576,29,Female,Software Engineer,0,Master's,No,No,No,0
+1577,32,Male,Data Scientist,4,PhD,No,Yes,No,0
+1578,31,Male,Database Administrator,10,Master's,Yes,No,No,0
+1579,23,Male,Web Developer,0,PhD,Yes,Yes,No,0
+1580,30,Female,Web Developer,6,PhD,No,No,Yes,806
+1581,31,Male,System Analyst,8,High School,No,Yes,Yes,832
+1582,23,Male,Database Administrator,7,PhD,No,No,Yes,611
+1583,27,Male,Software Engineer,10,Bachelor's,No,No,No,0
+1584,23,Male,System Analyst,9,Master's,No,No,No,0
+1585,29,Male,Software Engineer,5,Bachelor's,No,Yes,No,0
+1586,24,Male,Software Engineer,4,Bachelor's,Yes,Yes,No,0
+1587,32,Male,Data Scientist,6,Master's,No,No,No,0
+1588,24,Male,Web Developer,3,PhD,Yes,No,No,0
+1589,23,Female,Software Engineer,9,Master's,Yes,No,No,0
+1590,30,Male,Software Engineer,4,PhD,No,Yes,No,0
+1591,31,Female,Web Developer,8,PhD,Yes,No,No,0
+1592,32,Male,System Analyst,9,Master's,Yes,No,Yes,908
+1593,22,Male,Database Administrator,0,Master's,No,Yes,Yes,476
+1594,30,Female,System Analyst,7,Bachelor's,No,No,Yes,222
+1595,24,Male,Software Engineer,0,PhD,No,Yes,No,0
+1596,29,Female,System Analyst,8,Bachelor's,Yes,No,Yes,299
+1597,29,Female,Data Scientist,5,PhD,No,No,Yes,553
+1598,32,Female,System Analyst,1,PhD,No,No,No,0
+1599,29,Male,System Analyst,7,PhD,Yes,No,No,0
+1600,25,Male,Data Scientist,6,PhD,No,Yes,No,0
+1601,23,Female,Software Engineer,0,PhD,No,Yes,No,0
+1602,23,Female,System Analyst,4,Bachelor's,No,Yes,No,0
+1603,30,Male,Data Scientist,10,Master's,Yes,No,Yes,648
+1604,29,Female,Database Administrator,0,High School,Yes,No,No,0
+1605,31,Male,Web Developer,9,Master's,No,No,No,0
+1606,22,Female,Software Engineer,5,PhD,Yes,Yes,No,0
+1607,32,Male,Web Developer,2,Bachelor's,No,Yes,Yes,497
+1608,28,Male,System Analyst,10,High School,No,No,Yes,425
+1609,24,Female,Web Developer,1,Master's,No,No,No,0
+1610,22,Male,Web Developer,6,High School,No,No,No,0
+1611,31,Male,Software Engineer,3,Master's,Yes,Yes,Yes,703
+1612,30,Female,Web Developer,9,PhD,Yes,No,No,0
+1613,29,Female,Database Administrator,6,High School,No,No,No,0
+1614,22,Male,Web Developer,2,Bachelor's,No,Yes,No,0
+1615,23,Female,Database Administrator,2,High School,Yes,No,No,0
+1616,23,Male,Software Engineer,2,High School,No,No,No,0
+1617,28,Female,Data Scientist,8,Bachelor's,No,Yes,No,0
+1618,24,Male,Software Engineer,4,Bachelor's,No,No,No,0
+1619,32,Female,Database Administrator,9,PhD,No,Yes,No,0
+1620,23,Female,Database Administrator,5,PhD,No,No,No,0
+1621,28,Female,System Analyst,3,PhD,No,Yes,Yes,473
+1622,29,Female,System Analyst,3,PhD,Yes,Yes,No,0
+1623,25,Female,Database Administrator,2,PhD,Yes,No,No,0
+1624,24,Male,System Analyst,3,Master's,Yes,No,No,0
+1625,32,Female,Database Administrator,3,High School,No,No,No,0
+1626,26,Male,Data Scientist,2,High School,No,Yes,Yes,14
+1627,28,Male,System Analyst,10,Bachelor's,No,Yes,Yes,342
+1628,24,Male,Software Engineer,7,Bachelor's,No,No,Yes,977
+1629,32,Female,Software Engineer,6,PhD,No,Yes,No,0
+1630,30,Female,Database Administrator,5,Master's,No,No,No,0
+1631,23,Female,System Analyst,10,Master's,No,No,No,0
+1632,30,Female,Data Scientist,2,Master's,Yes,No,Yes,817
+1633,26,Female,System Analyst,1,PhD,No,No,No,0
+1634,31,Female,Database Administrator,1,Bachelor's,No,Yes,No,0
+1635,23,Male,Software Engineer,5,High School,No,No,No,0
+1636,27,Female,Software Engineer,10,PhD,No,Yes,No,0
+1637,25,Female,Web Developer,2,Bachelor's,No,Yes,No,0
+1638,30,Female,Web Developer,6,PhD,Yes,Yes,Yes,62
+1639,30,Female,Software Engineer,8,High School,No,No,No,0
+1640,28,Female,Data Scientist,5,PhD,No,Yes,No,0
+1641,27,Male,Data Scientist,6,Bachelor's,No,No,Yes,741
+1642,28,Male,Software Engineer,0,PhD,No,No,No,0
+1643,29,Male,Web Developer,10,PhD,No,Yes,No,0
+1644,27,Male,Database Administrator,1,High School,No,Yes,Yes,457
+1645,27,Female,System Analyst,2,Bachelor's,Yes,No,Yes,914
+1646,27,Male,Software Engineer,4,Bachelor's,No,Yes,Yes,595
+1647,24,Female,System Analyst,10,High School,No,No,Yes,476
+1648,29,Male,Data Scientist,9,Bachelor's,No,No,No,0
+1649,25,Female,Web Developer,1,Bachelor's,No,No,No,0
+1650,26,Female,Web Developer,9,High School,No,No,No,0
+1651,24,Male,Web Developer,5,PhD,Yes,No,No,0
+1652,30,Male,Database Administrator,6,High School,No,Yes,No,0
+1653,28,Female,Web Developer,10,Master's,No,No,No,0
+1654,27,Male,Software Engineer,5,Master's,Yes,No,No,0
+1655,31,Female,Data Scientist,4,High School,No,No,No,0
+1656,29,Male,System Analyst,6,PhD,No,No,No,0
+1657,29,Male,Database Administrator,1,Bachelor's,Yes,Yes,Yes,482
+1658,27,Female,System Analyst,4,Master's,No,No,Yes,755
+1659,22,Male,Data Scientist,7,PhD,Yes,Yes,No,0
+1660,25,Female,Software Engineer,1,High School,No,Yes,Yes,265
+1661,22,Female,Database Administrator,0,Master's,Yes,No,Yes,681
+1662,26,Female,System Analyst,0,Master's,No,No,No,0
+1663,31,Female,Web Developer,9,Master's,No,No,Yes,156
+1664,31,Female,Data Scientist,6,High School,Yes,No,Yes,182
+1665,31,Female,Web Developer,7,PhD,Yes,Yes,No,0
+1666,28,Male,Database Administrator,1,High School,No,Yes,No,0
+1667,25,Male,Database Administrator,9,PhD,Yes,Yes,Yes,20
+1668,28,Female,Data Scientist,9,High School,No,Yes,No,0
+1669,26,Female,Software Engineer,7,Bachelor's,Yes,Yes,Yes,484
+1670,30,Male,Web Developer,10,PhD,No,Yes,No,0
+1671,30,Female,Software Engineer,4,PhD,No,No,No,0
+1672,29,Female,Web Developer,7,PhD,Yes,Yes,Yes,231
+1673,31,Female,Software Engineer,3,Bachelor's,No,Yes,No,0
+1674,31,Female,Data Scientist,8,PhD,No,No,No,0
+1675,26,Male,System Analyst,6,PhD,No,No,Yes,952
+1676,27,Male,Data Scientist,3,Bachelor's,No,Yes,No,0
+1677,24,Female,Web Developer,5,High School,No,Yes,Yes,230
+1678,22,Male,Database Administrator,10,PhD,Yes,Yes,No,0
+1679,27,Female,Software Engineer,6,High School,No,No,No,0
+1680,22,Female,Web Developer,2,Master's,No,No,No,0
+1681,31,Male,Web Developer,5,High School,No,Yes,No,0
+1682,22,Male,Database Administrator,3,Bachelor's,Yes,Yes,No,0
+1683,26,Male,Web Developer,7,PhD,No,Yes,No,0
+1684,31,Female,Data Scientist,9,Master's,No,Yes,No,0
+1685,25,Male,Data Scientist,6,High School,No,Yes,No,0
+1686,32,Female,Database Administrator,5,Bachelor's,No,Yes,No,0
+1687,27,Male,Database Administrator,4,PhD,Yes,Yes,Yes,664
+1688,23,Male,System Analyst,9,Master's,No,Yes,No,0
+1689,24,Female,Data Scientist,9,Bachelor's,No,Yes,No,0
+1690,28,Female,Web Developer,0,High School,Yes,Yes,No,0
+1691,26,Male,Software Engineer,0,Master's,No,Yes,No,0
+1692,31,Female,Web Developer,6,PhD,No,Yes,No,0
+1693,32,Male,Software Engineer,8,Master's,No,No,Yes,879
+1694,28,Female,Database Administrator,9,Master's,No,No,Yes,261
+1695,24,Female,Database Administrator,5,Bachelor's,No,Yes,No,0
+1696,31,Male,Data Scientist,1,PhD,No,Yes,Yes,360
+1697,28,Male,System Analyst,5,Bachelor's,No,No,No,0
+1698,24,Female,Database Administrator,2,High School,No,No,No,0
+1699,32,Male,Software Engineer,4,High School,No,Yes,No,0
+1700,31,Male,Web Developer,2,Bachelor's,No,No,No,0
+1701,28,Male,Data Scientist,0,High School,No,No,Yes,526
+1702,23,Female,Software Engineer,1,Master's,Yes,Yes,No,0
+1703,23,Male,Web Developer,8,Bachelor's,No,No,No,0
+1704,32,Female,System Analyst,8,Master's,Yes,Yes,Yes,226
+1705,22,Female,Database Administrator,1,Bachelor's,Yes,No,No,0
+1706,22,Female,Data Scientist,2,High School,No,Yes,Yes,748
+1707,31,Female,Database Administrator,8,PhD,Yes,No,No,0
+1708,31,Female,Data Scientist,4,Bachelor's,Yes,No,No,0
+1709,24,Male,Software Engineer,2,PhD,No,Yes,Yes,752
+1710,25,Female,Database Administrator,9,Bachelor's,No,No,Yes,155
+1711,28,Female,System Analyst,10,High School,No,No,No,0
+1712,23,Male,Web Developer,9,Bachelor's,No,No,No,0
+1713,24,Female,System Analyst,8,PhD,No,No,Yes,690
+1714,22,Male,Web Developer,6,High School,No,No,No,0
+1715,31,Female,Web Developer,4,Bachelor's,Yes,No,No,0
+1716,27,Female,System Analyst,7,High School,No,No,No,0
+1717,28,Female,Software Engineer,7,Bachelor's,No,No,No,0
+1718,24,Male,System Analyst,0,Bachelor's,No,Yes,No,0
+1719,30,Male,Web Developer,6,High School,No,Yes,No,0
+1720,29,Male,Database Administrator,5,Bachelor's,No,No,No,0
+1721,22,Female,Data Scientist,9,PhD,No,Yes,No,0
+1722,29,Male,Software Engineer,5,Bachelor's,No,No,No,0
+1723,29,Female,Web Developer,10,PhD,No,No,No,0
+1724,31,Female,Data Scientist,8,High School,No,No,No,0
+1725,28,Female,Web Developer,0,PhD,No,No,No,0
+1726,24,Female,Data Scientist,3,Bachelor's,Yes,Yes,No,0
+1727,26,Female,System Analyst,6,Master's,No,Yes,Yes,385
+1728,25,Female,Data Scientist,8,Master's,No,No,Yes,462
+1729,24,Male,Data Scientist,8,PhD,Yes,Yes,No,0
+1730,32,Female,System Analyst,1,Bachelor's,No,Yes,No,0
+1731,28,Female,Database Administrator,2,Bachelor's,No,No,No,0
+1732,25,Female,System Analyst,2,Master's,No,Yes,No,0
+1733,30,Male,Database Administrator,0,High School,No,No,No,0
+1734,28,Male,Database Administrator,6,High School,Yes,Yes,No,0
+1735,26,Female,Data Scientist,9,Bachelor's,Yes,No,No,0
+1736,31,Female,Database Administrator,2,Bachelor's,No,No,No,0
+1737,24,Female,System Analyst,4,PhD,Yes,No,No,0
+1738,24,Male,System Analyst,10,Master's,Yes,No,Yes,483
+1739,22,Female,System Analyst,6,Master's,No,No,Yes,206
+1740,31,Male,Data Scientist,10,High School,No,No,Yes,887
+1741,22,Male,Web Developer,1,Master's,No,Yes,No,0
+1742,29,Female,Software Engineer,7,PhD,Yes,No,No,0
+1743,26,Male,Data Scientist,10,Master's,No,Yes,No,0
+1744,28,Female,Database Administrator,1,High School,No,Yes,Yes,527
+1745,22,Male,Web Developer,5,PhD,Yes,Yes,No,0
+1746,30,Female,Web Developer,10,Bachelor's,No,No,No,0
+1747,30,Male,Data Scientist,8,PhD,No,Yes,No,0
+1748,32,Male,Software Engineer,8,Master's,Yes,No,Yes,564
+1749,24,Male,Data Scientist,8,High School,Yes,Yes,No,0
+1750,25,Female,Web Developer,3,PhD,Yes,Yes,Yes,915
+1751,28,Female,Data Scientist,6,Bachelor's,No,Yes,Yes,337
+1752,22,Female,Data Scientist,4,PhD,Yes,Yes,No,0
+1753,23,Male,Data Scientist,6,PhD,No,No,No,0
+1754,26,Female,System Analyst,9,Bachelor's,No,No,No,0
+1755,27,Female,System Analyst,10,Bachelor's,No,Yes,No,0
+1756,32,Male,Data Scientist,1,Bachelor's,Yes,No,No,0
+1757,31,Male,Web Developer,9,High School,No,Yes,No,0
+1758,23,Male,Software Engineer,6,PhD,No,No,No,0
+1759,26,Female,Web Developer,0,PhD,No,No,No,0
+1760,31,Female,Web Developer,10,Master's,No,No,No,0
+1761,22,Male,System Analyst,1,Master's,No,Yes,No,0
+1762,27,Female,Data Scientist,3,Bachelor's,No,No,No,0
+1763,23,Female,Software Engineer,0,Master's,No,Yes,No,0
+1764,28,Female,System Analyst,3,PhD,No,No,No,0
+1765,32,Female,System Analyst,5,High School,No,Yes,Yes,48
+1766,22,Female,System Analyst,0,PhD,Yes,No,No,0
+1767,29,Female,System Analyst,5,Bachelor's,No,No,No,0
+1768,22,Male,Database Administrator,9,High School,No,Yes,No,0
+1769,26,Female,Software Engineer,6,Master's,Yes,No,No,0
+1770,30,Male,Web Developer,10,High School,No,Yes,No,0
+1771,28,Female,Data Scientist,0,Bachelor's,No,Yes,Yes,366
+1772,28,Male,Software Engineer,8,Bachelor's,No,Yes,No,0
+1773,26,Female,Data Scientist,8,High School,No,No,Yes,19
+1774,23,Male,Software Engineer,1,Master's,No,No,No,0
+1775,23,Female,Data Scientist,5,PhD,No,No,No,0
+1776,32,Female,Data Scientist,7,Master's,No,No,No,0
+1777,24,Male,Data Scientist,8,Bachelor's,No,Yes,No,0
+1778,22,Male,Web Developer,5,Bachelor's,No,No,No,0
+1779,31,Female,System Analyst,5,Bachelor's,Yes,No,No,0
+1780,29,Male,System Analyst,0,Bachelor's,No,Yes,No,0
+1781,26,Female,Web Developer,8,High School,Yes,Yes,Yes,653
+1782,23,Male,Web Developer,7,Bachelor's,No,Yes,No,0
+1783,29,Female,Web Developer,7,PhD,No,Yes,No,0
+1784,26,Female,Software Engineer,4,Master's,No,No,No,0
+1785,28,Female,Web Developer,1,PhD,No,No,Yes,931
+1786,30,Male,Web Developer,0,PhD,No,Yes,No,0
+1787,28,Male,Database Administrator,5,Bachelor's,No,Yes,No,0
+1788,32,Male,System Analyst,10,Bachelor's,No,No,Yes,862
+1789,32,Female,Web Developer,7,Master's,Yes,No,No,0
+1790,31,Female,Data Scientist,1,PhD,No,Yes,No,0
+1791,22,Female,Database Administrator,9,PhD,No,Yes,No,0
+1792,27,Male,Database Administrator,2,High School,No,No,Yes,579
+1793,26,Male,Web Developer,8,Master's,Yes,No,No,0
+1794,30,Male,System Analyst,3,Bachelor's,Yes,No,Yes,606
+1795,27,Male,Software Engineer,5,Master's,No,Yes,No,0
+1796,28,Female,System Analyst,3,Master's,No,No,No,0
+1797,29,Male,Web Developer,9,PhD,Yes,No,Yes,225
+1798,22,Female,Web Developer,10,PhD,No,No,No,0
+1799,27,Female,Database Administrator,10,Master's,Yes,No,No,0
+1800,22,Female,System Analyst,0,PhD,No,No,No,0
+1801,22,Male,Data Scientist,8,Bachelor's,Yes,No,Yes,742
+1802,30,Female,Data Scientist,2,Bachelor's,No,No,No,0
+1803,29,Male,Software Engineer,7,High School,No,No,No,0
+1804,26,Male,Database Administrator,4,Master's,No,No,No,0
+1805,29,Male,System Analyst,6,High School,No,No,Yes,451
+1806,32,Male,Database Administrator,6,PhD,Yes,No,No,0
+1807,29,Male,System Analyst,5,High School,No,Yes,No,0
+1808,24,Male,System Analyst,4,High School,No,No,Yes,992
+1809,29,Male,Web Developer,8,Bachelor's,No,No,No,0
+1810,23,Female,Web Developer,9,PhD,No,No,No,0
+1811,30,Male,Software Engineer,6,Master's,No,No,No,0
+1812,25,Male,Software Engineer,9,Bachelor's,Yes,Yes,Yes,669
+1813,31,Female,System Analyst,10,PhD,No,Yes,No,0
+1814,32,Female,Database Administrator,8,PhD,Yes,Yes,Yes,79
+1815,26,Male,Software Engineer,10,Master's,No,No,Yes,173
+1816,31,Male,Database Administrator,10,High School,No,Yes,No,0
+1817,29,Male,Software Engineer,8,Master's,No,No,No,0
+1818,28,Male,System Analyst,4,Master's,No,Yes,No,0
+1819,31,Female,Software Engineer,1,High School,No,No,Yes,912
+1820,30,Male,Software Engineer,2,Master's,Yes,No,No,0
+1821,28,Female,Data Scientist,1,High School,No,Yes,Yes,168
+1822,30,Female,Data Scientist,0,Master's,No,Yes,No,0
+1823,26,Female,System Analyst,10,PhD,Yes,Yes,Yes,641
+1824,24,Female,Database Administrator,2,High School,Yes,Yes,Yes,277
+1825,29,Female,System Analyst,10,High School,No,No,Yes,970
+1826,30,Male,Web Developer,6,Master's,Yes,Yes,Yes,591
+1827,31,Female,Web Developer,6,Master's,Yes,No,No,0
+1828,23,Male,Software Engineer,6,PhD,No,Yes,No,0
+1829,28,Female,Database Administrator,4,High School,Yes,No,Yes,682
+1830,31,Female,Database Administrator,9,High School,No,No,Yes,145
+1831,32,Female,Database Administrator,8,Master's,No,No,Yes,72
+1832,24,Male,System Analyst,8,PhD,No,Yes,No,0
+1833,28,Female,Data Scientist,0,PhD,Yes,Yes,Yes,472
+1834,28,Male,Data Scientist,2,High School,No,Yes,Yes,878
+1835,27,Male,System Analyst,3,High School,No,Yes,No,0
+1836,26,Female,System Analyst,3,PhD,No,No,Yes,607
+1837,25,Female,Data Scientist,8,PhD,No,Yes,No,0
+1838,30,Male,Database Administrator,7,Bachelor's,No,Yes,Yes,472
+1839,30,Male,Software Engineer,7,Master's,Yes,No,No,0
+1840,24,Female,Web Developer,2,Master's,No,No,Yes,419
+1841,26,Female,System Analyst,1,High School,No,No,Yes,795
+1842,31,Male,System Analyst,7,Bachelor's,No,No,No,0
+1843,25,Female,Software Engineer,6,High School,No,No,No,0
+1844,29,Male,System Analyst,4,Master's,No,No,Yes,833
+1845,29,Female,Software Engineer,2,Master's,No,Yes,Yes,139
+1846,28,Male,System Analyst,0,PhD,No,No,Yes,398
+1847,24,Male,Database Administrator,6,Master's,Yes,No,No,0
+1848,31,Male,System Analyst,5,PhD,No,Yes,Yes,101
+1849,22,Female,System Analyst,9,High School,No,Yes,No,0
+1850,23,Female,Database Administrator,9,PhD,No,Yes,No,0
+1851,30,Male,System Analyst,5,High School,No,Yes,No,0
+1852,30,Female,System Analyst,4,High School,Yes,Yes,No,0
+1853,26,Female,Web Developer,5,High School,No,No,Yes,322
+1854,24,Male,Database Administrator,8,High School,No,Yes,No,0
+1855,26,Male,System Analyst,5,Bachelor's,No,No,No,0
+1856,22,Female,System Analyst,0,High School,No,Yes,No,0
+1857,31,Male,Data Scientist,6,PhD,Yes,No,No,0
+1858,27,Male,Web Developer,5,Bachelor's,No,No,No,0
+1859,24,Female,Database Administrator,8,High School,Yes,Yes,Yes,839
+1860,26,Male,Software Engineer,6,Bachelor's,Yes,Yes,No,0
+1861,22,Female,Software Engineer,9,Master's,Yes,No,No,0
+1862,32,Female,Software Engineer,6,Bachelor's,No,No,No,0
+1863,22,Female,Data Scientist,5,Master's,No,No,Yes,384
+1864,22,Female,Software Engineer,7,High School,Yes,Yes,No,0
+1865,30,Female,Web Developer,3,Bachelor's,Yes,Yes,Yes,155
+1866,32,Female,Database Administrator,10,Master's,No,Yes,No,0
+1867,31,Male,Software Engineer,7,High School,Yes,No,Yes,681
+1868,23,Female,Web Developer,6,Bachelor's,Yes,Yes,No,0
+1869,32,Female,Web Developer,3,PhD,Yes,Yes,No,0
+1870,23,Male,Data Scientist,8,Bachelor's,No,No,Yes,103
+1871,29,Male,Web Developer,3,Bachelor's,No,Yes,Yes,740
+1872,22,Female,Web Developer,10,High School,No,Yes,No,0
+1873,25,Male,Web Developer,4,Master's,No,Yes,No,0
+1874,29,Male,Database Administrator,7,Bachelor's,No,No,No,0
+1875,32,Male,Web Developer,2,PhD,No,Yes,No,0
+1876,24,Female,System Analyst,2,Bachelor's,Yes,No,Yes,229
+1877,24,Female,Software Engineer,2,Bachelor's,No,No,Yes,625
+1878,30,Male,Database Administrator,4,High School,No,No,Yes,567
+1879,23,Male,System Analyst,6,Master's,Yes,No,No,0
+1880,28,Male,Web Developer,1,Master's,Yes,No,No,0
+1881,30,Male,Data Scientist,7,Bachelor's,No,No,Yes,343
+1882,23,Female,Web Developer,3,Master's,No,Yes,Yes,843
+1883,26,Male,Data Scientist,1,Master's,No,No,Yes,822
+1884,22,Female,Software Engineer,7,Bachelor's,Yes,No,No,0
+1885,26,Female,Web Developer,1,High School,No,Yes,No,0
+1886,25,Male,Database Administrator,1,Bachelor's,No,No,No,0
+1887,27,Male,Data Scientist,1,High School,Yes,No,No,0
+1888,27,Female,Software Engineer,1,High School,No,No,Yes,103
+1889,24,Male,Web Developer,2,Bachelor's,Yes,Yes,Yes,799
+1890,24,Male,Database Administrator,0,High School,No,No,Yes,676
+1891,26,Male,Database Administrator,5,PhD,No,No,No,0
+1892,24,Male,Data Scientist,8,Bachelor's,No,Yes,No,0
+1893,24,Female,Database Administrator,7,High School,No,No,No,0
+1894,25,Female,Web Developer,6,Bachelor's,Yes,Yes,Yes,977
+1895,23,Male,Database Administrator,8,PhD,Yes,Yes,No,0
+1896,27,Female,Data Scientist,7,PhD,No,No,Yes,412
+1897,32,Male,Database Administrator,10,Bachelor's,No,No,Yes,707
+1898,22,Female,Data Scientist,8,PhD,No,Yes,No,0
+1899,22,Female,Database Administrator,4,Master's,No,No,No,0
+1900,28,Female,Software Engineer,7,Master's,No,No,No,0
+1901,27,Male,Software Engineer,8,High School,No,No,No,0
+1902,29,Male,Database Administrator,6,Bachelor's,No,Yes,No,0
+1903,22,Female,Database Administrator,6,Master's,No,Yes,No,0
+1904,22,Female,Web Developer,4,High School,No,No,No,0
+1905,32,Male,System Analyst,5,PhD,Yes,Yes,No,0
+1906,31,Female,Data Scientist,4,Bachelor's,No,No,Yes,283
+1907,29,Female,Software Engineer,5,Bachelor's,No,No,Yes,371
+1908,23,Female,Database Administrator,4,Bachelor's,No,No,No,0
+1909,32,Male,Database Administrator,1,Master's,Yes,No,No,0
+1910,26,Female,Software Engineer,9,High School,No,No,Yes,356
+1911,31,Male,System Analyst,10,Bachelor's,No,No,No,0
+1912,32,Female,Database Administrator,6,High School,No,Yes,No,0
+1913,30,Female,System Analyst,8,Master's,Yes,No,No,0
+1914,26,Male,Data Scientist,7,Bachelor's,No,No,No,0
+1915,27,Female,Data Scientist,1,Bachelor's,No,No,No,0
+1916,26,Male,System Analyst,10,PhD,No,No,No,0
+1917,30,Female,Database Administrator,9,High School,No,No,No,0
+1918,25,Female,System Analyst,1,PhD,Yes,No,No,0
+1919,26,Male,Database Administrator,8,Master's,No,No,No,0
+1920,25,Male,Web Developer,0,PhD,No,Yes,Yes,364
+1921,23,Female,Web Developer,3,Bachelor's,No,Yes,No,0
+1922,30,Female,Software Engineer,10,Bachelor's,Yes,No,No,0
+1923,27,Female,Database Administrator,8,PhD,No,Yes,Yes,691
+1924,30,Male,Database Administrator,3,Bachelor's,No,Yes,No,0
+1925,30,Female,Web Developer,4,High School,No,Yes,No,0
+1926,30,Male,Web Developer,7,High School,No,No,No,0
+1927,28,Female,Database Administrator,7,High School,Yes,No,Yes,736
+1928,23,Male,Data Scientist,5,High School,Yes,Yes,Yes,688
+1929,24,Male,Data Scientist,9,PhD,Yes,No,No,0
+1930,28,Male,Web Developer,9,Bachelor's,Yes,No,No,0
+1931,26,Male,Web Developer,7,PhD,Yes,Yes,No,0
+1932,31,Female,Software Engineer,0,PhD,No,Yes,No,0
+1933,29,Male,System Analyst,3,PhD,Yes,No,Yes,410
+1934,26,Male,Database Administrator,5,PhD,No,No,No,0
+1935,29,Male,Software Engineer,6,High School,No,No,No,0
+1936,27,Female,Database Administrator,6,Bachelor's,No,Yes,No,0
+1937,32,Male,Software Engineer,8,Master's,No,Yes,No,0
+1938,24,Female,System Analyst,10,Bachelor's,No,No,No,0
+1939,29,Female,System Analyst,4,High School,No,Yes,No,0
+1940,32,Male,Software Engineer,6,Master's,No,Yes,No,0
+1941,30,Female,Software Engineer,8,PhD,Yes,Yes,Yes,883
+1942,30,Male,Data Scientist,10,High School,No,Yes,No,0
+1943,26,Female,Software Engineer,9,Master's,Yes,No,No,0
+1944,22,Male,Database Administrator,9,Master's,No,No,No,0
+1945,22,Male,Database Administrator,7,Bachelor's,No,No,No,0
+1946,24,Female,Software Engineer,3,Bachelor's,No,Yes,No,0
+1947,30,Female,Database Administrator,4,Bachelor's,No,No,No,0
+1948,23,Male,Web Developer,3,PhD,No,Yes,Yes,163
+1949,29,Male,Database Administrator,5,High School,Yes,No,Yes,556
+1950,28,Female,Software Engineer,0,PhD,No,Yes,No,0
+1951,31,Female,System Analyst,3,High School,Yes,No,No,0
+1952,31,Female,System Analyst,10,Bachelor's,Yes,No,No,0
+1953,24,Female,Software Engineer,3,High School,No,No,No,0
+1954,30,Female,Data Scientist,3,Bachelor's,No,No,No,0
+1955,30,Female,Software Engineer,1,Master's,No,No,Yes,71
+1956,25,Male,System Analyst,2,PhD,No,Yes,Yes,787
+1957,22,Female,Web Developer,1,Bachelor's,No,Yes,No,0
+1958,30,Female,Data Scientist,5,High School,Yes,No,No,0
+1959,24,Male,System Analyst,2,High School,Yes,No,Yes,737
+1960,30,Female,Software Engineer,6,Bachelor's,No,Yes,No,0
+1961,23,Male,Web Developer,3,Master's,No,Yes,No,0
+1962,30,Male,Software Engineer,5,PhD,No,No,No,0
+1963,31,Male,Web Developer,8,Bachelor's,No,Yes,Yes,810
+1964,26,Male,Software Engineer,4,High School,Yes,No,No,0
+1965,32,Female,Web Developer,8,Master's,No,Yes,No,0
+1966,24,Male,Database Administrator,8,Master's,No,No,No,0
+1967,30,Female,Database Administrator,3,Bachelor's,Yes,Yes,No,0
+1968,27,Male,Software Engineer,3,Master's,No,No,Yes,951
+1969,27,Male,Web Developer,3,High School,No,Yes,No,0
+1970,26,Male,Web Developer,5,Master's,No,No,No,0
+1971,25,Female,Data Scientist,6,Bachelor's,No,No,Yes,822
+1972,29,Male,Database Administrator,3,Bachelor's,No,No,No,0
+1973,23,Female,Web Developer,8,Bachelor's,No,Yes,No,0
+1974,31,Male,Web Developer,1,High School,No,No,No,0
+1975,22,Female,Data Scientist,6,High School,Yes,No,No,0
+1976,26,Female,Data Scientist,8,Master's,No,No,No,0
+1977,31,Female,Software Engineer,8,High School,No,No,Yes,213
+1978,31,Male,Software Engineer,1,PhD,No,Yes,No,0
+1979,31,Female,Software Engineer,3,PhD,No,No,No,0
+1980,27,Male,System Analyst,1,Bachelor's,No,No,No,0
+1981,30,Male,Database Administrator,8,Bachelor's,No,No,Yes,732
+1982,23,Male,Web Developer,10,PhD,Yes,No,No,0
+1983,25,Male,Web Developer,10,High School,No,No,No,0
+1984,25,Male,Software Engineer,5,PhD,No,Yes,No,0
+1985,22,Female,Software Engineer,7,High School,No,No,No,0
+1986,29,Male,Web Developer,3,PhD,No,No,No,0
+1987,23,Male,Web Developer,1,Master's,Yes,No,No,0
+1988,26,Female,Software Engineer,10,Master's,No,Yes,No,0
+1989,22,Male,Database Administrator,7,Bachelor's,Yes,Yes,Yes,556
+1990,28,Male,Data Scientist,0,Master's,No,Yes,No,0
+1991,26,Female,Data Scientist,8,High School,No,Yes,No,0
+1992,32,Female,System Analyst,0,PhD,No,Yes,No,0
+1993,22,Female,Database Administrator,0,High School,No,Yes,No,0
+1994,26,Male,Data Scientist,4,High School,No,No,No,0
+1995,28,Male,Database Administrator,2,High School,Yes,No,Yes,393
+1996,27,Male,System Analyst,6,PhD,No,No,No,0
+1997,26,Male,Web Developer,8,Bachelor's,Yes,No,No,0
+1998,29,Male,Data Scientist,1,Master's,No,No,No,0
+1999,30,Male,Web Developer,3,High School,No,Yes,No,0
+2000,24,Male,Software Engineer,7,Bachelor's,Yes,No,No,0
+2001,30,Female,Data Scientist,9,High School,No,No,Yes,421
+2002,22,Male,Web Developer,4,Bachelor's,No,Yes,No,0
+2003,27,Female,Database Administrator,1,High School,No,Yes,No,0
+2004,28,Male,System Analyst,7,PhD,No,No,Yes,809
+2005,26,Male,System Analyst,5,Master's,No,No,No,0
+2006,23,Female,Data Scientist,6,PhD,No,Yes,No,0
+2007,27,Male,System Analyst,6,Master's,Yes,Yes,No,0
+2008,30,Male,Web Developer,6,Bachelor's,No,No,No,0
+2009,30,Male,Database Administrator,6,PhD,Yes,Yes,Yes,466
+2010,29,Female,Software Engineer,4,High School,Yes,No,Yes,972
+2011,29,Female,Software Engineer,1,Master's,No,No,No,0
+2012,28,Female,Data Scientist,0,Bachelor's,Yes,Yes,No,0
+2013,26,Female,Web Developer,2,Master's,No,No,No,0
+2014,29,Female,System Analyst,5,Master's,No,No,No,0
+2015,22,Male,Database Administrator,2,Bachelor's,No,Yes,No,0
+2016,28,Female,Database Administrator,6,High School,Yes,No,No,0
+2017,26,Female,System Analyst,8,High School,No,Yes,Yes,720
+2018,28,Male,Data Scientist,3,High School,No,Yes,No,0
+2019,28,Male,Data Scientist,9,Master's,No,No,No,0
+2020,24,Male,Software Engineer,9,Master's,No,No,No,0
+2021,30,Male,System Analyst,2,PhD,Yes,Yes,No,0
+2022,26,Male,Software Engineer,2,Master's,No,No,No,0
+2023,29,Female,Software Engineer,7,High School,No,Yes,Yes,220
+2024,32,Male,Software Engineer,8,Master's,Yes,No,Yes,778
+2025,32,Female,Web Developer,6,Bachelor's,No,Yes,No,0
+2026,27,Female,Data Scientist,2,High School,No,Yes,No,0
+2027,22,Male,Web Developer,8,Master's,No,Yes,Yes,201
+2028,32,Female,Data Scientist,7,High School,No,Yes,No,0
+2029,22,Female,Web Developer,9,Master's,No,Yes,No,0
+2030,31,Male,Software Engineer,8,PhD,No,No,Yes,845
+2031,32,Female,Data Scientist,8,Master's,Yes,No,No,0
+2032,32,Female,Web Developer,10,PhD,No,Yes,No,0
+2033,24,Male,Web Developer,9,Bachelor's,No,No,No,0
+2034,25,Female,Data Scientist,3,Bachelor's,No,Yes,No,0
+2035,25,Male,Software Engineer,7,High School,No,Yes,No,0
+2036,28,Male,System Analyst,0,Bachelor's,Yes,Yes,No,0
+2037,31,Male,Data Scientist,7,PhD,Yes,No,Yes,617
+2038,22,Female,Web Developer,5,PhD,Yes,Yes,No,0
+2039,30,Male,Database Administrator,2,High School,Yes,Yes,No,0
+2040,28,Female,Data Scientist,4,Bachelor's,No,Yes,Yes,682
+2041,29,Female,Software Engineer,4,High School,No,Yes,Yes,54
+2042,28,Male,Database Administrator,0,Bachelor's,No,Yes,No,0
+2043,27,Male,System Analyst,10,Bachelor's,No,No,No,0
+2044,30,Male,Database Administrator,10,High School,Yes,Yes,No,0
+2045,30,Male,Software Engineer,0,High School,No,No,No,0
+2046,28,Male,Data Scientist,7,Master's,Yes,No,No,0
+2047,26,Female,Software Engineer,5,PhD,Yes,No,No,0
+2048,26,Female,Database Administrator,8,PhD,Yes,No,Yes,432
+2049,29,Female,Web Developer,10,High School,Yes,Yes,Yes,593
+2050,31,Male,Database Administrator,10,PhD,No,Yes,No,0
+2051,31,Male,Data Scientist,10,PhD,No,No,Yes,608
+2052,26,Male,System Analyst,2,High School,Yes,No,Yes,451
+2053,28,Female,Database Administrator,2,Bachelor's,No,Yes,Yes,554
+2054,22,Male,Data Scientist,0,High School,No,No,No,0
+2055,32,Male,Data Scientist,6,PhD,Yes,No,No,0
+2056,27,Female,Data Scientist,2,PhD,No,No,No,0
+2057,25,Female,System Analyst,1,Master's,No,No,No,0
+2058,24,Male,Web Developer,9,Master's,Yes,Yes,No,0
+2059,32,Female,Database Administrator,1,Bachelor's,No,No,Yes,854
+2060,31,Male,System Analyst,5,Bachelor's,No,Yes,No,0
+2061,23,Female,System Analyst,5,Bachelor's,No,Yes,Yes,186
+2062,22,Female,Database Administrator,8,Master's,No,Yes,Yes,339
+2063,27,Female,Data Scientist,1,PhD,No,No,Yes,277
+2064,29,Male,System Analyst,8,Bachelor's,Yes,No,No,0
+2065,23,Female,System Analyst,4,PhD,No,No,No,0
+2066,22,Male,System Analyst,1,Bachelor's,No,No,No,0
+2067,24,Male,Web Developer,2,Bachelor's,No,Yes,No,0
+2068,30,Male,Web Developer,6,Master's,Yes,Yes,No,0
+2069,31,Male,Web Developer,8,High School,No,Yes,No,0
+2070,30,Male,Database Administrator,8,Bachelor's,Yes,No,Yes,494
+2071,22,Female,Web Developer,9,PhD,No,No,No,0
+2072,24,Male,Database Administrator,4,Bachelor's,No,Yes,No,0
+2073,25,Female,Web Developer,3,Master's,No,No,Yes,145
+2074,28,Male,Software Engineer,0,Bachelor's,No,No,No,0
+2075,23,Male,System Analyst,10,PhD,No,Yes,No,0
+2076,31,Female,Database Administrator,5,High School,No,No,Yes,48
+2077,25,Female,Data Scientist,5,Bachelor's,Yes,Yes,No,0
+2078,29,Male,Database Administrator,7,Master's,No,Yes,Yes,68
+2079,30,Male,Data Scientist,8,Bachelor's,No,Yes,Yes,815
+2080,23,Male,System Analyst,8,Master's,Yes,No,No,0
+2081,25,Male,Web Developer,3,Bachelor's,Yes,Yes,No,0
+2082,27,Female,Data Scientist,3,High School,Yes,Yes,Yes,799
+2083,32,Female,Data Scientist,8,Master's,No,No,No,0
+2084,28,Male,Data Scientist,3,High School,No,Yes,No,0
+2085,28,Male,System Analyst,10,Master's,No,Yes,No,0
+2086,24,Female,Data Scientist,0,Bachelor's,No,No,No,0
+2087,31,Female,Web Developer,3,High School,No,No,No,0
+2088,23,Female,Database Administrator,3,High School,No,Yes,Yes,139
+2089,26,Male,Data Scientist,7,Master's,No,No,No,0
+2090,32,Female,Database Administrator,2,PhD,Yes,No,No,0
+2091,28,Male,Web Developer,3,Bachelor's,No,No,No,0
+2092,28,Male,Web Developer,9,PhD,No,Yes,No,0
+2093,27,Female,Web Developer,9,PhD,No,No,No,0
+2094,23,Male,Database Administrator,10,Bachelor's,No,No,No,0
+2095,28,Female,System Analyst,3,High School,Yes,No,No,0
+2096,24,Male,Data Scientist,10,PhD,No,Yes,No,0
+2097,26,Male,System Analyst,0,High School,No,No,No,0
+2098,27,Female,Database Administrator,5,PhD,Yes,No,No,0
+2099,26,Male,Data Scientist,10,Bachelor's,No,Yes,No,0
+2100,28,Male,Data Scientist,9,Bachelor's,No,No,Yes,406
+2101,31,Male,System Analyst,3,PhD,No,No,No,0
+2102,23,Male,System Analyst,7,High School,No,No,Yes,658
+2103,28,Female,Software Engineer,2,Master's,No,No,No,0
+2104,29,Female,System Analyst,10,PhD,No,Yes,No,0
+2105,30,Female,System Analyst,0,PhD,No,Yes,No,0
+2106,32,Male,Data Scientist,9,High School,No,No,No,0
+2107,23,Male,Database Administrator,1,Master's,No,Yes,No,0
+2108,24,Female,Software Engineer,1,Bachelor's,Yes,No,Yes,436
+2109,22,Male,Web Developer,5,Master's,No,Yes,No,0
+2110,27,Male,Web Developer,6,Master's,Yes,No,Yes,101
+2111,30,Male,Software Engineer,8,Master's,No,Yes,No,0
+2112,28,Female,Database Administrator,10,Bachelor's,Yes,No,No,0
+2113,27,Male,Web Developer,10,Master's,No,No,No,0
+2114,24,Male,Database Administrator,10,PhD,No,No,No,0
+2115,26,Male,Web Developer,1,Bachelor's,Yes,No,Yes,122
+2116,32,Female,Software Engineer,2,PhD,No,Yes,Yes,220
+2117,27,Female,Software Engineer,1,PhD,No,Yes,No,0
+2118,27,Female,Web Developer,7,High School,No,No,No,0
+2119,29,Male,Database Administrator,1,Master's,No,No,No,0
+2120,26,Male,Web Developer,1,High School,No,Yes,Yes,991
+2121,22,Female,Web Developer,0,Bachelor's,No,Yes,No,0
+2122,29,Male,Data Scientist,2,Bachelor's,No,Yes,No,0
+2123,24,Male,Data Scientist,9,Master's,No,No,No,0
+2124,22,Male,Data Scientist,1,Bachelor's,Yes,Yes,No,0
+2125,22,Female,Database Administrator,5,PhD,No,No,No,0
+2126,26,Female,Database Administrator,5,Bachelor's,Yes,Yes,No,0
+2127,22,Male,System Analyst,4,High School,No,Yes,No,0
+2128,27,Female,System Analyst,3,PhD,No,Yes,Yes,2
+2129,31,Male,Software Engineer,0,High School,No,Yes,No,0
+2130,30,Male,Database Administrator,4,PhD,No,No,Yes,125
+2131,28,Female,System Analyst,9,PhD,No,Yes,No,0
+2132,30,Male,Data Scientist,6,High School,No,No,No,0
+2133,27,Female,System Analyst,3,Bachelor's,Yes,Yes,No,0
+2134,31,Female,Software Engineer,2,High School,No,Yes,Yes,253
+2135,27,Male,Web Developer,10,PhD,No,Yes,No,0
+2136,25,Female,System Analyst,10,Bachelor's,No,Yes,Yes,645
+2137,29,Male,Software Engineer,9,High School,No,No,No,0
+2138,25,Female,System Analyst,7,PhD,No,Yes,No,0
+2139,31,Female,System Analyst,10,Bachelor's,Yes,No,No,0
+2140,30,Female,Database Administrator,7,High School,Yes,No,No,0
+2141,29,Male,Web Developer,6,PhD,No,Yes,Yes,571
+2142,31,Male,Database Administrator,3,Bachelor's,Yes,Yes,No,0
+2143,23,Male,System Analyst,5,Bachelor's,No,Yes,No,0
+2144,32,Male,Software Engineer,5,Master's,Yes,Yes,Yes,633
+2145,27,Male,Software Engineer,5,Master's,No,No,No,0
+2146,28,Male,Software Engineer,10,PhD,No,Yes,No,0
+2147,25,Female,System Analyst,8,PhD,No,Yes,Yes,480
+2148,23,Female,Data Scientist,8,High School,No,No,Yes,424
+2149,31,Male,Data Scientist,9,Master's,Yes,No,No,0
+2150,29,Female,Web Developer,0,Bachelor's,No,Yes,No,0
+2151,22,Female,Web Developer,2,Bachelor's,No,No,No,0
+2152,27,Female,System Analyst,4,Bachelor's,No,No,Yes,314
+2153,30,Female,Data Scientist,3,Master's,Yes,Yes,Yes,738
+2154,27,Female,Software Engineer,8,PhD,No,No,Yes,591
+2155,22,Female,Software Engineer,2,High School,No,Yes,Yes,187
+2156,24,Male,Web Developer,2,Bachelor's,Yes,No,No,0
+2157,30,Female,Data Scientist,7,Master's,Yes,Yes,Yes,534
+2158,26,Male,Web Developer,6,High School,No,Yes,Yes,340
+2159,31,Male,Data Scientist,8,Master's,Yes,No,Yes,107
+2160,31,Female,System Analyst,8,Bachelor's,Yes,No,No,0
+2161,25,Male,Database Administrator,4,Bachelor's,Yes,No,No,0
+2162,22,Male,Database Administrator,4,Master's,No,Yes,No,0
+2163,23,Male,System Analyst,10,High School,Yes,Yes,No,0
+2164,23,Male,Database Administrator,5,Master's,Yes,No,No,0
+2165,31,Female,Software Engineer,0,Master's,Yes,No,No,0
+2166,29,Male,Data Scientist,3,PhD,No,Yes,Yes,370
+2167,29,Male,Data Scientist,0,Bachelor's,No,Yes,No,0
+2168,28,Female,Data Scientist,8,High School,No,Yes,No,0
+2169,24,Female,Software Engineer,7,PhD,No,No,No,0
+2170,28,Male,Web Developer,5,Bachelor's,Yes,No,Yes,469
+2171,23,Female,Web Developer,3,Master's,No,No,No,0
+2172,22,Male,Database Administrator,9,High School,No,Yes,No,0
+2173,28,Male,Software Engineer,5,Master's,No,No,No,0
+2174,27,Female,System Analyst,4,Master's,No,Yes,No,0
+2175,29,Female,Data Scientist,4,Master's,No,Yes,Yes,499
+2176,25,Male,Data Scientist,6,PhD,No,Yes,Yes,706
+2177,23,Male,Database Administrator,3,PhD,No,No,No,0
+2178,22,Male,Data Scientist,1,PhD,Yes,No,Yes,567
+2179,22,Female,Web Developer,1,PhD,No,Yes,Yes,825
+2180,25,Male,Web Developer,3,Bachelor's,No,No,No,0
+2181,29,Female,Database Administrator,5,High School,No,Yes,No,0
+2182,26,Male,System Analyst,4,Bachelor's,No,No,Yes,794
+2183,28,Male,Database Administrator,1,Bachelor's,No,No,No,0
+2184,22,Male,Web Developer,10,PhD,No,No,No,0
+2185,31,Female,System Analyst,4,High School,No,No,No,0
+2186,29,Male,System Analyst,0,High School,No,Yes,No,0
+2187,22,Male,Web Developer,3,High School,No,Yes,No,0
+2188,23,Female,System Analyst,1,High School,No,Yes,No,0
+2189,28,Male,Web Developer,2,Master's,Yes,No,No,0
+2190,32,Male,Software Engineer,5,Bachelor's,No,Yes,No,0
+2191,32,Male,Data Scientist,1,High School,Yes,Yes,No,0
+2192,23,Female,Software Engineer,7,Bachelor's,Yes,No,No,0
+2193,25,Female,Web Developer,5,Bachelor's,No,Yes,Yes,401
+2194,27,Male,Data Scientist,0,Bachelor's,No,Yes,No,0
+2195,29,Male,Software Engineer,5,Bachelor's,Yes,No,Yes,155
+2196,28,Female,Web Developer,2,High School,No,Yes,No,0
+2197,25,Male,Database Administrator,3,High School,No,Yes,Yes,680
+2198,24,Female,Web Developer,9,Master's,Yes,Yes,No,0
+2199,25,Female,Web Developer,6,Bachelor's,Yes,Yes,No,0
+2200,25,Male,Data Scientist,9,High School,Yes,No,No,0
+2201,27,Female,Database Administrator,8,PhD,No,Yes,No,0
+2202,26,Male,System Analyst,9,PhD,No,Yes,No,0
+2203,31,Female,Data Scientist,6,High School,No,No,No,0
+2204,22,Female,Data Scientist,4,Bachelor's,Yes,Yes,No,0
+2205,25,Male,Software Engineer,5,PhD,No,Yes,No,0
+2206,27,Female,Data Scientist,1,PhD,No,No,Yes,669
+2207,32,Female,Database Administrator,4,Master's,No,No,Yes,386
+2208,24,Male,System Analyst,0,Bachelor's,Yes,No,Yes,528
+2209,28,Male,Data Scientist,5,High School,No,No,No,0
+2210,22,Male,Data Scientist,5,Bachelor's,Yes,No,No,0
+2211,23,Male,Software Engineer,6,Bachelor's,Yes,Yes,Yes,607
+2212,29,Male,Web Developer,4,Master's,Yes,No,No,0
+2213,22,Male,Software Engineer,9,Master's,No,No,No,0
+2214,24,Female,Web Developer,9,PhD,Yes,No,No,0
+2215,22,Female,Software Engineer,10,Master's,Yes,No,No,0
+2216,27,Male,System Analyst,9,High School,Yes,No,No,0
+2217,22,Male,Data Scientist,8,High School,No,Yes,No,0
+2218,25,Female,Software Engineer,9,Bachelor's,No,Yes,No,0
+2219,24,Male,Software Engineer,7,High School,No,No,No,0
+2220,30,Male,Data Scientist,9,Bachelor's,No,Yes,No,0
+2221,29,Female,Software Engineer,10,PhD,No,Yes,No,0
+2222,27,Female,System Analyst,10,High School,Yes,Yes,No,0
+2223,28,Male,Web Developer,5,Master's,No,No,No,0
+2224,26,Female,System Analyst,6,Bachelor's,No,No,No,0
+2225,28,Female,Software Engineer,7,Bachelor's,No,Yes,No,0
+2226,26,Female,Database Administrator,4,Bachelor's,Yes,Yes,Yes,159
+2227,22,Male,Database Administrator,9,Bachelor's,No,No,Yes,828
+2228,23,Female,System Analyst,9,High School,No,No,No,0
+2229,22,Male,Web Developer,7,Bachelor's,No,No,No,0
+2230,30,Female,Data Scientist,6,High School,No,No,No,0
+2231,22,Female,Web Developer,9,PhD,Yes,No,No,0
+2232,30,Female,Data Scientist,10,PhD,No,Yes,No,0
+2233,30,Male,System Analyst,3,Master's,No,Yes,Yes,167
+2234,23,Female,System Analyst,1,High School,Yes,No,No,0
+2235,29,Female,Web Developer,1,PhD,No,No,Yes,519
+2236,27,Male,Data Scientist,5,Bachelor's,No,No,Yes,753
+2237,25,Male,Software Engineer,5,PhD,No,No,No,0
+2238,32,Female,Software Engineer,5,High School,No,Yes,No,0
+2239,28,Male,Database Administrator,5,PhD,Yes,No,No,0
+2240,27,Female,Software Engineer,8,Bachelor's,No,No,No,0
+2241,25,Male,Database Administrator,5,Master's,No,No,Yes,72
+2242,31,Female,Database Administrator,1,Master's,No,No,Yes,333
+2243,24,Male,Database Administrator,4,High School,No,No,No,0
+2244,23,Female,Database Administrator,9,Bachelor's,No,Yes,No,0
+2245,27,Female,Data Scientist,2,PhD,No,Yes,No,0
+2246,22,Female,Data Scientist,5,Master's,No,Yes,No,0
+2247,31,Female,Web Developer,3,Master's,No,No,Yes,863
+2248,24,Female,Database Administrator,2,PhD,Yes,Yes,No,0
+2249,29,Male,System Analyst,1,Bachelor's,Yes,Yes,Yes,972
+2250,22,Male,Database Administrator,7,Bachelor's,Yes,Yes,No,0
+2251,26,Male,Database Administrator,8,High School,No,No,No,0
+2252,24,Male,Web Developer,10,Bachelor's,No,No,Yes,279
+2253,29,Male,Database Administrator,10,High School,No,No,Yes,118
+2254,23,Male,Data Scientist,4,High School,No,Yes,Yes,340
+2255,27,Female,Web Developer,2,High School,No,No,Yes,155
+2256,29,Female,Database Administrator,1,High School,No,Yes,No,0
+2257,26,Female,System Analyst,5,PhD,Yes,Yes,No,0
+2258,26,Male,Web Developer,9,Bachelor's,Yes,Yes,No,0
+2259,30,Male,Software Engineer,1,High School,No,Yes,No,0
+2260,28,Female,Web Developer,10,Master's,No,Yes,No,0
+2261,32,Male,Data Scientist,4,Master's,Yes,Yes,No,0
+2262,31,Female,Database Administrator,1,High School,No,No,No,0
+2263,32,Male,System Analyst,8,High School,No,No,No,0
+2264,31,Female,Software Engineer,2,High School,No,Yes,Yes,556
+2265,22,Female,Data Scientist,1,Bachelor's,No,No,Yes,422
+2266,24,Male,Database Administrator,10,PhD,No,Yes,Yes,493
+2267,30,Male,Web Developer,7,High School,No,No,No,0
+2268,24,Female,Web Developer,3,High School,Yes,Yes,Yes,685
+2269,25,Male,System Analyst,4,Bachelor's,No,No,No,0
+2270,24,Female,Web Developer,0,PhD,No,Yes,No,0
+2271,30,Female,Data Scientist,6,PhD,No,No,No,0
+2272,25,Female,System Analyst,8,Master's,No,No,No,0
+2273,22,Female,System Analyst,2,Bachelor's,Yes,No,No,0
+2274,31,Male,Database Administrator,0,Bachelor's,No,Yes,No,0
+2275,28,Male,System Analyst,8,High School,No,No,No,0
+2276,24,Male,Software Engineer,3,PhD,No,Yes,No,0
+2277,22,Female,Database Administrator,0,Bachelor's,No,Yes,No,0
+2278,31,Female,System Analyst,10,Bachelor's,Yes,No,Yes,667
+2279,32,Female,Database Administrator,5,PhD,No,No,No,0
+2280,23,Female,Data Scientist,9,Master's,No,No,No,0
+2281,24,Female,Software Engineer,5,High School,Yes,Yes,No,0
+2282,27,Male,Web Developer,9,Bachelor's,No,Yes,No,0
+2283,29,Male,Database Administrator,6,PhD,No,No,No,0
+2284,24,Male,System Analyst,10,Master's,No,No,Yes,728
+2285,22,Male,Database Administrator,5,Master's,No,Yes,No,0
+2286,31,Female,Database Administrator,3,Master's,No,Yes,Yes,216
+2287,27,Male,Data Scientist,0,PhD,Yes,No,Yes,977
+2288,32,Male,System Analyst,0,Bachelor's,Yes,No,No,0
+2289,28,Female,System Analyst,4,Bachelor's,No,Yes,No,0
+2290,32,Male,System Analyst,8,PhD,No,Yes,Yes,515
+2291,23,Female,System Analyst,6,High School,Yes,No,No,0
+2292,23,Female,Data Scientist,9,PhD,Yes,No,Yes,330
+2293,30,Female,Software Engineer,10,High School,No,No,No,0
+2294,31,Female,System Analyst,7,Bachelor's,No,No,Yes,647
+2295,22,Female,Data Scientist,0,Bachelor's,Yes,Yes,No,0
+2296,26,Male,Data Scientist,8,Master's,No,No,No,0
+2297,25,Female,Data Scientist,5,Bachelor's,No,No,No,0
+2298,28,Male,System Analyst,6,High School,No,No,No,0
+2299,30,Male,Data Scientist,1,Master's,No,No,No,0
+2300,27,Female,Software Engineer,3,Bachelor's,Yes,Yes,No,0
+2301,29,Male,Software Engineer,3,Master's,No,No,No,0
+2302,23,Female,System Analyst,8,High School,Yes,No,No,0
+2303,22,Male,Software Engineer,7,High School,Yes,No,No,0
+2304,24,Female,Web Developer,4,PhD,No,Yes,No,0
+2305,30,Female,Software Engineer,10,Master's,No,Yes,No,0
+2306,27,Male,System Analyst,0,Master's,Yes,No,Yes,324
+2307,29,Female,System Analyst,10,Bachelor's,No,No,Yes,84
+2308,24,Male,Web Developer,3,PhD,No,No,No,0
+2309,25,Male,Database Administrator,0,Master's,No,No,No,0
+2310,26,Female,Data Scientist,5,High School,No,No,No,0
+2311,25,Female,System Analyst,6,High School,Yes,No,No,0
+2312,31,Female,Software Engineer,1,Master's,No,Yes,No,0
+2313,27,Female,System Analyst,1,PhD,No,No,No,0
+2314,30,Male,Web Developer,10,Master's,No,Yes,No,0
+2315,31,Male,Web Developer,0,Bachelor's,No,Yes,No,0
+2316,23,Female,System Analyst,3,Bachelor's,No,Yes,No,0
+2317,29,Female,Database Administrator,0,Master's,No,No,No,0
+2318,27,Male,Web Developer,9,PhD,No,Yes,No,0
+2319,32,Female,Software Engineer,0,Master's,Yes,Yes,No,0
+2320,27,Female,Data Scientist,1,Bachelor's,No,Yes,No,0
+2321,32,Female,Database Administrator,9,Master's,No,Yes,Yes,13
+2322,26,Female,Web Developer,2,High School,Yes,Yes,No,0
+2323,29,Male,Data Scientist,6,High School,Yes,Yes,No,0
+2324,27,Male,Software Engineer,4,Master's,Yes,Yes,No,0
+2325,25,Female,Database Administrator,9,PhD,No,Yes,No,0
+2326,24,Female,System Analyst,1,Bachelor's,No,Yes,No,0
+2327,30,Male,Database Administrator,0,Master's,Yes,Yes,No,0
+2328,24,Female,Database Administrator,1,High School,No,No,No,0
+2329,22,Male,System Analyst,1,Master's,No,No,No,0
+2330,29,Male,Web Developer,3,Master's,Yes,No,No,0
+2331,28,Female,Web Developer,7,Master's,Yes,No,No,0
+2332,23,Female,Software Engineer,7,Bachelor's,No,No,No,0
+2333,22,Female,Database Administrator,6,High School,Yes,No,No,0
+2334,28,Male,Web Developer,4,Master's,No,No,No,0
+2335,27,Male,System Analyst,10,High School,No,No,No,0
+2336,32,Female,System Analyst,10,Bachelor's,Yes,No,No,0
+2337,22,Female,Web Developer,5,Master's,No,Yes,No,0
+2338,28,Female,Database Administrator,9,High School,Yes,No,No,0
+2339,32,Female,Web Developer,6,High School,Yes,No,No,0
+2340,23,Female,Data Scientist,4,PhD,Yes,Yes,No,0
+2341,26,Male,Software Engineer,5,Master's,Yes,Yes,Yes,446
+2342,30,Male,System Analyst,0,High School,Yes,No,No,0
+2343,22,Female,System Analyst,5,PhD,No,No,No,0
+2344,29,Female,System Analyst,6,High School,No,No,No,0
+2345,22,Male,Web Developer,2,Bachelor's,Yes,No,Yes,985
+2346,29,Female,Software Engineer,1,Bachelor's,Yes,Yes,No,0
+2347,27,Female,Software Engineer,5,Bachelor's,No,No,No,0
+2348,30,Female,Data Scientist,7,Bachelor's,No,Yes,No,0
+2349,29,Male,Database Administrator,7,Bachelor's,No,Yes,No,0
+2350,22,Male,Data Scientist,2,High School,No,No,No,0
+2351,24,Male,Web Developer,5,High School,Yes,Yes,Yes,300
+2352,23,Female,System Analyst,7,PhD,No,No,No,0
+2353,25,Male,Web Developer,3,PhD,No,No,Yes,83
+2354,29,Male,Web Developer,3,Master's,Yes,Yes,Yes,752
+2355,25,Male,Web Developer,1,PhD,No,Yes,No,0
+2356,29,Male,Database Administrator,7,PhD,Yes,Yes,Yes,455
+2357,31,Male,Software Engineer,3,Master's,Yes,Yes,Yes,59
+2358,30,Male,Data Scientist,1,Master's,Yes,No,Yes,169
+2359,28,Female,Software Engineer,7,PhD,Yes,No,No,0
+2360,24,Male,System Analyst,9,Bachelor's,No,No,No,0
+2361,32,Female,Data Scientist,7,PhD,No,No,No,0
+2362,23,Female,Database Administrator,1,Master's,No,Yes,No,0
+2363,26,Female,Software Engineer,9,High School,No,No,No,0
+2364,26,Female,Database Administrator,2,Master's,Yes,Yes,No,0
+2365,25,Female,Database Administrator,4,High School,Yes,Yes,Yes,708
+2366,26,Male,Web Developer,3,Bachelor's,No,Yes,No,0
+2367,27,Female,Database Administrator,0,Master's,Yes,No,No,0
+2368,25,Male,Data Scientist,1,Master's,Yes,No,Yes,553
+2369,28,Female,Database Administrator,5,Master's,No,Yes,No,0
+2370,29,Male,Data Scientist,9,Master's,Yes,No,No,0
+2371,22,Male,System Analyst,9,PhD,No,Yes,No,0
+2372,31,Male,Data Scientist,5,PhD,No,Yes,No,0
+2373,25,Female,Software Engineer,2,Bachelor's,No,No,No,0
+2374,27,Male,Software Engineer,4,PhD,No,No,Yes,200
+2375,28,Female,Data Scientist,4,PhD,No,No,No,0
+2376,29,Male,System Analyst,8,Bachelor's,No,No,Yes,970
+2377,29,Female,Web Developer,0,High School,No,No,No,0
+2378,23,Male,Web Developer,8,Master's,No,No,Yes,516
+2379,22,Female,System Analyst,7,High School,No,Yes,No,0
+2380,24,Female,Software Engineer,6,Bachelor's,No,No,Yes,703
+2381,24,Male,Software Engineer,2,High School,No,No,No,0
+2382,29,Male,Database Administrator,7,Master's,No,Yes,No,0
+2383,23,Male,Software Engineer,6,Master's,Yes,No,No,0
+2384,29,Female,Software Engineer,4,PhD,No,No,No,0
+2385,26,Female,Web Developer,2,Bachelor's,No,Yes,No,0
+2386,27,Female,Software Engineer,9,Master's,No,No,No,0
+2387,27,Female,Software Engineer,7,High School,No,Yes,No,0
+2388,29,Female,Web Developer,8,PhD,No,No,No,0
+2389,27,Female,Database Administrator,1,High School,No,Yes,No,0
+2390,30,Female,Database Administrator,8,High School,No,No,Yes,303
+2391,31,Male,Database Administrator,4,High School,No,Yes,Yes,608
+2392,30,Female,Software Engineer,6,Bachelor's,No,Yes,No,0
+2393,27,Female,Data Scientist,4,High School,Yes,No,No,0
+2394,31,Female,System Analyst,10,High School,Yes,Yes,Yes,386
+2395,26,Female,System Analyst,7,Master's,No,No,No,0
+2396,29,Female,Software Engineer,3,PhD,Yes,Yes,No,0
+2397,26,Male,Software Engineer,10,Master's,Yes,Yes,Yes,542
+2398,25,Female,Database Administrator,1,High School,No,Yes,No,0
+2399,32,Male,System Analyst,8,Master's,Yes,Yes,Yes,843
+2400,31,Male,Data Scientist,3,High School,Yes,Yes,No,0
+2401,31,Female,Database Administrator,5,Master's,No,No,No,0
+2402,22,Male,Database Administrator,3,PhD,Yes,Yes,No,0
+2403,32,Female,Data Scientist,6,Bachelor's,No,No,No,0
+2404,29,Male,Data Scientist,0,Bachelor's,Yes,No,No,0
+2405,26,Female,Software Engineer,2,High School,No,No,No,0
+2406,24,Male,System Analyst,5,High School,No,Yes,No,0
+2407,29,Male,System Analyst,1,Bachelor's,No,Yes,No,0
+2408,32,Male,Web Developer,0,Bachelor's,No,Yes,No,0
+2409,27,Female,Web Developer,2,Master's,No,No,No,0
+2410,23,Female,Data Scientist,6,PhD,No,No,Yes,862
+2411,25,Male,Data Scientist,8,Bachelor's,Yes,No,Yes,33
+2412,32,Female,Data Scientist,5,Bachelor's,No,Yes,No,0
+2413,24,Male,System Analyst,5,High School,Yes,Yes,Yes,351
+2414,31,Male,System Analyst,9,PhD,No,Yes,Yes,710
+2415,29,Male,Web Developer,3,High School,No,Yes,No,0
+2416,32,Female,Web Developer,2,Master's,No,Yes,Yes,785
+2417,32,Female,Data Scientist,9,PhD,Yes,No,No,0
+2418,27,Female,Data Scientist,3,PhD,No,No,Yes,847
+2419,24,Male,Web Developer,2,Master's,No,No,No,0
+2420,25,Female,Web Developer,10,Bachelor's,No,No,No,0
+2421,32,Female,Data Scientist,6,High School,No,No,No,0
+2422,28,Male,System Analyst,10,PhD,No,Yes,No,0
+2423,27,Female,Web Developer,8,Bachelor's,No,No,No,0
+2424,28,Male,Web Developer,5,PhD,No,No,No,0
+2425,29,Female,Web Developer,9,Bachelor's,Yes,Yes,Yes,666
+2426,25,Female,System Analyst,5,PhD,No,Yes,No,0
+2427,22,Male,Software Engineer,7,High School,No,Yes,No,0
+2428,31,Male,Data Scientist,4,Master's,No,Yes,Yes,929
+2429,31,Female,Software Engineer,7,Master's,Yes,No,No,0
+2430,32,Female,Data Scientist,5,High School,No,No,Yes,534
+2431,29,Male,Data Scientist,10,PhD,Yes,No,Yes,1
+2432,27,Female,Software Engineer,2,High School,Yes,Yes,No,0
+2433,25,Female,Software Engineer,1,High School,No,No,No,0
+2434,28,Male,Software Engineer,6,High School,No,No,No,0
+2435,24,Female,Web Developer,8,Bachelor's,Yes,Yes,No,0
+2436,24,Female,System Analyst,6,Bachelor's,No,No,No,0
+2437,28,Male,Web Developer,10,PhD,No,No,No,0
+2438,30,Female,Web Developer,9,Bachelor's,No,Yes,No,0
+2439,26,Male,System Analyst,4,High School,No,Yes,Yes,584
+2440,23,Male,System Analyst,4,PhD,No,Yes,No,0
+2441,23,Male,System Analyst,1,Master's,No,No,No,0
+2442,26,Male,Database Administrator,2,PhD,No,Yes,No,0
+2443,23,Male,Web Developer,8,High School,No,No,No,0
+2444,30,Male,Database Administrator,8,Bachelor's,Yes,Yes,No,0
+2445,23,Male,Software Engineer,0,PhD,Yes,No,Yes,842
+2446,26,Male,System Analyst,0,Bachelor's,No,No,Yes,926
+2447,23,Male,Web Developer,7,Master's,No,Yes,Yes,738
+2448,26,Female,Data Scientist,8,Master's,No,No,No,0
+2449,31,Female,Database Administrator,7,PhD,Yes,Yes,No,0
+2450,24,Female,Web Developer,4,Master's,No,No,Yes,583
+2451,24,Male,System Analyst,6,Master's,No,Yes,Yes,780
+2452,27,Female,Web Developer,7,Master's,No,No,No,0
+2453,32,Male,Database Administrator,5,High School,No,Yes,No,0
+2454,23,Male,Data Scientist,0,Bachelor's,No,Yes,No,0
+2455,30,Female,Data Scientist,8,Bachelor's,No,Yes,Yes,571
+2456,23,Female,Data Scientist,10,Bachelor's,No,Yes,No,0
+2457,26,Female,Database Administrator,1,PhD,No,No,No,0
+2458,25,Male,System Analyst,6,PhD,Yes,No,No,0
+2459,31,Male,Web Developer,2,High School,No,No,Yes,383
+2460,32,Female,Software Engineer,8,Bachelor's,No,No,No,0
+2461,26,Male,Software Engineer,10,High School,Yes,Yes,Yes,145
+2462,23,Female,System Analyst,3,PhD,No,No,No,0
+2463,32,Female,Database Administrator,9,Bachelor's,Yes,Yes,No,0
+2464,30,Female,Software Engineer,7,Bachelor's,Yes,No,No,0
+2465,31,Male,System Analyst,3,High School,No,No,No,0
+2466,24,Female,Web Developer,2,Master's,No,Yes,Yes,440
+2467,27,Male,Database Administrator,10,Master's,Yes,Yes,No,0
+2468,22,Female,Web Developer,2,Bachelor's,Yes,Yes,No,0
+2469,26,Female,System Analyst,7,High School,No,Yes,No,0
+2470,22,Female,Web Developer,8,Master's,Yes,Yes,Yes,132
+2471,28,Male,System Analyst,2,PhD,Yes,Yes,Yes,542
+2472,28,Male,Software Engineer,4,High School,No,Yes,No,0
+2473,28,Male,Database Administrator,2,High School,No,No,No,0
+2474,23,Female,Web Developer,4,Bachelor's,Yes,Yes,Yes,227
+2475,30,Male,Database Administrator,8,Bachelor's,Yes,Yes,No,0
+2476,29,Female,Software Engineer,9,High School,No,Yes,No,0
+2477,23,Female,System Analyst,1,High School,Yes,No,No,0
+2478,31,Female,Database Administrator,4,Bachelor's,Yes,No,No,0
+2479,32,Female,Data Scientist,6,Bachelor's,No,No,Yes,15
+2480,26,Male,System Analyst,10,High School,No,Yes,No,0
+2481,31,Male,System Analyst,8,Master's,Yes,No,No,0
+2482,27,Male,Web Developer,7,PhD,No,No,Yes,435
+2483,23,Male,Software Engineer,6,Master's,No,Yes,Yes,304
+2484,31,Male,System Analyst,3,Bachelor's,No,Yes,No,0
+2485,26,Male,Data Scientist,0,PhD,Yes,No,No,0
+2486,27,Male,System Analyst,9,Master's,No,Yes,No,0
+2487,23,Female,Web Developer,2,Bachelor's,No,No,Yes,950
+2488,27,Male,System Analyst,2,Bachelor's,No,Yes,No,0
+2489,26,Male,Data Scientist,10,High School,No,Yes,No,0
+2490,27,Female,System Analyst,4,Master's,No,No,No,0
+2491,26,Male,Database Administrator,5,PhD,No,No,No,0
+2492,26,Male,Database Administrator,7,High School,No,No,Yes,238
+2493,23,Male,Software Engineer,3,PhD,No,Yes,Yes,779
+2494,22,Male,Data Scientist,0,High School,Yes,Yes,No,0
+2495,29,Male,Database Administrator,2,High School,No,Yes,Yes,951
+2496,25,Male,System Analyst,0,Master's,No,No,No,0
+2497,26,Male,System Analyst,1,PhD,No,No,No,0
+2498,28,Female,System Analyst,8,High School,Yes,No,Yes,11
+2499,22,Male,System Analyst,0,Bachelor's,No,No,No,0
+2500,26,Female,Data Scientist,0,Master's,No,Yes,No,0
+2501,22,Male,System Analyst,3,Bachelor's,Yes,Yes,Yes,184
+2502,29,Male,System Analyst,4,Master's,Yes,Yes,Yes,136
+2503,28,Female,Database Administrator,2,PhD,No,No,No,0
+2504,22,Male,System Analyst,7,Bachelor's,No,No,No,0
+2505,22,Female,Data Scientist,6,PhD,No,Yes,No,0
+2506,32,Female,Data Scientist,4,PhD,Yes,No,No,0
+2507,28,Male,Web Developer,0,Bachelor's,Yes,No,No,0
+2508,22,Female,Software Engineer,2,Bachelor's,No,No,No,0
+2509,29,Male,System Analyst,4,Master's,No,No,No,0
+2510,24,Female,Database Administrator,3,High School,No,No,No,0
+2511,28,Female,System Analyst,1,PhD,No,No,No,0
+2512,24,Male,Database Administrator,3,PhD,Yes,Yes,Yes,456
+2513,31,Male,Software Engineer,1,High School,No,No,Yes,848
+2514,28,Female,Web Developer,9,High School,Yes,No,No,0
+2515,31,Female,Data Scientist,2,High School,Yes,Yes,Yes,65
+2516,30,Male,Data Scientist,2,PhD,Yes,Yes,No,0
+2517,25,Male,Web Developer,6,Master's,No,No,No,0
+2518,24,Female,Database Administrator,8,High School,No,No,No,0
+2519,25,Male,Web Developer,4,Master's,No,Yes,Yes,861
+2520,23,Female,Database Administrator,9,Bachelor's,No,Yes,Yes,286
+2521,23,Male,Data Scientist,9,High School,Yes,No,Yes,490
+2522,27,Male,Software Engineer,2,Bachelor's,No,No,No,0
+2523,22,Female,Database Administrator,5,PhD,Yes,Yes,No,0
+2524,28,Male,System Analyst,7,Master's,No,No,No,0
+2525,31,Male,Software Engineer,5,Master's,No,Yes,Yes,111
+2526,25,Female,Data Scientist,7,Master's,Yes,Yes,No,0
+2527,26,Female,Database Administrator,1,Bachelor's,No,Yes,No,0
+2528,32,Male,Software Engineer,0,High School,Yes,Yes,No,0
+2529,26,Female,System Analyst,7,Master's,No,No,No,0
+2530,29,Male,Database Administrator,8,Master's,Yes,No,No,0
+2531,25,Female,Database Administrator,1,High School,Yes,Yes,No,0
+2532,25,Female,Web Developer,7,Master's,No,Yes,No,0
+2533,27,Female,Data Scientist,3,Master's,No,No,Yes,21
+2534,24,Male,Web Developer,8,High School,No,No,No,0
+2535,24,Male,Data Scientist,6,Bachelor's,No,No,Yes,64
+2536,28,Female,System Analyst,6,Bachelor's,No,No,No,0
+2537,31,Female,Data Scientist,6,PhD,No,No,Yes,247
+2538,29,Female,Database Administrator,8,PhD,Yes,Yes,No,0
+2539,25,Female,Database Administrator,0,Bachelor's,No,Yes,No,0
+2540,27,Female,Data Scientist,1,Bachelor's,No,No,No,0
+2541,30,Male,System Analyst,10,Master's,No,Yes,Yes,102
+2542,32,Male,Database Administrator,8,Master's,No,No,Yes,341
+2543,31,Male,Software Engineer,1,High School,No,Yes,No,0
+2544,29,Female,Software Engineer,10,PhD,No,No,No,0
+2545,23,Male,System Analyst,7,High School,No,No,No,0
+2546,31,Male,System Analyst,0,High School,No,No,No,0
+2547,24,Female,Data Scientist,6,Master's,No,Yes,Yes,337
+2548,23,Female,Data Scientist,6,Master's,No,Yes,Yes,219
+2549,22,Male,Data Scientist,5,Bachelor's,No,Yes,No,0
+2550,31,Female,Software Engineer,4,Master's,No,Yes,No,0
+2551,30,Male,Software Engineer,8,High School,No,No,Yes,542
+2552,28,Male,System Analyst,10,PhD,Yes,Yes,No,0
+2553,30,Male,Web Developer,9,High School,No,No,Yes,819
+2554,29,Female,Data Scientist,2,High School,No,No,Yes,754
+2555,23,Male,Data Scientist,1,Bachelor's,No,No,No,0
+2556,32,Male,Software Engineer,0,High School,Yes,Yes,No,0
+2557,24,Female,Data Scientist,1,Bachelor's,No,No,No,0
+2558,29,Male,Data Scientist,0,Master's,Yes,No,No,0
+2559,24,Male,Web Developer,2,High School,Yes,No,No,0
+2560,31,Male,Data Scientist,7,Master's,No,No,No,0
+2561,32,Female,Software Engineer,5,High School,No,Yes,No,0
+2562,24,Female,Data Scientist,5,Bachelor's,No,No,No,0
+2563,30,Female,Software Engineer,7,High School,Yes,Yes,No,0
+2564,22,Male,Database Administrator,4,High School,Yes,No,No,0
+2565,22,Male,Data Scientist,7,Bachelor's,Yes,No,No,0
+2566,24,Female,System Analyst,5,PhD,No,Yes,No,0
+2567,27,Female,Data Scientist,8,Master's,No,No,No,0
+2568,23,Female,Database Administrator,9,PhD,No,No,No,0
+2569,25,Female,Data Scientist,9,Bachelor's,No,No,No,0
+2570,27,Male,Web Developer,6,PhD,No,No,No,0
+2571,24,Female,System Analyst,9,PhD,No,No,No,0
+2572,23,Male,Database Administrator,6,Bachelor's,No,No,Yes,78
+2573,22,Male,System Analyst,7,PhD,No,No,No,0
+2574,26,Male,Data Scientist,2,PhD,No,No,No,0
+2575,32,Male,Database Administrator,10,High School,No,Yes,No,0
+2576,28,Female,Data Scientist,10,PhD,No,No,Yes,206
+2577,30,Female,Software Engineer,0,Master's,Yes,No,Yes,134
+2578,22,Female,Software Engineer,4,Bachelor's,Yes,No,No,0
+2579,25,Male,System Analyst,6,High School,No,Yes,Yes,141
+2580,22,Female,Web Developer,9,Master's,No,No,No,0
+2581,26,Female,Web Developer,1,Master's,Yes,Yes,No,0
+2582,24,Male,Data Scientist,8,PhD,No,Yes,No,0
+2583,22,Male,Data Scientist,5,PhD,No,No,No,0
+2584,27,Female,Web Developer,8,PhD,No,Yes,No,0
+2585,29,Female,Data Scientist,7,Master's,No,Yes,No,0
+2586,22,Male,System Analyst,1,PhD,No,No,Yes,497
+2587,32,Female,System Analyst,4,High School,No,Yes,No,0
+2588,24,Male,Database Administrator,3,PhD,No,Yes,No,0
+2589,31,Female,Web Developer,9,PhD,Yes,No,Yes,362
+2590,24,Female,Database Administrator,8,Bachelor's,No,Yes,Yes,43
+2591,27,Female,Data Scientist,1,Bachelor's,No,Yes,Yes,80
+2592,24,Male,Web Developer,1,Bachelor's,No,No,No,0
+2593,28,Female,System Analyst,8,PhD,No,No,Yes,472
+2594,23,Female,Web Developer,9,High School,Yes,No,No,0
+2595,24,Female,Software Engineer,8,Master's,No,No,No,0
+2596,24,Male,Database Administrator,1,Master's,No,Yes,Yes,13
+2597,29,Male,Web Developer,8,PhD,Yes,Yes,Yes,690
+2598,27,Male,Web Developer,8,PhD,No,No,Yes,453
+2599,23,Male,Web Developer,6,PhD,No,No,No,0
+2600,26,Female,Database Administrator,0,High School,Yes,No,No,0
+2601,22,Male,Data Scientist,8,High School,No,Yes,No,0
+2602,32,Female,System Analyst,6,Master's,Yes,No,No,0
+2603,26,Female,System Analyst,6,Bachelor's,No,No,No,0
+2604,23,Male,Database Administrator,1,Bachelor's,No,Yes,No,0
+2605,28,Male,System Analyst,7,PhD,No,Yes,Yes,950
+2606,32,Female,Database Administrator,4,Master's,No,Yes,No,0
+2607,22,Female,System Analyst,8,Master's,No,Yes,No,0
+2608,22,Female,Web Developer,7,Master's,No,No,Yes,102
+2609,31,Female,Data Scientist,4,PhD,No,No,Yes,691
+2610,23,Female,Database Administrator,8,Bachelor's,No,No,Yes,460
+2611,31,Female,Database Administrator,2,PhD,No,Yes,No,0
+2612,29,Male,System Analyst,2,PhD,No,No,No,0
+2613,26,Male,Web Developer,2,Master's,No,No,No,0
+2614,25,Male,Data Scientist,7,Bachelor's,Yes,Yes,No,0
+2615,29,Female,Software Engineer,10,Bachelor's,No,No,No,0
+2616,29,Male,Software Engineer,5,High School,No,Yes,No,0
+2617,26,Male,Software Engineer,9,High School,No,Yes,No,0
+2618,24,Male,Software Engineer,7,PhD,No,Yes,No,0
+2619,31,Male,System Analyst,5,Bachelor's,No,No,No,0
+2620,28,Male,Data Scientist,8,Master's,No,Yes,No,0
+2621,28,Female,Web Developer,4,Master's,Yes,No,No,0
+2622,28,Male,Software Engineer,2,PhD,No,Yes,Yes,839
+2623,22,Female,System Analyst,1,Bachelor's,No,Yes,No,0
+2624,22,Female,Web Developer,4,Master's,No,Yes,No,0
+2625,29,Male,Data Scientist,6,Bachelor's,Yes,No,Yes,6
+2626,25,Female,Data Scientist,7,Master's,No,No,No,0
+2627,24,Female,Software Engineer,8,High School,Yes,No,No,0
+2628,31,Male,Database Administrator,9,PhD,No,No,No,0
+2629,24,Male,Web Developer,6,PhD,No,No,Yes,39
+2630,22,Female,Software Engineer,4,Master's,Yes,No,No,0
+2631,29,Female,System Analyst,2,PhD,No,Yes,No,0
+2632,24,Female,Data Scientist,4,Bachelor's,Yes,No,No,0
+2633,30,Female,Software Engineer,10,Bachelor's,Yes,Yes,No,0
+2634,24,Female,System Analyst,3,Master's,No,No,No,0
+2635,26,Female,Data Scientist,4,Bachelor's,Yes,No,No,0
+2636,30,Male,System Analyst,8,Master's,No,No,No,0
+2637,24,Female,Web Developer,1,High School,Yes,No,Yes,183
+2638,25,Female,Software Engineer,5,Master's,No,Yes,No,0
+2639,25,Male,Database Administrator,4,Master's,No,No,No,0
+2640,24,Female,System Analyst,3,Master's,No,No,No,0
+2641,26,Male,Web Developer,4,PhD,No,Yes,No,0
+2642,25,Female,Web Developer,8,PhD,No,Yes,No,0
+2643,26,Male,Data Scientist,4,PhD,No,Yes,Yes,97
+2644,22,Male,Software Engineer,2,PhD,No,No,No,0
+2645,25,Female,Database Administrator,2,Master's,No,Yes,No,0
+2646,22,Male,Data Scientist,10,High School,Yes,No,No,0
+2647,23,Female,System Analyst,10,High School,No,Yes,Yes,244
+2648,27,Male,System Analyst,10,High School,Yes,Yes,No,0
+2649,25,Female,Database Administrator,7,Master's,Yes,No,No,0
+2650,26,Male,Web Developer,10,PhD,No,No,No,0
+2651,23,Male,Web Developer,8,High School,Yes,Yes,No,0
+2652,30,Female,Web Developer,8,High School,No,No,No,0
+2653,31,Female,System Analyst,10,High School,No,No,No,0
+2654,26,Male,System Analyst,3,Master's,No,No,No,0
+2655,30,Female,System Analyst,2,PhD,Yes,No,No,0
+2656,25,Male,Software Engineer,5,Bachelor's,No,No,Yes,405
+2657,22,Female,Web Developer,2,Master's,No,Yes,Yes,267
+2658,31,Male,Data Scientist,7,Bachelor's,No,No,Yes,864
+2659,28,Female,Database Administrator,6,Bachelor's,Yes,Yes,Yes,574
+2660,22,Male,Software Engineer,6,PhD,No,No,No,0
+2661,32,Male,System Analyst,8,Master's,No,Yes,No,0
+2662,31,Female,Data Scientist,7,High School,No,No,No,0
+2663,23,Male,System Analyst,6,Bachelor's,Yes,No,Yes,72
+2664,23,Female,Web Developer,2,Master's,No,No,No,0
+2665,31,Male,Software Engineer,5,Bachelor's,No,No,No,0
+2666,24,Female,Software Engineer,7,Bachelor's,No,No,No,0
+2667,31,Male,System Analyst,2,High School,No,Yes,No,0
+2668,27,Male,Web Developer,0,PhD,Yes,Yes,Yes,178
+2669,27,Female,Data Scientist,4,PhD,No,Yes,No,0
+2670,29,Male,Software Engineer,10,PhD,No,Yes,No,0
+2671,22,Female,Database Administrator,6,High School,No,Yes,Yes,111
+2672,22,Female,Software Engineer,0,PhD,Yes,Yes,No,0
+2673,24,Female,Data Scientist,4,Bachelor's,Yes,No,No,0
+2674,23,Female,Data Scientist,1,PhD,No,Yes,No,0
+2675,22,Male,System Analyst,9,High School,Yes,Yes,Yes,752
+2676,25,Male,Web Developer,4,Master's,No,Yes,No,0
+2677,26,Female,System Analyst,7,Bachelor's,Yes,No,No,0
+2678,22,Male,Web Developer,10,Master's,Yes,No,Yes,267
+2679,28,Female,Database Administrator,0,Bachelor's,No,Yes,Yes,149
+2680,27,Female,System Analyst,7,Bachelor's,No,No,No,0
+2681,26,Female,Web Developer,2,Bachelor's,Yes,No,No,0
+2682,27,Female,Web Developer,6,Bachelor's,No,Yes,No,0
+2683,29,Female,Data Scientist,4,Bachelor's,No,Yes,No,0
+2684,31,Male,Database Administrator,1,High School,No,No,No,0
+2685,32,Female,Software Engineer,3,Master's,No,No,No,0
+2686,22,Female,Database Administrator,0,Master's,No,Yes,No,0
+2687,25,Female,Data Scientist,2,PhD,No,Yes,Yes,497
+2688,24,Male,Web Developer,7,High School,No,No,No,0
+2689,25,Female,Web Developer,10,Master's,No,Yes,No,0
+2690,23,Male,Web Developer,3,High School,No,Yes,Yes,830
+2691,32,Female,Database Administrator,2,Bachelor's,No,Yes,Yes,559
+2692,27,Male,System Analyst,9,Bachelor's,No,Yes,Yes,66
+2693,22,Male,Web Developer,9,PhD,No,Yes,No,0
+2694,24,Female,Database Administrator,10,Master's,Yes,Yes,No,0
+2695,25,Female,Database Administrator,7,Master's,No,Yes,No,0
+2696,28,Female,Web Developer,10,High School,Yes,No,No,0
+2697,26,Female,Database Administrator,7,Master's,Yes,No,No,0
+2698,22,Female,Database Administrator,2,High School,No,No,No,0
+2699,31,Female,System Analyst,1,PhD,No,No,Yes,448
+2700,28,Female,Data Scientist,6,Bachelor's,No,Yes,No,0
+2701,23,Female,Database Administrator,2,Master's,Yes,Yes,No,0
+2702,30,Male,System Analyst,2,High School,Yes,Yes,No,0
+2703,26,Male,Software Engineer,8,High School,Yes,No,Yes,932
+2704,24,Female,Software Engineer,8,High School,Yes,Yes,No,0
+2705,30,Male,Web Developer,2,Bachelor's,Yes,Yes,No,0
+2706,32,Female,Data Scientist,2,Master's,No,Yes,No,0
+2707,29,Female,System Analyst,5,Master's,No,No,No,0
+2708,27,Male,Database Administrator,0,High School,No,No,No,0
+2709,27,Male,Data Scientist,3,Bachelor's,No,Yes,No,0
+2710,28,Female,Data Scientist,3,Master's,No,Yes,No,0
+2711,23,Male,Web Developer,6,Master's,No,No,No,0
+2712,26,Male,Web Developer,9,Master's,No,No,No,0
+2713,24,Female,Database Administrator,10,PhD,No,No,No,0
+2714,22,Male,Database Administrator,5,Master's,Yes,No,No,0
+2715,30,Female,Database Administrator,4,Bachelor's,No,No,No,0
+2716,26,Male,Data Scientist,3,High School,No,Yes,No,0
+2717,29,Female,Web Developer,2,PhD,No,Yes,Yes,203
+2718,22,Female,Software Engineer,2,High School,No,Yes,No,0
+2719,31,Female,Database Administrator,3,PhD,No,No,No,0
+2720,30,Female,Web Developer,4,Master's,No,No,No,0
+2721,22,Male,Web Developer,10,Bachelor's,No,No,Yes,792
+2722,27,Male,Database Administrator,9,PhD,No,Yes,No,0
+2723,23,Male,Data Scientist,2,Bachelor's,Yes,No,No,0
+2724,27,Female,System Analyst,2,PhD,No,Yes,No,0
+2725,22,Male,Software Engineer,5,PhD,No,No,No,0
+2726,26,Male,Data Scientist,9,High School,Yes,No,Yes,565
+2727,31,Male,Web Developer,7,PhD,No,No,Yes,380
+2728,32,Female,Data Scientist,4,PhD,No,Yes,Yes,128
+2729,24,Female,Software Engineer,9,Master's,Yes,No,No,0
+2730,26,Male,System Analyst,4,Master's,No,No,No,0
+2731,23,Male,System Analyst,2,Bachelor's,No,No,Yes,629
+2732,24,Female,Data Scientist,4,Bachelor's,No,Yes,No,0
+2733,29,Female,Software Engineer,1,Master's,No,No,No,0
+2734,26,Male,Web Developer,3,PhD,No,No,No,0
+2735,26,Female,Web Developer,10,Master's,No,No,Yes,653
+2736,24,Female,System Analyst,10,High School,Yes,No,No,0
+2737,23,Male,Web Developer,5,Master's,No,Yes,No,0
+2738,29,Male,Data Scientist,2,Bachelor's,No,Yes,No,0
+2739,30,Female,System Analyst,4,PhD,No,Yes,No,0
+2740,25,Female,Data Scientist,6,High School,Yes,No,Yes,729
+2741,30,Female,Data Scientist,6,Master's,Yes,Yes,No,0
+2742,29,Female,Database Administrator,9,PhD,No,No,Yes,416
+2743,28,Male,Database Administrator,8,Master's,No,No,No,0
+2744,25,Female,Software Engineer,6,High School,No,Yes,No,0
+2745,24,Male,Data Scientist,2,PhD,No,No,No,0
+2746,27,Male,Data Scientist,5,Master's,No,Yes,No,0
+2747,26,Male,Data Scientist,2,PhD,No,No,Yes,466
+2748,29,Female,Software Engineer,10,Master's,Yes,Yes,No,0
+2749,27,Female,Data Scientist,2,Master's,No,No,Yes,876
+2750,24,Male,Data Scientist,1,Master's,No,Yes,No,0
+2751,32,Male,Software Engineer,3,High School,Yes,No,No,0
+2752,29,Female,Software Engineer,9,High School,Yes,No,No,0
+2753,32,Male,Data Scientist,4,Bachelor's,No,No,No,0
+2754,27,Male,Web Developer,2,Bachelor's,No,No,No,0
+2755,27,Female,Database Administrator,3,Bachelor's,No,Yes,No,0
+2756,24,Male,System Analyst,5,PhD,Yes,Yes,No,0
+2757,32,Female,Data Scientist,3,PhD,Yes,No,No,0
+2758,25,Male,System Analyst,5,Master's,No,No,No,0
+2759,29,Male,System Analyst,9,High School,Yes,Yes,No,0
+2760,23,Male,System Analyst,3,Bachelor's,No,Yes,No,0
+2761,31,Female,Web Developer,10,Bachelor's,No,Yes,No,0
+2762,32,Male,System Analyst,7,High School,No,Yes,No,0
+2763,32,Male,System Analyst,8,Bachelor's,Yes,Yes,No,0
+2764,24,Male,Web Developer,4,High School,No,No,No,0
+2765,27,Male,Web Developer,2,High School,No,Yes,Yes,872
+2766,22,Male,Software Engineer,2,High School,No,Yes,No,0
+2767,25,Female,Database Administrator,4,Master's,No,Yes,No,0
+2768,28,Male,Web Developer,9,Bachelor's,No,Yes,Yes,125
+2769,26,Female,Data Scientist,4,High School,No,Yes,No,0
+2770,26,Male,Software Engineer,5,High School,Yes,No,Yes,736
+2771,22,Male,Database Administrator,6,PhD,No,Yes,Yes,77
+2772,24,Male,Database Administrator,4,PhD,Yes,No,No,0
+2773,27,Female,Database Administrator,10,Bachelor's,No,No,No,0
+2774,31,Male,Database Administrator,3,Bachelor's,No,No,No,0
+2775,30,Female,Database Administrator,0,Bachelor's,No,No,No,0
+2776,29,Male,Web Developer,3,Master's,No,Yes,No,0
+2777,26,Female,System Analyst,9,Master's,No,Yes,No,0
+2778,27,Female,Database Administrator,8,High School,No,Yes,Yes,334
+2779,24,Male,Software Engineer,2,Master's,No,Yes,No,0
+2780,28,Female,System Analyst,8,PhD,No,No,No,0
+2781,26,Female,Data Scientist,9,PhD,No,No,Yes,954
+2782,27,Female,Database Administrator,0,PhD,No,Yes,No,0
+2783,27,Female,System Analyst,4,High School,No,Yes,No,0
+2784,31,Female,Software Engineer,3,Master's,No,Yes,Yes,846
+2785,24,Male,Data Scientist,8,Master's,No,No,No,0
+2786,26,Male,Web Developer,6,PhD,No,Yes,No,0
+2787,25,Male,Database Administrator,5,High School,No,Yes,No,0
+2788,27,Female,Web Developer,2,High School,No,No,No,0
+2789,31,Male,Data Scientist,8,Master's,No,Yes,No,0
+2790,31,Female,System Analyst,5,Master's,Yes,No,No,0
+2791,23,Male,Data Scientist,8,High School,No,No,No,0
+2792,31,Female,Data Scientist,2,Bachelor's,No,No,Yes,606
+2793,31,Male,Web Developer,9,Master's,No,Yes,No,0
+2794,24,Male,Software Engineer,0,High School,No,No,Yes,316
+2795,24,Female,Data Scientist,3,Bachelor's,No,No,No,0
+2796,29,Male,Software Engineer,5,PhD,Yes,Yes,Yes,334
+2797,31,Male,System Analyst,5,Master's,No,Yes,Yes,427
+2798,31,Male,Software Engineer,2,PhD,No,No,Yes,590
+2799,23,Female,System Analyst,8,PhD,No,Yes,No,0
+2800,25,Female,Web Developer,0,PhD,No,Yes,Yes,344
+2801,23,Male,System Analyst,7,PhD,Yes,No,No,0
+2802,22,Female,Web Developer,2,Master's,Yes,No,No,0
+2803,30,Male,Database Administrator,7,High School,No,No,No,0
+2804,25,Male,System Analyst,7,High School,No,No,Yes,856
+2805,29,Female,Web Developer,8,PhD,Yes,No,No,0
+2806,31,Male,Web Developer,10,PhD,No,Yes,No,0
+2807,27,Male,Data Scientist,4,Master's,No,Yes,No,0
+2808,23,Female,Data Scientist,2,Bachelor's,No,No,Yes,762
+2809,27,Female,Web Developer,2,Bachelor's,No,No,No,0
+2810,30,Male,Data Scientist,5,Bachelor's,No,No,No,0
+2811,24,Male,Web Developer,2,PhD,Yes,No,Yes,976
+2812,30,Female,System Analyst,8,PhD,No,Yes,No,0
+2813,24,Female,Software Engineer,2,High School,No,No,No,0
+2814,27,Male,Software Engineer,7,Master's,No,No,No,0
+2815,29,Female,Database Administrator,2,PhD,Yes,No,No,0
+2816,28,Male,Software Engineer,10,High School,Yes,No,Yes,812
+2817,23,Female,Web Developer,2,PhD,Yes,No,No,0
+2818,29,Male,System Analyst,4,Master's,Yes,Yes,No,0
+2819,22,Female,Data Scientist,3,Master's,No,No,No,0
+2820,22,Female,Software Engineer,5,Bachelor's,No,No,No,0
+2821,29,Male,Database Administrator,5,Master's,No,Yes,No,0
+2822,25,Female,Database Administrator,8,High School,No,No,No,0
+2823,30,Male,Database Administrator,2,Master's,No,No,Yes,777
+2824,27,Female,Web Developer,2,Bachelor's,Yes,Yes,No,0
+2825,22,Male,System Analyst,2,High School,Yes,No,No,0
+2826,31,Male,System Analyst,10,High School,No,No,No,0
+2827,28,Female,Data Scientist,9,High School,No,Yes,No,0
+2828,29,Female,Web Developer,2,Bachelor's,Yes,Yes,Yes,202
+2829,23,Male,System Analyst,1,High School,No,No,No,0
+2830,29,Male,Software Engineer,5,Bachelor's,Yes,No,Yes,188
+2831,27,Male,Software Engineer,1,Master's,No,No,No,0
+2832,25,Female,Database Administrator,4,PhD,No,Yes,No,0
+2833,31,Female,Data Scientist,10,PhD,Yes,No,No,0
+2834,22,Female,Software Engineer,1,High School,No,No,No,0
+2835,31,Female,Database Administrator,8,Bachelor's,No,No,No,0
+2836,27,Female,Data Scientist,9,High School,Yes,Yes,No,0
+2837,31,Female,Data Scientist,3,Master's,Yes,Yes,Yes,827
+2838,22,Male,Web Developer,10,High School,Yes,Yes,No,0
+2839,27,Male,Software Engineer,2,Master's,No,No,Yes,979
+2840,29,Male,System Analyst,1,Master's,No,No,No,0
+2841,23,Male,Web Developer,1,Master's,No,No,No,0
+2842,32,Male,Data Scientist,2,Bachelor's,No,Yes,Yes,251
+2843,27,Male,Database Administrator,6,Bachelor's,No,No,Yes,399
+2844,25,Female,Web Developer,10,Bachelor's,No,Yes,Yes,91
+2845,29,Female,System Analyst,0,Master's,No,Yes,Yes,317
+2846,27,Male,Data Scientist,3,PhD,No,No,No,0
+2847,24,Female,Web Developer,3,PhD,No,No,No,0
+2848,30,Female,Database Administrator,0,Bachelor's,No,No,No,0
+2849,22,Male,Web Developer,6,High School,Yes,No,No,0
+2850,30,Male,Database Administrator,1,High School,No,No,No,0
+2851,22,Male,Software Engineer,8,High School,No,Yes,Yes,36
+2852,25,Male,Web Developer,6,PhD,No,No,No,0
+2853,23,Male,Software Engineer,5,Master's,Yes,No,No,0
+2854,27,Male,Software Engineer,1,PhD,No,Yes,Yes,273
+2855,30,Female,System Analyst,1,Bachelor's,No,Yes,No,0
+2856,27,Male,Database Administrator,2,PhD,No,No,No,0
+2857,22,Female,Software Engineer,5,Master's,No,Yes,Yes,987
+2858,30,Male,Software Engineer,9,PhD,No,Yes,No,0
+2859,24,Female,Database Administrator,3,Master's,No,No,Yes,498
+2860,29,Female,Web Developer,8,High School,Yes,Yes,No,0
+2861,27,Female,Software Engineer,1,PhD,No,No,No,0
+2862,23,Male,Database Administrator,7,Master's,No,Yes,Yes,245
+2863,26,Female,Software Engineer,0,High School,No,No,No,0
+2864,22,Female,Web Developer,0,PhD,Yes,Yes,No,0
+2865,31,Female,Web Developer,5,High School,No,No,No,0
+2866,22,Female,System Analyst,6,PhD,No,No,Yes,672
+2867,31,Female,Web Developer,4,Master's,Yes,No,No,0
+2868,31,Male,Data Scientist,1,PhD,No,No,No,0
+2869,27,Male,Software Engineer,9,Bachelor's,No,Yes,No,0
+2870,28,Male,Web Developer,1,PhD,No,No,No,0
+2871,32,Female,Database Administrator,8,High School,Yes,No,No,0
+2872,29,Female,System Analyst,7,PhD,Yes,Yes,No,0
+2873,22,Male,System Analyst,1,Master's,No,No,No,0
+2874,30,Male,Software Engineer,2,PhD,No,No,Yes,410
+2875,27,Male,Software Engineer,4,PhD,No,No,Yes,249
+2876,29,Male,Database Administrator,3,Bachelor's,No,Yes,No,0
+2877,27,Male,Web Developer,0,PhD,No,No,Yes,306
+2878,27,Female,Web Developer,7,Master's,Yes,No,No,0
+2879,29,Female,Software Engineer,3,Bachelor's,No,Yes,No,0
+2880,32,Female,Data Scientist,8,PhD,Yes,Yes,Yes,183
+2881,31,Male,Software Engineer,6,PhD,No,No,No,0
+2882,24,Female,System Analyst,6,Bachelor's,Yes,No,Yes,878
+2883,27,Female,Web Developer,6,PhD,Yes,Yes,No,0
+2884,26,Female,Database Administrator,5,Bachelor's,Yes,Yes,No,0
+2885,24,Female,Data Scientist,0,Master's,No,Yes,No,0
+2886,25,Female,Web Developer,8,Master's,No,No,Yes,911
+2887,30,Female,Software Engineer,0,Bachelor's,No,Yes,Yes,411
+2888,25,Female,System Analyst,9,PhD,No,Yes,No,0
+2889,24,Male,System Analyst,1,PhD,Yes,No,No,0
+2890,25,Female,Web Developer,5,Bachelor's,Yes,No,Yes,709
+2891,25,Female,Data Scientist,0,Master's,No,Yes,Yes,343
+2892,32,Male,Web Developer,2,PhD,Yes,No,No,0
+2893,24,Female,Software Engineer,7,High School,No,No,Yes,943
+2894,32,Female,Database Administrator,3,Bachelor's,No,No,No,0
+2895,27,Female,Web Developer,0,High School,No,No,No,0
+2896,29,Female,Database Administrator,2,Master's,No,No,Yes,971
+2897,28,Male,Database Administrator,7,Master's,Yes,Yes,No,0
+2898,31,Male,Data Scientist,8,High School,No,No,Yes,989
+2899,31,Female,Database Administrator,4,PhD,No,Yes,No,0
+2900,28,Female,Web Developer,0,Bachelor's,No,No,No,0
+2901,31,Male,Software Engineer,3,Master's,No,No,Yes,159
+2902,23,Male,Software Engineer,7,Master's,No,No,No,0
+2903,30,Female,Data Scientist,2,Master's,Yes,Yes,No,0
+2904,23,Female,Data Scientist,6,Bachelor's,Yes,No,Yes,584
+2905,28,Female,System Analyst,8,PhD,Yes,Yes,No,0
+2906,27,Male,Web Developer,5,High School,Yes,Yes,Yes,5
+2907,31,Female,Database Administrator,1,Master's,No,No,No,0
+2908,25,Female,Database Administrator,4,Master's,No,No,No,0
+2909,27,Female,Web Developer,5,Master's,Yes,Yes,No,0
+2910,24,Female,Software Engineer,5,Master's,No,No,No,0
+2911,31,Male,System Analyst,3,Bachelor's,No,No,No,0
+2912,32,Male,System Analyst,4,PhD,Yes,No,Yes,950
+2913,30,Female,System Analyst,6,Master's,No,Yes,No,0
+2914,29,Male,System Analyst,3,High School,Yes,Yes,No,0
+2915,29,Male,Web Developer,4,Master's,No,Yes,No,0
+2916,25,Male,System Analyst,3,PhD,No,No,No,0
+2917,24,Male,Database Administrator,5,High School,No,Yes,No,0
+2918,22,Male,Database Administrator,4,High School,No,No,No,0
+2919,23,Female,Data Scientist,0,High School,Yes,No,No,0
+2920,32,Male,System Analyst,6,Master's,Yes,Yes,Yes,603
+2921,32,Female,Software Engineer,10,High School,No,Yes,No,0
+2922,28,Female,Web Developer,4,High School,No,No,No,0
+2923,30,Female,Database Administrator,7,High School,No,Yes,No,0
+2924,27,Male,Database Administrator,4,Master's,Yes,No,No,0
+2925,22,Male,Data Scientist,7,Master's,No,No,No,0
+2926,24,Female,Software Engineer,5,Master's,No,Yes,No,0
+2927,26,Male,Software Engineer,1,PhD,Yes,No,No,0
+2928,28,Female,System Analyst,8,PhD,No,No,No,0
+2929,29,Female,Web Developer,8,PhD,Yes,No,Yes,331
+2930,28,Male,Web Developer,7,High School,Yes,Yes,Yes,518
+2931,27,Male,Data Scientist,0,Master's,No,Yes,No,0
+2932,32,Male,Database Administrator,1,High School,Yes,No,Yes,84
+2933,24,Male,Web Developer,10,High School,No,Yes,No,0
+2934,30,Male,System Analyst,8,PhD,Yes,No,No,0
+2935,25,Male,System Analyst,9,Master's,No,No,No,0
+2936,28,Male,Database Administrator,6,PhD,No,No,No,0
+2937,32,Female,Web Developer,1,Master's,No,No,No,0
+2938,29,Female,Database Administrator,10,Bachelor's,No,Yes,Yes,83
+2939,25,Male,Data Scientist,10,Bachelor's,No,No,No,0
+2940,26,Female,Database Administrator,4,PhD,No,No,No,0
+2941,24,Female,Software Engineer,8,Master's,No,Yes,No,0
+2942,27,Male,Database Administrator,7,High School,Yes,Yes,Yes,186
+2943,28,Male,System Analyst,9,Bachelor's,Yes,Yes,No,0
+2944,30,Male,Data Scientist,4,PhD,No,No,Yes,246
+2945,28,Male,Web Developer,0,Bachelor's,No,Yes,No,0
+2946,22,Female,Database Administrator,9,PhD,No,No,Yes,198
+2947,29,Female,Database Administrator,7,High School,No,Yes,No,0
+2948,32,Female,Data Scientist,4,High School,No,Yes,No,0
+2949,25,Male,Web Developer,5,Bachelor's,No,Yes,Yes,969
+2950,23,Male,Web Developer,3,Bachelor's,No,No,No,0
+2951,31,Female,Web Developer,4,PhD,No,Yes,No,0
+2952,31,Female,Data Scientist,4,PhD,No,Yes,Yes,887
+2953,22,Male,Data Scientist,7,PhD,No,Yes,No,0
+2954,28,Female,Software Engineer,9,PhD,No,Yes,Yes,134
+2955,24,Male,Web Developer,8,Bachelor's,No,Yes,No,0
+2956,31,Female,Database Administrator,6,Bachelor's,No,No,Yes,225
+2957,31,Male,Web Developer,2,PhD,Yes,No,No,0
+2958,22,Female,System Analyst,8,PhD,No,No,No,0
+2959,32,Male,Data Scientist,0,PhD,Yes,Yes,No,0
+2960,27,Male,Database Administrator,10,PhD,Yes,No,No,0
+2961,30,Female,Software Engineer,5,PhD,No,Yes,No,0
+2962,26,Male,Database Administrator,1,PhD,No,Yes,Yes,575
+2963,30,Male,System Analyst,3,PhD,No,Yes,No,0
+2964,28,Male,Database Administrator,4,PhD,No,No,No,0
+2965,27,Female,Data Scientist,10,High School,No,No,Yes,756
+2966,26,Male,System Analyst,1,Bachelor's,No,Yes,No,0
+2967,29,Male,Database Administrator,0,Bachelor's,No,Yes,No,0
+2968,23,Female,Web Developer,9,Master's,No,No,Yes,438
+2969,23,Female,Data Scientist,6,Master's,Yes,No,No,0
+2970,26,Female,Web Developer,2,High School,No,No,Yes,98
+2971,25,Female,Web Developer,8,Bachelor's,No,Yes,No,0
+2972,28,Male,Data Scientist,1,Master's,No,Yes,Yes,411
+2973,30,Male,Web Developer,10,Bachelor's,No,Yes,No,0
+2974,23,Male,Software Engineer,9,Bachelor's,No,No,No,0
+2975,24,Female,Data Scientist,0,PhD,No,No,Yes,436
+2976,28,Female,Web Developer,10,Bachelor's,No,No,No,0
+2977,23,Male,Data Scientist,10,PhD,Yes,Yes,No,0
+2978,29,Male,Software Engineer,4,High School,Yes,Yes,Yes,77
+2979,29,Male,Web Developer,8,Master's,Yes,Yes,No,0
+2980,23,Female,System Analyst,1,Bachelor's,No,No,No,0
+2981,31,Male,System Analyst,4,High School,Yes,Yes,No,0
+2982,29,Female,Software Engineer,1,Bachelor's,No,Yes,Yes,19
+2983,26,Male,Database Administrator,9,High School,Yes,No,No,0
+2984,26,Female,Software Engineer,6,Bachelor's,No,No,No,0
+2985,27,Male,Data Scientist,10,High School,No,Yes,No,0
+2986,28,Female,Database Administrator,5,Master's,No,No,No,0
+2987,23,Female,Data Scientist,8,High School,No,No,Yes,641
+2988,26,Female,Database Administrator,1,PhD,No,Yes,No,0
+2989,24,Male,Data Scientist,7,PhD,No,Yes,No,0
+2990,26,Male,Web Developer,3,High School,No,Yes,No,0
+2991,27,Female,Web Developer,7,High School,No,Yes,Yes,221
+2992,32,Male,Web Developer,10,High School,No,No,Yes,940
+2993,32,Female,Data Scientist,4,High School,No,No,No,0
+2994,27,Male,Web Developer,6,PhD,No,Yes,No,0
+2995,30,Female,Web Developer,5,Bachelor's,No,Yes,No,0
+2996,22,Female,Software Engineer,1,Master's,No,Yes,Yes,214
+2997,26,Male,Software Engineer,10,High School,Yes,No,No,0
+2998,32,Female,Software Engineer,10,PhD,Yes,No,No,0
+2999,27,Female,System Analyst,7,High School,No,Yes,Yes,903
+3000,27,Male,Web Developer,10,High School,No,No,No,0
+3001,29,Male,Software Engineer,8,Bachelor's,No,No,No,0
+3002,29,Male,Data Scientist,2,PhD,No,Yes,No,0
+3003,23,Male,System Analyst,4,Master's,No,No,No,0
+3004,25,Female,System Analyst,2,Master's,Yes,Yes,No,0
+3005,29,Male,Data Scientist,0,Master's,No,No,Yes,794
+3006,24,Male,System Analyst,5,Master's,No,Yes,Yes,480
+3007,31,Female,Data Scientist,4,High School,No,No,No,0
+3008,31,Male,Database Administrator,2,PhD,No,Yes,Yes,776
+3009,25,Female,Software Engineer,9,Bachelor's,No,Yes,No,0
+3010,26,Male,System Analyst,4,High School,No,Yes,No,0
+3011,31,Male,Web Developer,0,PhD,No,No,No,0
+3012,32,Male,Data Scientist,2,PhD,No,Yes,No,0
+3013,24,Female,Software Engineer,1,PhD,No,Yes,No,0
+3014,30,Male,Software Engineer,3,Master's,Yes,No,Yes,4
+3015,24,Male,Data Scientist,8,PhD,Yes,No,No,0
+3016,22,Female,Data Scientist,7,Bachelor's,No,Yes,Yes,964
+3017,25,Female,Data Scientist,2,High School,No,Yes,Yes,665
+3018,28,Male,Software Engineer,1,Master's,Yes,Yes,Yes,149
+3019,30,Male,Database Administrator,1,Bachelor's,No,No,No,0
+3020,32,Male,System Analyst,8,Bachelor's,No,Yes,No,0
+3021,30,Female,System Analyst,3,PhD,No,Yes,Yes,659
+3022,23,Male,Software Engineer,6,Bachelor's,No,Yes,No,0
+3023,29,Female,Database Administrator,1,High School,Yes,Yes,No,0
+3024,29,Male,Database Administrator,9,High School,No,Yes,No,0
+3025,24,Male,Database Administrator,6,Master's,No,No,No,0
+3026,27,Male,System Analyst,2,Bachelor's,No,No,No,0
+3027,29,Male,Database Administrator,8,High School,No,Yes,No,0
+3028,31,Female,System Analyst,6,PhD,Yes,Yes,No,0
+3029,24,Male,Software Engineer,10,PhD,No,No,Yes,699
+3030,31,Male,Web Developer,2,Bachelor's,Yes,No,Yes,389
+3031,26,Female,Data Scientist,5,Master's,No,No,No,0
+3032,26,Female,System Analyst,8,PhD,No,No,No,0
+3033,31,Female,Data Scientist,1,Bachelor's,No,No,Yes,313
+3034,22,Female,Database Administrator,0,Bachelor's,No,No,No,0
+3035,29,Female,Web Developer,10,High School,Yes,No,Yes,426
+3036,31,Female,System Analyst,7,PhD,Yes,No,No,0
+3037,25,Male,Web Developer,1,Master's,No,Yes,Yes,144
+3038,25,Female,System Analyst,1,PhD,No,No,No,0
+3039,27,Male,Software Engineer,9,PhD,No,No,No,0
+3040,24,Female,Software Engineer,5,Bachelor's,Yes,No,No,0
+3041,32,Female,Software Engineer,7,High School,No,No,No,0
+3042,30,Female,Database Administrator,1,Master's,No,Yes,Yes,9
+3043,23,Male,Database Administrator,6,Bachelor's,No,Yes,No,0
+3044,25,Male,System Analyst,10,PhD,No,No,No,0
+3045,24,Male,Data Scientist,5,PhD,No,Yes,Yes,623
+3046,31,Female,Data Scientist,9,Bachelor's,No,No,Yes,782
+3047,25,Male,Database Administrator,3,Bachelor's,Yes,No,No,0
+3048,32,Male,Software Engineer,0,PhD,No,No,No,0
+3049,29,Female,Data Scientist,5,Bachelor's,Yes,Yes,No,0
+3050,28,Male,Database Administrator,5,Master's,No,No,No,0
+3051,30,Male,Database Administrator,0,High School,No,No,No,0
+3052,25,Male,Database Administrator,7,PhD,No,Yes,No,0
+3053,22,Male,System Analyst,2,Master's,No,Yes,No,0
+3054,31,Male,Database Administrator,4,Bachelor's,No,No,Yes,399
+3055,26,Male,Database Administrator,1,Bachelor's,Yes,No,Yes,181
+3056,25,Male,System Analyst,3,Bachelor's,No,No,No,0
+3057,25,Male,Database Administrator,0,PhD,Yes,Yes,Yes,536
+3058,27,Male,System Analyst,4,Master's,Yes,No,Yes,946
+3059,29,Male,System Analyst,4,Bachelor's,Yes,Yes,No,0
+3060,30,Male,Software Engineer,3,Master's,No,No,Yes,58
+3061,22,Male,Database Administrator,9,High School,No,Yes,No,0
+3062,24,Female,Data Scientist,10,High School,No,Yes,No,0
+3063,25,Female,Web Developer,10,Master's,Yes,No,No,0
+3064,28,Female,Database Administrator,8,Bachelor's,Yes,No,No,0
+3065,24,Female,Web Developer,1,PhD,No,No,No,0
+3066,24,Female,Data Scientist,0,High School,No,Yes,No,0
+3067,24,Female,Web Developer,3,Master's,Yes,No,Yes,935
+3068,30,Female,System Analyst,3,Bachelor's,No,Yes,No,0
+3069,23,Female,Data Scientist,6,High School,No,Yes,No,0
+3070,30,Male,Database Administrator,9,Master's,No,Yes,No,0
+3071,25,Male,Software Engineer,10,PhD,No,Yes,Yes,515
+3072,30,Female,System Analyst,10,Bachelor's,Yes,Yes,Yes,750
+3073,29,Male,Software Engineer,8,Bachelor's,No,Yes,No,0
+3074,29,Female,Web Developer,2,Master's,No,No,No,0
+3075,24,Female,Software Engineer,5,PhD,No,No,No,0
+3076,24,Female,Web Developer,2,High School,No,Yes,No,0
+3077,32,Female,Software Engineer,7,Bachelor's,No,Yes,No,0
+3078,31,Male,Data Scientist,10,Bachelor's,No,Yes,No,0
+3079,30,Male,Software Engineer,8,Bachelor's,No,No,No,0
+3080,29,Female,Data Scientist,9,PhD,No,Yes,Yes,389
+3081,28,Female,Software Engineer,0,Bachelor's,No,Yes,Yes,145
+3082,32,Female,Data Scientist,1,High School,No,Yes,Yes,872
+3083,23,Male,Data Scientist,3,PhD,No,Yes,Yes,127
+3084,23,Male,Database Administrator,4,PhD,No,Yes,No,0
+3085,30,Male,Database Administrator,0,Master's,No,Yes,Yes,48
+3086,22,Female,System Analyst,7,High School,No,No,Yes,996
+3087,31,Male,Database Administrator,1,High School,No,Yes,No,0
+3088,23,Female,Web Developer,8,Master's,No,Yes,Yes,977
+3089,31,Male,Data Scientist,4,Bachelor's,No,Yes,Yes,774
+3090,26,Female,Web Developer,10,High School,No,No,Yes,87
+3091,29,Female,System Analyst,8,Bachelor's,Yes,Yes,Yes,61
+3092,28,Female,Web Developer,7,Master's,No,No,No,0
+3093,28,Male,Database Administrator,9,Master's,Yes,No,No,0
+3094,22,Male,Data Scientist,10,PhD,No,No,No,0
+3095,31,Female,System Analyst,0,Bachelor's,No,Yes,No,0
+3096,30,Male,Web Developer,5,Bachelor's,No,No,Yes,80
+3097,22,Male,Database Administrator,8,PhD,No,Yes,No,0
+3098,29,Female,Web Developer,5,High School,No,Yes,No,0
+3099,30,Male,Web Developer,2,PhD,No,No,No,0
+3100,29,Male,System Analyst,7,Master's,Yes,Yes,No,0
+3101,23,Female,System Analyst,5,PhD,No,No,No,0
+3102,30,Female,Data Scientist,0,Bachelor's,No,No,No,0
+3103,26,Female,Web Developer,10,PhD,No,No,No,0
+3104,23,Female,Database Administrator,8,Master's,No,No,Yes,115
+3105,23,Female,Database Administrator,1,Master's,No,No,No,0
+3106,29,Female,Database Administrator,8,PhD,No,No,Yes,760
+3107,28,Female,Web Developer,0,High School,No,No,No,0
+3108,32,Female,Web Developer,3,Bachelor's,Yes,No,Yes,922
+3109,23,Male,Software Engineer,2,Master's,No,No,No,0
+3110,27,Female,System Analyst,0,Bachelor's,No,Yes,No,0
+3111,27,Male,Web Developer,3,Master's,No,Yes,Yes,797
+3112,23,Female,System Analyst,7,Bachelor's,Yes,No,No,0
+3113,31,Male,Data Scientist,10,PhD,No,No,No,0
+3114,32,Male,Web Developer,6,Master's,Yes,No,No,0
+3115,26,Female,Database Administrator,2,PhD,No,No,Yes,144
+3116,31,Male,Data Scientist,9,High School,No,No,No,0
+3117,29,Male,Data Scientist,6,PhD,No,Yes,No,0
+3118,32,Male,Web Developer,0,High School,No,Yes,Yes,349
+3119,32,Male,Software Engineer,10,PhD,No,Yes,No,0
+3120,23,Male,Database Administrator,4,PhD,No,No,No,0
+3121,25,Male,Software Engineer,1,High School,No,Yes,No,0
+3122,28,Male,System Analyst,4,Bachelor's,Yes,No,No,0
+3123,23,Female,System Analyst,1,High School,No,Yes,Yes,152
+3124,30,Male,System Analyst,2,PhD,No,No,No,0
+3125,23,Female,Software Engineer,3,Master's,Yes,Yes,No,0
+3126,31,Male,Software Engineer,4,High School,No,No,No,0
+3127,30,Female,System Analyst,5,Master's,No,No,Yes,411
+3128,27,Female,Database Administrator,6,High School,No,Yes,No,0
+3129,32,Male,Data Scientist,7,PhD,No,No,Yes,518
+3130,30,Female,Software Engineer,5,Bachelor's,No,Yes,No,0
+3131,32,Female,Software Engineer,2,Master's,No,Yes,No,0
+3132,27,Female,System Analyst,6,High School,No,Yes,No,0
+3133,32,Female,System Analyst,4,PhD,No,Yes,No,0
+3134,31,Male,System Analyst,2,Master's,No,No,Yes,714
+3135,22,Female,System Analyst,5,Bachelor's,No,Yes,Yes,898
+3136,29,Female,Software Engineer,5,High School,No,Yes,Yes,864
+3137,32,Female,System Analyst,4,High School,Yes,No,Yes,535
+3138,27,Female,System Analyst,5,High School,No,No,No,0
+3139,23,Female,Database Administrator,9,High School,Yes,No,Yes,979
+3140,24,Male,Web Developer,5,PhD,No,No,No,0
+3141,27,Female,Database Administrator,5,PhD,Yes,No,Yes,873
+3142,30,Female,Software Engineer,6,Bachelor's,No,No,No,0
+3143,23,Female,Web Developer,7,Master's,No,No,Yes,229
+3144,23,Female,System Analyst,1,Bachelor's,No,Yes,No,0
+3145,32,Male,Software Engineer,8,Bachelor's,No,Yes,Yes,390
+3146,29,Female,Web Developer,8,PhD,No,No,Yes,838
+3147,24,Male,Software Engineer,7,Master's,Yes,Yes,Yes,578
+3148,25,Female,System Analyst,0,Master's,No,Yes,No,0
+3149,23,Male,Data Scientist,6,Bachelor's,Yes,Yes,No,0
+3150,31,Female,Web Developer,0,PhD,Yes,Yes,No,0
+3151,29,Female,Data Scientist,8,Master's,No,Yes,No,0
+3152,24,Male,Data Scientist,4,Master's,No,No,No,0
+3153,27,Female,Software Engineer,0,Bachelor's,Yes,Yes,No,0
+3154,25,Male,Web Developer,3,Bachelor's,No,Yes,No,0
+3155,29,Female,Data Scientist,10,Bachelor's,No,Yes,No,0
+3156,23,Female,Database Administrator,7,Bachelor's,No,Yes,Yes,687
+3157,26,Female,Database Administrator,7,PhD,No,Yes,No,0
+3158,23,Female,Web Developer,10,High School,No,No,Yes,704
+3159,30,Female,System Analyst,9,Master's,No,No,Yes,17
+3160,27,Male,Database Administrator,6,PhD,Yes,Yes,Yes,674
+3161,29,Male,Software Engineer,0,Bachelor's,No,No,Yes,281
+3162,23,Female,Web Developer,1,Master's,No,No,No,0
+3163,31,Female,Database Administrator,2,High School,No,Yes,Yes,330
+3164,28,Male,Software Engineer,7,Bachelor's,No,Yes,No,0
+3165,32,Female,Data Scientist,0,Bachelor's,No,Yes,Yes,57
+3166,25,Female,Web Developer,1,High School,Yes,No,Yes,390
+3167,25,Female,Database Administrator,5,PhD,No,No,Yes,317
+3168,29,Female,System Analyst,7,Bachelor's,No,Yes,No,0
+3169,32,Female,System Analyst,4,High School,No,Yes,No,0
+3170,25,Male,Database Administrator,2,PhD,Yes,No,Yes,309
+3171,27,Female,System Analyst,4,High School,No,Yes,Yes,772
+3172,25,Female,Web Developer,3,PhD,Yes,No,No,0
+3173,23,Female,Database Administrator,5,Master's,Yes,No,No,0
+3174,32,Male,Data Scientist,9,Bachelor's,No,No,No,0
+3175,27,Female,Web Developer,1,High School,No,Yes,Yes,389
+3176,27,Male,Software Engineer,4,Master's,No,No,No,0
+3177,30,Male,Database Administrator,4,High School,No,No,No,0
+3178,28,Male,Web Developer,4,PhD,Yes,No,No,0
+3179,32,Male,Web Developer,2,Bachelor's,No,No,No,0
+3180,27,Male,Database Administrator,1,Bachelor's,No,No,No,0
+3181,24,Female,System Analyst,9,Master's,No,Yes,Yes,394
+3182,22,Male,Software Engineer,8,PhD,No,No,No,0
+3183,23,Male,System Analyst,1,PhD,No,Yes,No,0
+3184,23,Male,Software Engineer,1,Bachelor's,No,No,No,0
+3185,23,Female,Data Scientist,0,High School,No,No,No,0
+3186,24,Male,Software Engineer,1,Bachelor's,Yes,No,Yes,575
+3187,32,Male,System Analyst,3,PhD,No,No,Yes,598
+3188,31,Female,Database Administrator,5,PhD,No,Yes,No,0
+3189,27,Male,Web Developer,7,Bachelor's,No,Yes,Yes,421
+3190,32,Female,Data Scientist,9,Master's,No,No,No,0
+3191,22,Male,Database Administrator,6,Bachelor's,Yes,No,No,0
+3192,23,Female,System Analyst,1,Master's,No,No,Yes,775
+3193,27,Male,Web Developer,3,Bachelor's,No,Yes,Yes,346
+3194,31,Female,Web Developer,7,High School,No,Yes,No,0
+3195,23,Male,System Analyst,8,Bachelor's,Yes,Yes,Yes,229
+3196,23,Female,Database Administrator,10,Master's,No,No,No,0
+3197,27,Male,System Analyst,1,Bachelor's,No,Yes,Yes,451
+3198,23,Male,Database Administrator,8,Master's,No,No,No,0
+3199,27,Female,Database Administrator,8,Bachelor's,No,Yes,Yes,554
+3200,22,Male,Software Engineer,6,Bachelor's,No,Yes,No,0
+3201,24,Female,Data Scientist,0,High School,No,Yes,No,0
+3202,32,Male,Data Scientist,6,PhD,No,No,No,0
+3203,29,Female,Software Engineer,6,Bachelor's,No,Yes,Yes,575
+3204,23,Male,Software Engineer,8,Bachelor's,No,No,No,0
+3205,31,Female,Software Engineer,0,PhD,Yes,No,No,0
+3206,24,Female,System Analyst,3,Master's,No,Yes,No,0
+3207,28,Male,Database Administrator,5,Bachelor's,No,No,No,0
+3208,24,Male,Software Engineer,9,High School,No,Yes,No,0
+3209,30,Female,Data Scientist,1,Bachelor's,No,Yes,No,0
+3210,26,Male,Data Scientist,9,High School,No,No,No,0
+3211,29,Male,Data Scientist,7,High School,No,Yes,Yes,948
+3212,30,Female,Software Engineer,2,PhD,Yes,Yes,No,0
+3213,29,Male,System Analyst,1,Master's,No,Yes,No,0
+3214,32,Female,Web Developer,8,PhD,No,No,Yes,189
+3215,24,Female,Data Scientist,10,PhD,Yes,Yes,No,0
+3216,23,Male,Web Developer,0,Master's,Yes,Yes,No,0
+3217,29,Male,Data Scientist,0,Master's,Yes,Yes,No,0
+3218,31,Male,Web Developer,1,Bachelor's,No,No,No,0
+3219,32,Female,System Analyst,3,Master's,Yes,No,No,0
+3220,22,Female,Software Engineer,1,Master's,No,No,Yes,556
+3221,30,Male,Database Administrator,0,Master's,No,Yes,Yes,572
+3222,24,Female,Software Engineer,7,Master's,Yes,Yes,Yes,465
+3223,27,Female,System Analyst,6,Master's,No,No,No,0
+3224,23,Male,Web Developer,9,Bachelor's,No,Yes,No,0
+3225,30,Female,Software Engineer,9,Master's,No,Yes,Yes,108
+3226,29,Male,Database Administrator,3,Master's,No,Yes,Yes,912
+3227,27,Male,System Analyst,2,PhD,No,No,No,0
+3228,25,Female,Database Administrator,7,Bachelor's,No,No,No,0
+3229,28,Female,Data Scientist,1,Bachelor's,Yes,No,No,0
+3230,27,Male,System Analyst,7,Master's,No,No,No,0
+3231,28,Female,Software Engineer,0,Master's,No,No,No,0
+3232,26,Female,Data Scientist,7,Bachelor's,Yes,Yes,No,0
+3233,28,Female,System Analyst,3,High School,No,No,No,0
+3234,29,Male,System Analyst,7,High School,No,No,No,0
+3235,30,Male,System Analyst,10,Bachelor's,No,No,No,0
+3236,22,Male,Data Scientist,6,PhD,No,Yes,No,0
+3237,30,Female,Web Developer,0,Bachelor's,No,Yes,No,0
+3238,30,Female,Data Scientist,5,Bachelor's,Yes,Yes,No,0
+3239,25,Female,Database Administrator,5,Master's,No,Yes,No,0
+3240,30,Male,Data Scientist,4,High School,Yes,No,Yes,279
+3241,32,Male,System Analyst,4,Bachelor's,No,Yes,Yes,459
+3242,32,Male,Software Engineer,4,Master's,No,No,No,0
+3243,24,Male,Software Engineer,1,PhD,No,Yes,Yes,773
+3244,32,Female,Data Scientist,10,PhD,No,Yes,Yes,591
+3245,22,Male,Web Developer,5,PhD,Yes,Yes,No,0
+3246,31,Female,Web Developer,1,PhD,No,Yes,No,0
+3247,30,Male,System Analyst,3,High School,No,Yes,No,0
+3248,25,Female,Software Engineer,8,PhD,No,Yes,No,0
+3249,31,Female,Software Engineer,0,PhD,Yes,Yes,Yes,239
+3250,28,Male,Web Developer,5,PhD,Yes,No,No,0
+3251,26,Female,Database Administrator,0,PhD,No,No,No,0
+3252,31,Male,Software Engineer,10,High School,Yes,No,No,0
+3253,26,Female,Database Administrator,9,Bachelor's,Yes,Yes,Yes,104
+3254,24,Male,Data Scientist,7,Bachelor's,No,No,No,0
+3255,22,Female,Web Developer,4,PhD,No,No,No,0
+3256,31,Female,Web Developer,3,Master's,No,No,No,0
+3257,29,Female,System Analyst,10,High School,Yes,No,Yes,295
+3258,22,Female,Database Administrator,5,Master's,No,Yes,No,0
+3259,30,Female,Web Developer,8,PhD,No,No,No,0
+3260,27,Female,Database Administrator,9,Master's,Yes,No,No,0
+3261,30,Female,Software Engineer,10,Master's,Yes,Yes,No,0
+3262,23,Male,Database Administrator,8,PhD,No,Yes,No,0
+3263,29,Female,Data Scientist,10,Bachelor's,No,No,Yes,3
+3264,29,Male,System Analyst,4,PhD,Yes,Yes,No,0
+3265,26,Male,Web Developer,3,Master's,Yes,Yes,Yes,622
+3266,27,Male,Database Administrator,10,PhD,Yes,Yes,Yes,542
+3267,31,Male,Database Administrator,4,Master's,No,No,No,0
+3268,27,Male,Data Scientist,6,Bachelor's,Yes,No,No,0
+3269,22,Male,Database Administrator,4,Master's,No,Yes,Yes,790
+3270,26,Male,Database Administrator,8,PhD,Yes,Yes,Yes,211
+3271,28,Female,Web Developer,9,Bachelor's,No,No,Yes,840
+3272,28,Male,System Analyst,8,Master's,Yes,Yes,Yes,999
+3273,32,Female,System Analyst,6,Bachelor's,No,No,No,0
+3274,22,Female,Software Engineer,8,Bachelor's,Yes,Yes,No,0
+3275,26,Male,System Analyst,3,High School,No,Yes,No,0
+3276,30,Male,Web Developer,4,High School,Yes,Yes,No,0
+3277,30,Female,Web Developer,9,PhD,No,Yes,No,0
+3278,32,Female,Database Administrator,9,Bachelor's,No,No,No,0
+3279,32,Female,Web Developer,10,High School,No,Yes,No,0
+3280,26,Female,System Analyst,10,High School,Yes,Yes,No,0
+3281,32,Male,Database Administrator,6,Bachelor's,No,No,No,0
+3282,26,Male,System Analyst,4,Bachelor's,No,Yes,No,0
+3283,29,Female,System Analyst,6,Master's,No,No,Yes,386
+3284,29,Female,System Analyst,7,Master's,No,Yes,Yes,521
+3285,22,Male,Software Engineer,2,High School,No,No,No,0
+3286,26,Male,Database Administrator,10,Bachelor's,No,No,Yes,675
+3287,27,Female,Software Engineer,8,PhD,No,Yes,Yes,242
+3288,31,Male,Web Developer,8,High School,Yes,No,Yes,312
+3289,24,Male,Software Engineer,3,PhD,No,No,Yes,810
+3290,29,Female,Data Scientist,7,PhD,No,Yes,Yes,619
+3291,31,Female,Database Administrator,4,Bachelor's,Yes,Yes,Yes,795
+3292,26,Male,System Analyst,0,PhD,No,No,No,0
+3293,22,Male,Web Developer,6,High School,No,Yes,Yes,342
+3294,27,Male,Database Administrator,5,Bachelor's,No,No,No,0
+3295,30,Male,Software Engineer,3,High School,Yes,No,No,0
+3296,31,Male,Data Scientist,2,Master's,No,Yes,No,0
+3297,22,Female,Database Administrator,2,Bachelor's,No,Yes,No,0
+3298,29,Male,Data Scientist,6,PhD,No,Yes,No,0
+3299,32,Male,Database Administrator,2,PhD,Yes,Yes,No,0
+3300,30,Female,Data Scientist,5,High School,No,Yes,Yes,136
+3301,30,Female,System Analyst,10,High School,No,No,No,0
+3302,27,Male,System Analyst,3,Bachelor's,No,Yes,Yes,571
+3303,23,Male,Web Developer,9,High School,No,Yes,Yes,941
+3304,29,Male,Data Scientist,1,High School,No,No,Yes,11
+3305,26,Female,Software Engineer,1,High School,No,No,No,0
+3306,30,Male,Database Administrator,6,PhD,No,Yes,No,0
+3307,28,Female,System Analyst,0,PhD,Yes,No,Yes,333
+3308,25,Male,Software Engineer,8,Bachelor's,No,Yes,No,0
+3309,28,Male,Software Engineer,4,High School,No,No,No,0
+3310,26,Female,Software Engineer,10,PhD,No,Yes,No,0
+3311,27,Female,Web Developer,5,Bachelor's,No,Yes,No,0
+3312,27,Male,Data Scientist,1,High School,No,No,Yes,154
+3313,26,Male,Database Administrator,9,High School,No,Yes,Yes,688
+3314,29,Female,Data Scientist,8,Master's,No,Yes,No,0
+3315,30,Female,Database Administrator,1,PhD,No,Yes,No,0
+3316,25,Female,System Analyst,8,Master's,No,Yes,No,0
+3317,26,Male,Data Scientist,6,High School,No,No,No,0
+3318,26,Female,System Analyst,4,Master's,No,No,No,0
+3319,23,Female,Database Administrator,10,High School,Yes,No,No,0
+3320,25,Female,Software Engineer,0,PhD,No,No,No,0
+3321,23,Male,Data Scientist,9,Bachelor's,Yes,Yes,No,0
+3322,24,Male,System Analyst,2,High School,Yes,Yes,No,0
+3323,30,Male,Web Developer,9,Bachelor's,No,Yes,No,0
+3324,24,Male,Database Administrator,1,High School,No,Yes,No,0
+3325,32,Female,System Analyst,4,PhD,No,Yes,Yes,861
+3326,28,Female,Database Administrator,7,Bachelor's,No,No,No,0
+3327,24,Female,Database Administrator,10,High School,No,Yes,No,0
+3328,26,Female,System Analyst,9,Bachelor's,No,Yes,No,0
+3329,30,Male,Software Engineer,5,Bachelor's,No,No,No,0
+3330,26,Male,Database Administrator,1,Master's,No,Yes,No,0
+3331,24,Female,System Analyst,3,Master's,Yes,No,Yes,678
+3332,31,Male,Software Engineer,3,PhD,No,No,No,0
+3333,27,Male,Database Administrator,10,Master's,Yes,Yes,No,0
+3334,30,Male,Software Engineer,5,Bachelor's,No,Yes,No,0
+3335,30,Male,Database Administrator,0,High School,Yes,No,No,0
+3336,29,Female,Software Engineer,1,Bachelor's,No,No,No,0
+3337,24,Female,Data Scientist,4,High School,No,Yes,No,0
+3338,24,Female,Web Developer,1,PhD,No,Yes,No,0
+3339,27,Male,Software Engineer,3,Bachelor's,Yes,Yes,No,0
+3340,29,Male,Software Engineer,8,Bachelor's,No,Yes,Yes,408
+3341,27,Male,Software Engineer,7,High School,No,No,No,0
+3342,28,Male,Database Administrator,6,High School,No,No,Yes,453
+3343,29,Female,Database Administrator,5,Bachelor's,No,No,No,0
+3344,25,Female,System Analyst,5,Bachelor's,No,No,No,0
+3345,32,Female,Data Scientist,9,PhD,No,Yes,No,0
+3346,25,Female,System Analyst,4,High School,No,Yes,No,0
+3347,22,Male,Web Developer,3,PhD,No,No,Yes,926
+3348,23,Male,Software Engineer,2,High School,No,No,Yes,208
+3349,27,Female,Data Scientist,10,Bachelor's,Yes,No,No,0
+3350,27,Female,System Analyst,5,Bachelor's,No,No,No,0
+3351,23,Female,Software Engineer,9,Bachelor's,No,Yes,No,0
+3352,23,Female,Software Engineer,10,Master's,No,No,Yes,797
+3353,26,Female,Software Engineer,9,High School,Yes,No,No,0
+3354,31,Female,Web Developer,1,PhD,Yes,Yes,No,0
+3355,29,Male,System Analyst,7,PhD,Yes,No,Yes,329
+3356,29,Male,Data Scientist,1,Master's,No,Yes,No,0
+3357,32,Female,Web Developer,6,High School,No,Yes,Yes,598
+3358,25,Male,Web Developer,10,Bachelor's,Yes,Yes,No,0
+3359,31,Female,Software Engineer,7,Master's,No,No,No,0
+3360,31,Male,Data Scientist,7,High School,No,No,Yes,166
+3361,28,Female,System Analyst,10,PhD,No,Yes,No,0
+3362,30,Male,Web Developer,3,High School,No,Yes,No,0
+3363,28,Male,Web Developer,9,High School,No,Yes,Yes,188
+3364,32,Female,Software Engineer,8,Master's,No,No,No,0
+3365,23,Female,Database Administrator,7,Bachelor's,No,Yes,No,0
+3366,25,Female,Database Administrator,9,PhD,Yes,No,No,0
+3367,30,Female,Data Scientist,7,Master's,No,Yes,No,0
+3368,23,Male,Web Developer,9,Bachelor's,No,Yes,Yes,700
+3369,28,Female,System Analyst,5,Master's,No,Yes,Yes,750
+3370,22,Male,Software Engineer,4,Master's,Yes,No,Yes,3
+3371,25,Male,Database Administrator,4,Bachelor's,No,No,No,0
+3372,23,Female,System Analyst,4,High School,No,No,No,0
+3373,29,Female,Data Scientist,1,Master's,No,No,Yes,168
+3374,25,Female,System Analyst,2,Bachelor's,No,Yes,No,0
+3375,25,Female,System Analyst,3,Master's,No,Yes,No,0
+3376,30,Male,Software Engineer,10,Master's,Yes,Yes,No,0
+3377,32,Female,Software Engineer,9,PhD,Yes,No,Yes,736
+3378,25,Male,Data Scientist,10,Bachelor's,No,No,No,0
+3379,22,Male,Software Engineer,4,High School,Yes,No,No,0
+3380,24,Female,Database Administrator,4,High School,No,Yes,No,0
+3381,30,Male,Database Administrator,9,PhD,No,Yes,No,0
+3382,28,Female,Data Scientist,7,High School,Yes,No,Yes,175
+3383,28,Female,System Analyst,7,PhD,Yes,No,No,0
+3384,30,Male,Data Scientist,6,Bachelor's,Yes,Yes,Yes,933
+3385,31,Female,Web Developer,7,Bachelor's,No,No,No,0
+3386,26,Male,System Analyst,5,Master's,Yes,Yes,Yes,52
+3387,23,Female,Software Engineer,6,Bachelor's,No,Yes,No,0
+3388,25,Female,System Analyst,6,Master's,Yes,No,No,0
+3389,22,Female,Database Administrator,5,Bachelor's,No,No,Yes,774
+3390,26,Female,System Analyst,6,Bachelor's,No,Yes,No,0
+3391,22,Male,System Analyst,9,PhD,No,No,Yes,577
+3392,31,Male,Database Administrator,0,Master's,No,Yes,Yes,356
+3393,27,Male,Data Scientist,8,High School,No,No,No,0
+3394,24,Male,Data Scientist,10,PhD,No,Yes,Yes,658
+3395,22,Female,Web Developer,10,PhD,No,No,No,0
+3396,29,Male,Software Engineer,8,High School,No,Yes,No,0
+3397,25,Male,Data Scientist,5,Bachelor's,No,No,No,0
+3398,24,Male,Software Engineer,0,Master's,Yes,Yes,No,0
+3399,22,Female,System Analyst,5,High School,No,No,No,0
+3400,22,Female,System Analyst,5,PhD,Yes,Yes,Yes,228
+3401,26,Female,Software Engineer,6,Master's,Yes,Yes,No,0
+3402,29,Male,Database Administrator,0,Master's,No,No,No,0
+3403,22,Male,Database Administrator,7,Bachelor's,Yes,Yes,No,0
+3404,31,Male,Software Engineer,2,Master's,Yes,Yes,No,0
+3405,22,Male,Data Scientist,5,High School,No,Yes,No,0
+3406,28,Male,System Analyst,2,PhD,No,Yes,No,0
+3407,25,Female,Web Developer,6,High School,No,No,No,0
+3408,28,Female,System Analyst,10,PhD,Yes,No,No,0
+3409,22,Male,Software Engineer,3,Master's,No,No,No,0
+3410,31,Male,Web Developer,10,Master's,No,Yes,Yes,57
+3411,23,Male,Data Scientist,0,Bachelor's,Yes,Yes,Yes,417
+3412,24,Male,System Analyst,7,Master's,No,Yes,No,0
+3413,22,Male,Data Scientist,4,High School,Yes,Yes,No,0
+3414,24,Female,Database Administrator,7,PhD,No,No,Yes,499
+3415,31,Male,Data Scientist,1,Bachelor's,No,Yes,Yes,99
+3416,31,Male,System Analyst,1,High School,No,No,No,0
+3417,24,Female,Web Developer,1,PhD,No,Yes,No,0
+3418,27,Male,Web Developer,2,Master's,No,Yes,No,0
+3419,23,Male,Software Engineer,8,Master's,No,Yes,No,0
+3420,26,Male,Data Scientist,8,Bachelor's,No,Yes,No,0
+3421,32,Female,Web Developer,8,PhD,No,Yes,No,0
+3422,30,Female,Web Developer,2,Bachelor's,No,No,No,0
+3423,23,Male,System Analyst,9,Master's,No,No,No,0
+3424,31,Male,Database Administrator,4,High School,No,No,No,0
+3425,32,Female,Web Developer,6,Bachelor's,No,No,No,0
+3426,24,Male,Web Developer,0,Master's,No,No,No,0
+3427,29,Male,Database Administrator,0,Master's,Yes,Yes,No,0
+3428,29,Male,Web Developer,0,Master's,No,No,Yes,875
+3429,29,Female,Data Scientist,2,Master's,No,Yes,No,0
+3430,25,Male,Database Administrator,8,PhD,No,No,Yes,180
+3431,31,Male,Software Engineer,7,High School,No,Yes,No,0
+3432,25,Female,Database Administrator,1,Master's,No,Yes,No,0
+3433,31,Male,Web Developer,4,High School,Yes,No,No,0
+3434,31,Male,Web Developer,1,Bachelor's,No,Yes,No,0
+3435,26,Female,System Analyst,1,Master's,No,No,No,0
+3436,22,Female,System Analyst,7,High School,Yes,Yes,No,0
+3437,28,Male,Data Scientist,7,Master's,No,Yes,Yes,21
+3438,32,Male,System Analyst,10,PhD,Yes,No,No,0
+3439,22,Female,Software Engineer,6,PhD,No,No,Yes,788
+3440,30,Male,Database Administrator,7,Master's,No,Yes,No,0
+3441,31,Male,Software Engineer,7,PhD,No,Yes,No,0
+3442,25,Male,Software Engineer,4,Master's,No,Yes,No,0
+3443,32,Female,Software Engineer,6,High School,Yes,Yes,No,0
+3444,28,Female,Data Scientist,8,Master's,No,No,No,0
+3445,25,Male,Web Developer,1,Master's,No,No,No,0
+3446,27,Male,Data Scientist,8,Master's,No,No,No,0
+3447,29,Male,System Analyst,6,Bachelor's,No,Yes,No,0
+3448,31,Female,System Analyst,7,PhD,No,Yes,No,0
+3449,22,Male,Database Administrator,3,Bachelor's,No,No,No,0
+3450,30,Female,Web Developer,2,Master's,No,No,No,0
+3451,31,Female,Database Administrator,6,Master's,No,No,Yes,475
+3452,24,Male,Software Engineer,10,High School,No,Yes,No,0
+3453,28,Male,System Analyst,10,High School,No,No,No,0
+3454,26,Female,System Analyst,4,PhD,No,Yes,No,0
+3455,32,Male,Data Scientist,1,High School,No,Yes,No,0
+3456,31,Female,Database Administrator,10,Master's,No,Yes,Yes,196
+3457,24,Female,Database Administrator,8,High School,No,Yes,No,0
+3458,30,Female,Database Administrator,3,Bachelor's,No,No,No,0
+3459,22,Male,System Analyst,9,PhD,No,No,No,0
+3460,31,Male,Software Engineer,0,Master's,No,No,No,0
+3461,22,Female,Database Administrator,5,PhD,No,Yes,Yes,675
+3462,26,Male,Software Engineer,2,PhD,No,No,Yes,198
+3463,24,Female,Database Administrator,4,High School,No,No,No,0
+3464,26,Male,Software Engineer,6,High School,No,No,Yes,427
+3465,28,Female,Web Developer,5,Bachelor's,Yes,Yes,No,0
+3466,29,Female,Web Developer,3,High School,No,Yes,No,0
+3467,32,Female,Software Engineer,8,High School,No,Yes,Yes,581
+3468,28,Female,System Analyst,0,High School,No,No,Yes,989
+3469,29,Male,Web Developer,6,Master's,No,Yes,No,0
+3470,25,Female,System Analyst,2,High School,No,No,No,0
+3471,27,Male,Database Administrator,10,High School,No,No,Yes,920
+3472,24,Female,System Analyst,4,High School,No,No,Yes,646
+3473,25,Male,System Analyst,10,Bachelor's,No,No,No,0
+3474,30,Male,Web Developer,8,Master's,No,Yes,No,0
+3475,30,Male,System Analyst,7,Master's,No,Yes,No,0
+3476,25,Male,System Analyst,9,Bachelor's,No,Yes,No,0
+3477,27,Female,Web Developer,4,High School,Yes,Yes,Yes,120
+3478,31,Female,Database Administrator,1,Bachelor's,No,No,Yes,559
+3479,23,Female,Data Scientist,3,Master's,No,Yes,No,0
+3480,27,Female,Software Engineer,5,PhD,No,Yes,Yes,908
+3481,32,Male,Web Developer,4,Master's,No,Yes,Yes,245
+3482,30,Male,Software Engineer,7,Master's,Yes,No,No,0
+3483,32,Female,System Analyst,8,Master's,No,No,No,0
+3484,26,Male,Web Developer,1,Master's,No,Yes,Yes,363
+3485,27,Female,Database Administrator,4,High School,Yes,Yes,No,0
+3486,30,Female,Software Engineer,4,High School,No,No,No,0
+3487,27,Male,System Analyst,9,PhD,No,Yes,Yes,727
+3488,32,Male,Software Engineer,3,Bachelor's,No,Yes,No,0
+3489,28,Male,Database Administrator,1,Bachelor's,No,No,No,0
+3490,25,Male,Web Developer,1,PhD,No,No,No,0
+3491,26,Female,Software Engineer,7,Master's,Yes,Yes,No,0
+3492,25,Male,Software Engineer,10,PhD,No,No,No,0
+3493,22,Male,System Analyst,6,PhD,No,No,No,0
+3494,32,Female,Software Engineer,1,High School,No,No,Yes,959
+3495,29,Male,Software Engineer,9,Master's,Yes,No,No,0
+3496,26,Male,Web Developer,3,High School,No,Yes,No,0
+3497,30,Male,System Analyst,10,Master's,No,No,No,0
+3498,27,Female,System Analyst,10,High School,No,Yes,No,0
+3499,30,Male,System Analyst,5,High School,No,Yes,No,0
+3500,30,Female,Data Scientist,9,High School,Yes,No,No,0
