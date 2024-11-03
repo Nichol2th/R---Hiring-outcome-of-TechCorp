@@ -7,11 +7,11 @@ TechCorp faces the increasing competition for top-tier talent in the tech indust
 
 ### Data source:
 
-`Candidate Interview and Hiring`: provides candidate’s information such as age, gender, and communication skill level, cultural fit, preferred work environment.
+[`Candidate Interview and Hiring`](https://github.com/Nichol2th/R---Hiring-outcome-of-TechCorp/blob/main/CandidateInterviewandHiring.csv): provides candidate’s information such as age, gender, and communication skill level, cultural fit, preferred work environment.
 
-`Candidate Personal Data`: provides candidate personal data such as role, years of experience, education level, graduate from elite college.
+[`Candidate Personal Data`](https://github.com/Nichol2th/R---Hiring-outcome-of-TechCorp/blob/main/CandidatePersonalData.csv): provides candidate personal data such as role, years of experience, education level, graduate from elite college.
 
-`Candidate Technical Scores`: provides candidate technical test score such as python, java, machine learning, etc and GitHub profile.
+[`Candidate Technical Scores`](https://github.com/Nichol2th/R---Hiring-outcome-of-TechCorp/blob/main/CandidateTechicalScores.csv): provides candidate technical test score such as python, java, machine learning, etc and GitHub profile.
 
 ### Goal of this project:
 
