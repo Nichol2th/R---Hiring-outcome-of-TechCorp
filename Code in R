@@ -1,0 +1,156 @@
+library(tidyverse)
+library(janitor)
+
+
+# Load csv file
+interview_hiring <- read.csv("/cloud/project/Datasets/CandidateInterviewandHiring.csv")
+
+personal_data <- read.csv("/cloud/project/Datasets/CandidatePersonalData.csv")
+
+technical_scores <- read.csv("/cloud/project/Datasets/CandidateTechicalScores.csv")
+
+# first table of join is from 2 table interview_hiring and perosonal_data, by candidate.id
+two_table <- interview_hiring %>%
+  left_join(personal_data, by = "Candidate.ID") 
+
+# second table of join - all_table is join the first join table background with the third table technical_score, so we can have all three joined table by candidate.id
+
+
+all_table <- two_table %>%
+  left_join(technical_scores, by = "Candidate.ID") 
+
+# Filter hired candidate from all_table
+hired_candidates <- all_table %>%
+  filter(Hired == "Yes")
+
+
+
+Data summary & Visualize
+# Table 1: Summary statistics showing the relationship between graduating from elite college, education level and hiring outcome. Summary table show the average & median years of experience, average technical and interview score of candidates. 
+
+summarise_background <- all_table %>%
+  group_by(Hired, Graduated.from.Elite.College,Education.Level) %>%
+  summarise(avg_year = mean(Years.of.Experience),
+            median_experience = median(Years.of.Experience),
+            count = n(),
+            avg_technical_score = mean(Technical.Test.Score),
+            avg_interview_score = mean(Interview.Score))
+
+
+
+# Figure 1. Hiring outcome by education level and graduated from elite college.Bars show different of hiring outcomes if candidate graduated from elite college.
+
+ggplot(all_table, aes(x = Education.Level, fill = Hired)) +
+  geom_bar(position = "dodge") +
+  labs(title = "Hiring Outcomes by Education Level",
+       x = "Education Level", y = "Count of Candidates") +
+  facet_wrap(~ Graduated.from.Elite.College) +theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+
+
+
+# Figure 2: Technical test score & Interview Score by hiring status Violin of technical test score vs Interview score. show the relationship of those two, and if it related to the hiring outcomes.
+ 
+ggplot(all_table, aes(x = Technical.Test.Score, y = Interview.Score, fill = Hired)) +
+  geom_violin() +
+  labs(title = "Violin of Technical Test Score Faceted by Interview Score",
+       x = "Technical Test Score", y = "Interview Score") 
+
+
+
+
+# Table all_skill_score have all technical test score, to see each specific technical score that a hired candidate and their roles. 
+
+all_skill_score <- hired_candidates %>%
+  group_by(Position.Applied.For) %>%
+  pivot_longer(cols = c(Python.Skill.Score,Java.Skill.Score, SQL.Skill.Score, R.Skill.Score, Machine.Learning.Skill.Score, HTML.Skill.Score, CSS.Skill.Score, JavaScript.Skill.Score),
+      names_to = "Skill", values_to = "Score") %>%
+  select(Candidate.ID, Position.Applied.For, Skill, Score)
+
+all_skill_score
+
+
+# Table 3: summary the average each skill of technical score group by position applied for. 
+avg_score <- all_skill_score %>%
+  group_by(Position.Applied.For, Skill) %>%
+   summarise(avg_score = mean(Score)) 
+
+
+
+# Figure 3. Top 3 of the average of each skill based on the role. 
+
+ggplot(avg_score, aes(x = Position.Applied.For, y = avg_score, color = Skill)) +
+  geom_point(size = 3, position = position_dodge(width = 0.5)) +
+  labs(
+    title = "Average Technical Skill Scores by Position Applied For",
+    x = "Position Applied For",
+    y = "Average Skill Score",
+    color = "Technical Skill"
+  ) +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+
+
+# Table 4: Summary statistics of communication skills and hiring outcomes.Summary of communication skill levels of candidates who are hired. 
+
+tabyl(all_table, Hired,
+      Communication.Skill.Level)
+
+
+
+# Figure 4: communication skills and hiring outcomes. (Bars show the amount of candidates who are hired or not based on their communication level)
+
+ggplot(all_table, aes(y = Communication.Skill.Level, fill = Hired)) +
+geom_bar(position = "fill") +
+ylab("Communication Level") +
+xlab("Proportion of Candidates") +
+labs(title = "Communication level of Candidates") +
+theme(axis.text.x = element_text(angle = 0, hjust = 1))
+
+
+
+# Table 5: Summary statistics of Candidates use digital presence profile. Summary of digital presence, show all candidates if they are hired, if they have linked profile or github profile. 
+
+digital_presence_summary <- hired_candidates %>%
+  count(LinkedIn.Profile, GitHub.Profile, Hired) %>%
+  arrange(desc(n))
+
+digital_presence_summary
+
+
+
+#Age group table, group by age and count the hired to visualize figure.6.
+
+age_group <- hired_candidates %>%
+  group_by(Age) %>%
+  summarise(count = n())
+# Figure 6. Visualize bar of age by hiring outcome. 
+
+ggplot(age_group, aes(x = Age, y = count)) +
+  geom_bar(stat = "identity", fill = "lightblue")+  # Stacked bar chart
+  labs(title = "Hiring Outcomes by Age",
+       x = "Age",
+       y = "Hired Candidates")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
